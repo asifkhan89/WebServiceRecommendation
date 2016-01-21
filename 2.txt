@@ -1,0 +1,182 @@
+DocName: http://www.utn.edu.ar/WebServices/WSAcademico.asmx?WSDL
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.utn.edu.ar/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetnamespace="http://www.utn.edu.ar/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"> 
+ <wsdl:types> 
+  <s:schema elementformdefault="qualified" targetnamespace="http://www.utn.edu.ar/"> 
+   <s:element name="GetListadoSedes"> 
+    <s:complextype /> 
+   </s:element> 
+   <s:element name="GetListadoSedesResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="GetListadoSedesResult" type="tns:ArrayOfSede" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:complextype name="ArrayOfSede"> 
+    <s:sequence> 
+     <s:element minoccurs="0" maxoccurs="unbounded" name="Sede" nillable="true" type="tns:Sede" /> 
+    </s:sequence> 
+   </s:complextype> 
+   <s:complextype name="Sede"> 
+    <s:sequence> 
+     <s:element minoccurs="1" maxoccurs="1" name="id_sede" type="s:int" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="nombre_corto" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="nombre_largo" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="telefono" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="direccion" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="url" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="mail" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="descripcion" type="s:string" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="nombre_responsable" type="s:string" /> 
+     <s:element minoccurs="1" maxoccurs="1" name="id_tipo_sede" type="s:int" /> 
+    </s:sequence> 
+   </s:complextype> 
+   <s:element name="GetListadoCarreras"> 
+    <s:complextype /> 
+   </s:element> 
+   <s:element name="GetListadoCarrerasResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="GetListadoCarrerasResult" type="tns:ArrayOfCarrera" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:complextype name="ArrayOfCarrera"> 
+    <s:sequence> 
+     <s:element minoccurs="0" maxoccurs="unbounded" name="Carrera" nillable="true" type="tns:Carrera" /> 
+    </s:sequence> 
+   </s:complextype> 
+   <s:complextype name="Carrera"> 
+    <s:sequence> 
+     <s:element minoccurs="1" maxoccurs="1" name="idCarrera" type="s:int" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="nombreCarrera" type="s:string" /> 
+    </s:sequence> 
+   </s:complextype> 
+   <s:element name="GetListadoMateriasEnCarreras"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="1" maxoccurs="1" name="idCarrera" type="s:int" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="GetListadoMateriasEnCarrerasResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="GetListadoMateriasEnCarrerasResult" type="tns:ArrayOfMateria" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:complextype name="ArrayOfMateria"> 
+    <s:sequence> 
+     <s:element minoccurs="0" maxoccurs="unbounded" name="Materia" nillable="true" type="tns:Materia" /> 
+    </s:sequence> 
+   </s:complextype> 
+   <s:complextype name="Materia"> 
+    <s:sequence> 
+     <s:element minoccurs="1" maxoccurs="1" name="idMateria" type="s:int" /> 
+     <s:element minoccurs="0" maxoccurs="1" name="nombreMateria" type="s:string" /> 
+    </s:sequence> 
+   </s:complextype> 
+  </s:schema> 
+ </wsdl:types> 
+ <wsdl:message name="GetListadoSedesSoapIn"> 
+  <wsdl:part name="parameters" element="tns:GetListadoSedes" /> 
+ </wsdl:message> 
+ <wsdl:message name="GetListadoSedesSoapOut"> 
+  <wsdl:part name="parameters" element="tns:GetListadoSedesResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="GetListadoCarrerasSoapIn"> 
+  <wsdl:part name="parameters" element="tns:GetListadoCarreras" /> 
+ </wsdl:message> 
+ <wsdl:message name="GetListadoCarrerasSoapOut"> 
+  <wsdl:part name="parameters" element="tns:GetListadoCarrerasResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="GetListadoMateriasEnCarrerasSoapIn"> 
+  <wsdl:part name="parameters" element="tns:GetListadoMateriasEnCarreras" /> 
+ </wsdl:message> 
+ <wsdl:message name="GetListadoMateriasEnCarrerasSoapOut"> 
+  <wsdl:part name="parameters" element="tns:GetListadoMateriasEnCarrerasResponse" /> 
+ </wsdl:message> 
+ <wsdl:porttype name="WSAcademicoSoap"> 
+  <wsdl:operation name="GetListadoSedes"> 
+   <wsdl:input message="tns:GetListadoSedesSoapIn" /> 
+   <wsdl:output message="tns:GetListadoSedesSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="GetListadoCarreras"> 
+   <wsdl:input message="tns:GetListadoCarrerasSoapIn" /> 
+   <wsdl:output message="tns:GetListadoCarrerasSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="GetListadoMateriasEnCarreras"> 
+   <wsdl:input message="tns:GetListadoMateriasEnCarrerasSoapIn" /> 
+   <wsdl:output message="tns:GetListadoMateriasEnCarrerasSoapOut" /> 
+  </wsdl:operation> 
+ </wsdl:porttype> 
+ <wsdl:binding name="WSAcademicoSoap" type="tns:WSAcademicoSoap"> 
+  <soap:binding transport="http://schemas.xmlsoap.org/soap/http" /> 
+  <wsdl:operation name="GetListadoSedes"> 
+   <soap:operation soapaction="http://www.utn.edu.ar/GetListadoSedes" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="GetListadoCarreras"> 
+   <soap:operation soapaction="http://www.utn.edu.ar/GetListadoCarreras" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="GetListadoMateriasEnCarreras"> 
+   <soap:operation soapaction="http://www.utn.edu.ar/GetListadoMateriasEnCarreras" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:binding name="WSAcademicoSoap12" type="tns:WSAcademicoSoap"> 
+  <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" /> 
+  <wsdl:operation name="GetListadoSedes"> 
+   <soap12:operation soapaction="http://www.utn.edu.ar/GetListadoSedes" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="GetListadoCarreras"> 
+   <soap12:operation soapaction="http://www.utn.edu.ar/GetListadoCarreras" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="GetListadoMateriasEnCarreras"> 
+   <soap12:operation soapaction="http://www.utn.edu.ar/GetListadoMateriasEnCarreras" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:service name="WSAcademico"> 
+  <wsdl:port name="WSAcademicoSoap" binding="tns:WSAcademicoSoap"> 
+   <soap:address location="http://www.utn.edu.ar/WebServices/WSAcademico.asmx" /> 
+  </wsdl:port> 
+  <wsdl:port name="WSAcademicoSoap12" binding="tns:WSAcademicoSoap12"> 
+   <soap12:address location="http://www.utn.edu.ar/WebServices/WSAcademico.asmx" /> 
+  </wsdl:port> 
+ </wsdl:service> 
+</wsdl:definitions> 

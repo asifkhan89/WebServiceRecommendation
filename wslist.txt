@@ -1,0 +1,1621 @@
+4204	http://www.xmlforasp.net/CodeBank/WebServices/WSBehavior/WebServices/CustomersWS.asmx?WSDL	xmlforasp.net	United States
+4205	http://community.3hive.com/WebService/ContentActionService.asmx?WSDL	3hive.com	United States
+4206	http://www.addictedtorock.com/WebService/ContentJumpService.asmx?WSDL	addictedtorock.com	United States
+4207	http://www.addictedtorock.com/WebService/ShareMessageService.asmx?WSDL	addictedtorock.com	United States
+4208	http://www.addictedtorock.com/WebService/ContentActionService.asmx?WSDL	addictedtorock.com	United States
+4209	http://wd.air-trak.com/ATFLEETMANAGER/ATFM.asmx?WSDL	air-trak.com	United States
+4210	http://wd.air-trak.com/atmessagingws/atmessaging.asmx?WSDL	air-trak.com	United States
+4211	http://wd.air-trak.com/ATGEODATAWS/GEODATASERVICE.asmx?WSDL	air-trak.com	United States
+4212	http://www.allstate.com/tools/DNA/recommendationservice_english.asmx?WSDL	allstate.com	United States
+4213	http://bioinformatics.anl.gov/ws/regexsearch.asmx?WSDL	anl.gov	United States
+4214	http://bioinformatics.anl.gov/ws/protseq.asmx?wsdl	anl.gov	United States
+4215	http://bioinformatics.anl.gov/ws/sha1.asmx?wsdl	anl.gov	United States
+4216	http://community.artsucks.com/WebService/ContentJumpService.asmx?WSDL	artsucks.com	United States
+4217	http://community.artsucks.com/WebService/ShareMessageService.asmx?WSDL	artsucks.com	United States
+4218	http://community.artsucks.com/WebService/ContentActionService.asmx?WSDL	artsucks.com	United States
+4219	http://associated.org/ComponentService.asmx?WSDL	associated.org	United States
+4220	http://asyncpostback.com/CityLocations.asmx?WSDL	asyncpostback.com	United States
+4221	http://asyncpostback.com/WeatherService.asmx?WSDL	asyncpostback.com	United States
+4222	http://asyncpostback.com/CustomerService.asmx?WSDL	asyncpostback.com	United States
+4223	http://community.ateaseweb.com/WebService/ContentJumpService.asmx?WSDL	ateaseweb.com	United States
+4224	http://community.ateaseweb.com/WebService/ContentActionService.asmx?WSDL	ateaseweb.com	United States
+4225	http://community.ateaseweb.com/WebService/ShareMessageService.asmx?WSDL	ateaseweb.com	United States
+4226	http://www.bases4you.com/wscep.php?wsdl	bases4you.com	United States
+4227	http://www.bases4you.com/wsbases4you.php?wsdl	bases4you.com	United States
+4228	http://www.biodiversityhotspots.org/CarbonWebService/SharePointService.asmx?WSDL	biodiversityhotspots.org	United States
+4229	http://www.bjela.org/admin/Calendar2/CalendarEventWebService.asmx?WSDL	bjela.org	United States
+4230	http://community.blender.com/WebService/ContentJumpService.asmx?WSDL	blender.com	United States
+4231	http://community.blender.com/WebService/ShareMessageService.asmx?WSDL	blender.com	United States
+4232	http://bliimports.net/_vti_bin/SharepointEmailWS.asmx?wsdl	bliimports.net	United States
+4233	http://ws.bmwusa.com/bmwusaservices/RTTIMap.asmx?WSDL	bmwusa.com	United States
+4234	http://ws.bmwusa.com/bmwusaservices/Vehicles.asmx?WSDL	bmwusa.com	United States
+4235	http://ws.bmwusa.com/bmwusaservices/navigation.asmx?WSDL	bmwusa.com	United States
+4236	http://www.buckylasekskate.com/WebService/ContentJumpService.asmx?WSDL	buckylasekskate.com	United States
+4237	http://www.buckylasekskate.com/WebService/ShareMessageService.asmx?WSDL	buckylasekskate.com	United States
+4238	http://www.buckylasekskate.com/WebService/ContentActionService.asmx?WSDL	buckylasekskate.com	United States
+4239	http://biowulf.bu.edu/zlab/promoser/promoser.wsdl	bu.edu	United States
+4240	http://www.cadiaonline.com/WebService/ContentJumpService.asmx?WSDL	cadiaonline.com	United States
+4241	http://www.cadiaonline.com/WebService/ShareMessageService.asmx?WSDL	cadiaonline.com	United States
+4242	http://www.cadiaonline.com/WebService/ContentActionService.asmx?WSDL	cadiaonline.com	United States
+4243	http://www.chadreedracing.com/WebService/ShareMessageService.asmx?WSDL	chadreedracing.com	United States
+4244	http://www.chadreedracing.com/WebService/ContentJumpService.asmx?WSDL	chadreedracing.com	United States
+4245	http://www.chadreedracing.com/WebService/ContentActionService.asmx?WSDL	chadreedracing.com	United States
+4246	http://www.daddyyankeecustom.com/WebService/ContentJumpService.asmx?WSDL	daddyyankeecustom.com	United States
+4247	http://www.daddyyankeecustom.com/WebService/ShareMessageService.asmx?WSDL	daddyyankeecustom.com	United States
+4248	http://www.daddyyankeecustom.com/WebService/ContentActionService.asmx?WSDL	daddyyankeecustom.com	United States
+4249	http://services.datafrenzy.com/gadball/affiliates.asmx?WSDL	datafrenzy.com	United States
+4250	http://ram.datafrenzy.com/webservices/api.asmx?WSDL	datafrenzy.com	United States
+4251	http://jobpost.datafrenzy.com/webservices/admin.asmx?WSDL	datafrenzy.com	United States
+4252	http://www.davemirra.com/WebService/ContentJumpService.asmx?WSDL	davemirra.com	United States
+4253	http://www.davemirra.com/WebService/ShareMessageService.asmx?WSDL	davemirra.com	United States
+4254	http://www.davemirra.com/WebService/ContentActionService.asmx?WSDL	davemirra.com	United States
+4255	http://webservices.dotnethell.it/WSContents.asmx?WSDL	dotnethell.it	United States
+4256	http://webservices.dotnethell.it/WSContents.asmx?wsdl	dotnethell.it	United States
+4257	http://community.doubleviking.com/WebService/ContentJumpService.asmx?WSDL	doubleviking.com	United States
+4258	http://community.doubleviking.com/WebService/ShareMessageService.asmx?WSDL	doubleviking.com	United States
+4259	http://community.doubleviking.com/WebService/ContentActionService.asmx?WSDL	doubleviking.com	United States
+4260	http://nfsps.eamobile.com/nfsps-mobile/services/Version?wsdl	eamobile.com	United States
+4261	http://nfsps.eamobile.com/nfsps-mobile/services/PasscodeRequestSvc?wsdl	eamobile.com	United States
+4262	http://www.eddiewall.com/WebService/ContentJumpService.asmx?WSDL	eddiewall.com	United States
+4263	http://www.eddiewall.com/WebService/ContentActionService.asmx?WSDL	eddiewall.com	United States
+4264	http://www.eddiewall.com/WebService/ShareMessageService.asmx?WSDL	eddiewall.com	United States
+4265	http://community.egotastic.com/WebService/ContentJumpService.asmx?WSDL	egotastic.com	United States
+4266	http://community.egotastic.com/WebService/ContentActionService.asmx?WSDL	egotastic.com	United States
+4267	http://community.egotastic.com/WebService/ShareMessageService.asmx?WSDL	egotastic.com	United States
+4268	http://www.entityspaces.net/webservices/csharp/ES_Binary.asmx?WSDL	entityspaces.net	United States
+4269	http://www.entityspaces.net/webservices/csharp/ES_XmlProxy.asmx?WSDL	entityspaces.net	United States
+4270	http://community.esmeeworld.com/WebService/ContentJumpService.asmx?WSDL	esmeeworld.com	United States
+4271	http://community.esmeeworld.com/WebService/ShareMessageService.asmx?WSDL	esmeeworld.com	United States
+4272	http://community.esmeeworld.com/WebService/ContentActionService.asmx?WSDL	esmeeworld.com	United States
+4273	http://www.e-travelsolution.com/xml/xmlPostReceiver1-0.asmx?wsdl	e-travelsolution.com	United States
+4274	http://community.fashiontribes.com/WebService/ContentJumpService.asmx?WSDL	fashiontribes.com	United States
+4275	http://community.fashiontribes.com/WebService/ContentActionService.asmx?WSDL	fashiontribes.com	United States
+4276	http://community.fashiontribes.com/WebService/ShareMessageService.asmx?WSDL	fashiontribes.com	United States
+4277	http://www.flux.com/WebService/ContentJumpService.asmx?WSDL	flux.com	United States
+4278	http://www.flux.com/WebService/ContentActionService.asmx?WSDL	flux.com	United States
+4279	http://www.flux.com/WebService/ShareMessageService.asmx?WSDL	flux.com	United States
+4280	http://ws.fotolog.com/api/services/Version?wsdl	fotolog.com	United States
+4281	http://community.girliciousmusic.com/WebService/ContentJumpService.asmx?WSDL	girliciousmusic.com	United States
+4282	http://community.girliciousmusic.com/WebService/ShareMessageService.asmx?WSDL	girliciousmusic.com	United States
+4283	http://community.girliciousmusic.com/WebService/ContentActionService.asmx?WSDL	girliciousmusic.com	United States
+4284	http://www.hardknock.tv/WebService/ContentJumpService.asmx?WSDL	hardknock.tv	United States
+4285	http://www.hardknock.tv/WebService/ShareMessageService.asmx?WSDL	hardknock.tv	United States
+4286	http://www.hardknock.tv/WebService/ContentActionService.asmx?WSDL	hardknock.tv	United States
+4287	http://www.hernameisnicole.com/WebService/ContentJumpService.asmx?WSDL	hernameisnicole.com	United States
+4288	http://www.hernameisnicole.com/WebService/ShareMessageService.asmx?WSDL	hernameisnicole.com	United States
+4289	http://www.hernameisnicole.com/WebService/ContentActionService.asmx?WSDL	hernameisnicole.com	United States
+4290	http://inbaseline.com/SearchService.asmx?WSDL	inbaseline.com	United States
+4291	http://community.jackassworld.com/WebService/ContentJumpService.asmx?WSDL	jackassworld.com	United States
+4292	http://community.jackassworld.com/WebService/ShareMessageService.asmx?WSDL	jackassworld.com	United States
+4293	http://jewishannarbor.org/ComponentService.asmx?WSDL	jewishannarbor.org	United States
+4294	http://jewishaugusta.org/ComponentService.asmx?WSDL	jewishaugusta.org	United States
+4295	http://www.jewishbroward.org/admin/Calendar2/CalendarEventWebService.asmx?WSDL	jewishbroward.org	United States
+4296	http://jewishbroward.org/ComponentService.asmx?WSDL	jewishbroward.org	United States
+4297	http://www.jewishcanada.org/ComponentService.asmx?WSDL	jewishcanada.org	United States
+4298	http://jewishcharleston.org/ComponentService.asmx?WSDL	jewishcharleston.org	United States
+4299	http://jewishcharlotte.org/ComponentService.asmx?WSDL	jewishcharlotte.org	United States
+4300	http://jewishcolumbia.org/ComponentService.asmx?WSDL	jewishcolumbia.org	United States
+4301	http://jewishfedny.org/ComponentService.asmx?WSDL	jewishfedny.org	United States
+4302	http://jewishgrandrapids.org/ComponentService.asmx?WSDL	jewishgrandrapids.org	United States
+4303	http://jewishhamilton.org/ComponentService.asmx?WSDL	jewishhamilton.org	United States
+4304	http://jewishinsandiego.org/ComponentService.asmx?WSDL	jewishinsandiego.org	United States
+4305	http://jewishkansascity.org/ComponentService.asmx?WSDL	jewishkansascity.org	United States
+4306	http://jewishlongbeach.org/ComponentService.asmx?WSDL	jewishlongbeach.org	United States
+4307	http://jewishminnesota.org/ComponentService.asmx?WSDL	jewishminnesota.org	United States
+4308	http://www.jewishmonmouth.org/admin/Calendar2/CalendarEventWebService.asmx?WSDL	jewishmonmouth.org	United States
+4309	http://jewishmonmouth.org/ComponentService.asmx?WSDL	jewishmonmouth.org	United States
+4310	http://jewishnashville.org/ComponentService.asmx?WSDL	jewishnashville.org	United States
+4311	http://jewishnewmexico.org/ComponentService.asmx?WSDL	jewishnewmexico.org	United States
+4312	http://jewishnola.com/ComponentService.asmx?WSDL	jewishnola.com	United States
+4313	http://jewishomaha.org/ComponentService.asmx?WSDL	jewishomaha.org	United States
+4314	http://jewishorangecounty.org/ComponentService.asmx?WSDL	jewishorangecounty.org	United States
+4315	http://jewishportland.org/ComponentService.asmx?WSDL	jewishportland.org	United States
+4316	http://jewishsacramento.org/ComponentService.asmx?WSDL	jewishsacramento.org	United States
+4317	http://jewishspringfield.org/ComponentService.asmx?WSDL	jewishspringfield.org	United States
+4318	http://jewishtampa.com/ComponentService.asmx?WSDL	jewishtampa.com	United States
+4319	http://jewishtulsa.org/ComponentService.asmx?WSDL	jewishtulsa.org	United States
+4320	http://www.jewishvancouver.com/ComponentService.asmx?WSDL	jewishvancouver.com	United States
+4321	http://jewishva.org/ComponentService.asmx?WSDL	jewishva.org	United States
+4322	http://jewishwesternmass.org/ComponentService.asmx?WSDL	jewishwesternmass.org	United States
+4323	http://jewishwindsor.org/ComponentService.asmx?WSDL	jewishwindsor.org	United States
+4324	http://jewishwinnipeg.org/ComponentService.asmx?WSDL	jewishwinnipeg.org	United States
+4325	http://www.jfgv.com/ComponentService.asmx?WSDL	jfgv.com	United States
+4326	http://community.jholiday.com/WebService/ContentJumpService.asmx?WSDL	jholiday.com	United States
+4327	http://community.jholiday.com/WebService/ContentActionService.asmx?WSDL	jholiday.com	United States
+4328	http://community.jholiday.com/WebService/ShareMessageService.asmx?WSDL	jholiday.com	United States
+4329	http://www.kevinmichael.com/WebService/ContentJumpService.asmx?WSDL	kevinmichael.com	United States
+4330	http://www.kevinmichael.com/WebService/ShareMessageService.asmx?WSDL	kevinmichael.com	United States
+4331	http://www.kevinmichael.com/WebService/ContentActionService.asmx?WSDL	kevinmichael.com	United States
+4332	http://www.kevjumba.com/WebService/ContentJumpService.asmx?WSDL	kevjumba.com	United States
+4333	http://www.kevjumba.com/WebService/ContentActionService.asmx?WSDL	kevjumba.com	United States
+4334	http://www.kevjumba.com/WebService/ShareMessageService.asmx?WSDL	kevjumba.com	United States
+4335	http://mainejewish.org/ComponentService.asmx?WSDL	mainejewish.org	United States
+4336	http://community.manandwife.tv/WebService/ContentJumpService.asmx?WSDL	manandwife.tv	United States
+4337	http://community.manandwife.tv/WebService/ShareMessageService.asmx?WSDL	manandwife.tv	United States
+4338	http://community.manandwife.tv/WebService/ContentActionService.asmx?WSDL	manandwife.tv	United States
+4339	http://mastercsharp.com/live/ProverbService1/ProverbService.asmx?WSDL	mastercsharp.com	United States
+4340	http://mastercsharp.com/live/horoservice2/wshoro.asmx?WSDL	mastercsharp.com	United States
+4341	http://www.matweb.com/WebServices/Materials.asmx?WSDL	matweb.com	United States
+4342	http://www.matweb.com/WebServices/Folders.asmx?WSDL	matweb.com	United States
+4343	http://www.matweb.com/WebServices/Properties.asmx?WSDL	matweb.com	United States
+4344	http://community.meathaus.com/WebService/ShareMessageService.asmx?WSDL	meathaus.com	United States
+4345	http://community.meathaus.com/WebService/ContentActionService.asmx?WSDL	meathaus.com	United States
+4346	http://memjfed.org/ComponentService.asmx?WSDL	memjfed.org	United States
+4347	http://www.milwaukeejewish.org/ComponentService.asmx?WSDL	milwaukeejewish.org	United States
+4348	http://hiring.monster.ca/Services/ProductContent/WSProductContent.asmx?WSDL	monster.ca	United States
+4349	http://hiring.monster.ca/services/products/Pricing.asmx?WSDL	monster.ca	United States
+4350	http://mhx.monster.fi/services/products/Pricing.asmx?WSDL	monster.fi	United States
+4351	http://mhx.monster.fi/Services/ProductContent/WSProductContent.asmx?WSDL	monster.fi	United States
+4352	http://ecommerce.monster.fr/Services/ProductContent/WSProductContent.asmx?WSDL	monster.fr	United States
+4353	http://ecommerce.monster.fr/services/products/Pricing.asmx?WSDL	monster.fr	United States
+4354	http://recruiter.monster.se/Services/ProductContent/WSProductContent.asmx?WSDL	monster.se	United States
+4355	http://pfmd.mortgagexsites.com/mercury/webservices/loanapp.asmx?WSDL	mortgagexsites.com	United States
+4356	http://community.mtvtr3s.com/WebService/ContentJumpService.asmx?WSDL	mtvtr3s.com	United States
+4357	http://community.mtvtr3s.com/WebService/ContentActionService.asmx?WSDL	mtvtr3s.com	United States
+4358	http://community.mtvtr3s.com/WebService/ShareMessageService.asmx?WSDL	mtvtr3s.com	United States
+4359	http://mvjf.org/ComponentService.asmx?WSDL	mvjf.org	United States
+4360	http://www.myterrapin.com/WebService/ContentJumpService.asmx?WSDL	myterrapin.com	United States
+4361	http://www.myterrapin.com/WebService/ContentActionService.asmx?WSDL	myterrapin.com	United States
+4362	http://www.myterrapin.com/WebService/ShareMessageService.asmx?WSDL	myterrapin.com	United States
+4363	http://www.nateadams.com/WebService/ContentJumpService.asmx?WSDL	nateadams.com	United States
+4364	http://www.nateadams.com/WebService/ShareMessageService.asmx?WSDL	nateadams.com	United States
+4365	http://www.nateadams.com/WebService/ContentActionService.asmx?WSDL	nateadams.com	United States
+4366	http://www.ncta.com/WebServices/CableNetworkService.asmx?WSDL	ncta.com	United States
+4367	http://www.ncta.com/WebServices/GlossaryService.asmx?WSDL	ncta.com	United States
+4368	http://www.ncta.com/WebServices/CableProgramService.asmx?WSDL	ncta.com	United States
+4369	http://pubchem.ncbi.nlm.nih.gov/pug_soap/pug_soap.cgi?wsdl	nih.gov	United States
+4370	http://community.ninjadude.com/WebService/ContentJumpService.asmx?WSDL	ninjadude.com	United States
+4371	http://community.ninjadude.com/WebService/ShareMessageService.asmx?WSDL	ninjadude.com	United States
+4372	http://www.ohnonotstereo.net/WebService/ContentJumpService.asmx?WSDL	ohnonotstereo.net	United States
+4373	http://www.ohnonotstereo.net/WebService/ShareMessageService.asmx?WSDL	ohnonotstereo.net	United States
+4374	http://www.ohnonotstereo.net/WebService/ContentActionService.asmx?WSDL	ohnonotstereo.net	United States
+4375	http://www.ookii.org/ErrorReporting.asmx?WSDL	ookii.org	United States
+4376	http://ookii.org/CommentService.asmx?WSDL	ookii.org	United States
+4377	http://ookii.org/CalendarService.asmx?WSDL	ookii.org	United States
+4378	http://demo.openlinksw.com/tutorial/services/so_s_8/so_s_8_wsdl.vsp	openlinksw.com	United States
+4379	http://demo.openlinksw.com/tutorial/services/so_s_7/so_s_7_wsdl.vsp	openlinksw.com	United States
+4380	http://demo.openlinksw.com/r3/EmptySA/services.wsdl	openlinksw.com	United States
+4381	http://panthercdn.com/wsdl/flushv.wsdl	pantherexpress.net	United States
+4382	http://pantherexpress.net/wsdl/flusha.wsdl	pantherexpress.net	United States
+4383	http://www.pantherexpress.net/wsdl/bandwidthuse.wsdl	pantherexpress.net	United States
+4384	http://www.pcdmusic.com/WebService/ContentJumpService.asmx?WSDL	pcdmusic.com	United States
+4385	http://www.pcdmusic.com/WebService/ShareMessageService.asmx?WSDL	pcdmusic.com	United States
+4386	http://www.pcdmusic.com/WebService/ContentActionService.asmx?WSDL	pcdmusic.com	United States
+4387	http://www.pharmgkb.org/services/PharmGKBItem?wsdl	pharmgkb.org	United States
+4388	http://www.pharmgkb.org/services/Xref?wsdl	pharmgkb.org	United States
+4389	http://www.playarabbit.biz/WebService/ContentActionService.asmx?WSDL	playarabbit.biz	United States
+4390	http://community.pointlessbanter.net/WebService/ContentJumpService.asmx?WSDL	pointlessbanter.net	United States
+4391	http://community.pointlessbanter.net/WebService/ContentActionService.asmx?WSDL	pointlessbanter.net	United States
+4392	http://community.pointlessbanter.net/WebService/ShareMessageService.asmx?WSDL	pointlessbanter.net	United States
+4393	http://proposion.com/Lotusphere2005-SessionsService/SessionLookup.asmx?WSDL	proposion.com	United States
+4394	http://proposion.com/Lotusphere2005-SessionsService/SessionsAccess.asmx?WSDL	proposion.com	United States
+4395	http://soap.pubeasy.com/wsdl/centralpews.wsdl	pubeasy.com	United States
+4396	http://community.rapbasement.com/WebService/ContentJumpService.asmx?WSDL	rapbasement.com	United States
+4397	http://community.rapbasement.com/WebService/ContentActionService.asmx?WSDL	rapbasement.com	United States
+4398	http://community.rapbasement.com/WebService/ShareMessageService.asmx?WSDL	rapbasement.com	United States
+4399	http://rightactionscript.com/webservices/FlashSurvey.wsdl	rightactionscript.com	United States
+4400	http://rightactionscript.com/webservices/DataTypeService.php?wsdl	rightactionscript.com	United States
+4401	http://flashapi.vx.roo.com/ChannelInfoService.asmx?WSDL	roo.com	United States
+4402	http://www.ryanguettler.com/WebService/ContentJumpService.asmx?WSDL	ryanguettler.com	United States
+4403	http://www.ryanguettler.com/WebService/ShareMessageService.asmx?WSDL	ryanguettler.com	United States
+4404	http://www.ryanguettler.com/WebService/ContentActionService.asmx?WSDL	ryanguettler.com	United States
+4405	http://www.ryannyquist.com/WebService/ContentJumpService.asmx?WSDL	ryannyquist.com	United States
+4406	http://www.ryannyquist.com/WebService/ShareMessageService.asmx?WSDL	ryannyquist.com	United States
+4407	http://www.ryannyquist.com/WebService/ContentActionService.asmx?WSDL	ryannyquist.com	United States
+4408	http://www.saiasecure.com/webservice/ratequote/soap.asmx?wsdl	saiasecure.com	United States
+4409	http://www.saiasecure.com/webservice/pickup/soap.asmx?wsdl	saiasecure.com	United States
+4410	http://vision.ne.saic.com/rick01/services/ScreenerAdminDB/wsdl/ScreenerAdminDB.wsdl	saic.com	United States
+4411	http://vision.ne.saic.com/rick00/services/BenefitsDB/wsdl/BenefitsDB.wsdl	saic.com	United States
+4412	http://community.shadyrecords.com/WebService/ContentJumpService.asmx?WSDL	shadyrecords.com	United States
+4413	http://community.shadyrecords.com/WebService/ContentActionService.asmx?WSDL	shadyrecords.com	United States
+4414	http://community.shadyrecords.com/WebService/ShareMessageService.asmx?WSDL	shadyrecords.com	United States
+4415	http://www.shalomatlanta.org/ComponentService.asmx?WSDL	shalomatlanta.org	United States
+4416	http://www.shalomdc.org/ComponentService.asmx?WSDL	shalomdc.org	United States
+4417	http://www.shalomdelaware.org/ComponentService.asmx?WSDL	shalomdelaware.org	United States
+4418	http://www.shaolintempleofboom.com/WebService/ContentJumpService.asmx?WSDL	shaolintempleofboom.com	United States
+4419	http://www.shaolintempleofboom.com/WebService/ContentActionService.asmx?WSDL	shaolintempleofboom.com	United States
+4420	http://www.shaolintempleofboom.com/WebService/ShareMessageService.asmx?WSDL	shaolintempleofboom.com	United States
+4421	http://sharptooth.ws/WebServices/SiteSafe.asmx?WSDL	sharptooth.ws	United States
+4422	http://sharptooth.ws/WebServices/PhoneNumberCodes.asmx?WSDL	sharptooth.ws	United States
+4423	http://sharptooth.ws/WebServices/UniversalConversion.asmx?WSDL	sharptooth.ws	United States
+4424	http://www.siliconllama.com/services/wsdl/dConverterService.wsdl	siliconllama.com	United States
+4425	http://www.siliconllama.com/services/wsdl/ISOcode2shortformatService.wsdl	siliconllama.com	United States
+4426	http://www.sk8site.com/WebService/ContentJumpService.asmx?WSDL	sk8site.com	United States
+4427	http://www.sk8site.com/WebService/ContentActionService.asmx?WSDL	sk8site.com	United States
+4428	http://www.sk8site.com/WebService/ShareMessageService.asmx?WSDL	sk8site.com	United States
+4429	http://www.smjf.org/ComponentService.asmx?WSDL	smjf.org	United States
+4430	http://www.snowboarder411.com/WebService/ContentJumpService.asmx?WSDL	snowboarder411.com	United States
+4431	http://www.snowboarder411.com/WebService/ShareMessageService.asmx?WSDL	snowboarder411.com	United States
+4432	http://www.snowboarder411.com/WebService/ContentActionService.asmx?WSDL	snowboarder411.com	United States
+4433	http://community.subterraneanblog.com/WebService/ContentJumpService.asmx?WSDL	subterraneanblog.com	United States
+4434	http://community.subterraneanblog.com/WebService/ShareMessageService.asmx?WSDL	subterraneanblog.com	United States
+4435	http://community.subterraneanblog.com/WebService/ContentActionService.asmx?WSDL	subterraneanblog.com	United States
+4436	http://community.suretone.com/WebService/ContentJumpService.asmx?WSDL	suretone.com	United States
+4437	http://community.suretone.com/WebService/ShareMessageService.asmx?WSDL	suretone.com	United States
+4438	http://community.suretone.com/WebService/ContentActionService.asmx?WSDL	suretone.com	United States
+4439	http://www.tagworld.com/WebService/ContentActionService.asmx?WSDL	tagworld.com	United States
+4440	http://www.tagworld.com/WebService/ShareMessageService.asmx?WSDL	tagworld.com	United States
+4441	http://www.tagworld.com/WebService/ContentJumpService.asmx?WSDL	tagworld.com	United States
+4442	http://community.tankfarmfuturesounds.com/WebService/ContentJumpService.asmx?WSDL	tankfarmfuturesounds.com	United States
+4443	http://community.tankfarmfuturesounds.com/WebService/ShareMessageService.asmx?WSDL	tankfarmfuturesounds.com	United States
+4444	http://community.tankfarmfuturesounds.com/WebService/ContentActionService.asmx?WSDL	tankfarmfuturesounds.com	United States
+4445	http://community.thehobbitsite.com/WebService/ContentJumpService.asmx?WSDL	thehobbitsite.com	United States
+4446	http://community.thehobbitsite.com/WebService/ContentActionService.asmx?WSDL	thehobbitsite.com	United States
+4447	http://community.thehobbitsite.com/WebService/ShareMessageService.asmx?WSDL	thehobbitsite.com	United States
+4448	http://www.thehotfreaks.com/WebService/ContentJumpService.asmx?WSDL	thehotfreaks.com	United States
+4449	http://www.thehotfreaks.com/WebService/ShareMessageService.asmx?WSDL	thehotfreaks.com	United States
+4450	http://www.thehotfreaks.com/WebService/ContentActionService.asmx?WSDL	thehotfreaks.com	United States
+4451	http://community.theplugg.com/WebService/ContentJumpService.asmx?WSDL	theplugg.com	United States
+4452	http://community.theplugg.com/WebService/ContentActionService.asmx?WSDL	theplugg.com	United States
+4453	http://community.theplugg.com/WebService/ShareMessageService.asmx?WSDL	theplugg.com	United States
+4454	http://community.tokiohotel-us.com/WebService/ContentJumpService.asmx?WSDL	tokiohotel-us.com	United States
+4455	http://community.tokiohotel-us.com/WebService/ShareMessageService.asmx?WSDL	tokiohotel-us.com	United States
+4456	http://community.tokiohotel-us.com/WebService/ContentActionService.asmx?WSDL	tokiohotel-us.com	United States
+4457	http://www.tpisoft.com/smartpayments/validate.asmx?WSDL	tpisoft.com	United States
+4458	http://www.tpisoft.com/smartpayments/transact.asmx?WSDL	tpisoft.com	United States
+4459	http://www.tpisoft.com/SmartPayments/Transact2.asmx?wsdl	tpisoft.com	United States
+4460	http://ecs.tradepointsystems.com/services/Version?wsdl	tradepointsystems.com	United States
+4461	http://community.tricesworld.com/WebService/ContentJumpService.asmx?WSDL	tricesworld.com	United States
+4462	http://community.tricesworld.com/WebService/ShareMessageService.asmx?WSDL	tricesworld.com	United States
+4463	http://community.tricesworld.com/WebService/ContentActionService.asmx?WSDL	tricesworld.com	United States
+4464	http://la.remap.ucla.edu/util/sbproxy/sbproxy__re.wsdl	ucla.edu	United States
+4465	http://stamford.ujcfedweb.org/ComponentService.asmx?WSDL	ujcfedweb.org	United States
+4466	http://www.ujf.org/ComponentService.asmx?WSDL	ujf.org	United States
+4467	http://psix.uscg.mil/xml/MARPOLData.asmx?WSDL	uscg.mil	United States
+4468	http://psix.uscg.mil/xml/PSIXData.asmx?WSDL	uscg.mil	United States
+4469	http://psix.uscg.mil/xml/EquipmentData.asmx?WSDL	uscg.mil	United States
+4470	http://community.vh1classic.com/WebService/ContentJumpService.asmx?WSDL	vh1classic.com	United States
+4471	http://community.vh1classic.com/WebService/ContentActionService.asmx?WSDL	vh1classic.com	United States
+4472	http://community.vh1classic.com/WebService/ShareMessageService.asmx?WSDL	vh1classic.com	United States
+4473	http://community.vinylpulse.com/WebService/ContentJumpService.asmx?WSDL	vinylpulse.com	United States
+4474	http://community.vinylpulse.com/WebService/ShareMessageService.asmx?WSDL	vinylpulse.com	United States
+4475	http://community.vinylpulse.com/WebService/ContentActionService.asmx?WSDL	vinylpulse.com	United States
+4476	http://www.west-wind.com/wconnect/soap/wwhelpservice.wsdl	west-wind.com	United States
+4477	http://student-nt.wou.edu/rwessel/CHAPTER18/ISBN.asmx?WSDL	wou.edu	United States
+4478	http://student-nt.wou.edu/rwessel/CHAPTER18/measurementconversions.asmx?WSDL	wou.edu	United States
+4479	http://student-nt.wou.edu/rwessel/CHAPTER18/greetings.asmx?WSDL	wou.edu	United States
+4480	http://community.x17online.com/WebService/ContentJumpService.asmx?WSDL	x17online.com	United States
+4481	http://community.x17online.com/WebService/ContentActionService.asmx?WSDL	x17online.com	United States
+4482	http://community.x17online.com/WebService/ShareMessageService.asmx?WSDL	x17online.com	United States
+4483	http://www.ypikc.org/ComponentService.asmx?WSDL	ypikc.org	United States
+4484	http://www.ysabellabrave.com/WebService/ContentJumpService.asmx?WSDL	ysabellabrave.com	United States
+4485	http://www.ysabellabrave.com/WebService/ContentActionService.asmx?WSDL	ysabellabrave.com	United States
+4486	http://www.ysabellabrave.com/WebService/ShareMessageService.asmx?WSDL	ysabellabrave.com	United States
+4487	http://www.zeesource.net/maps/services/Geocode?wsdl	zeesource.net	United States
+4488	http://www.zeesource.net/maps/services/Version?wsdl	zeesource.net	United States
+4489	http://01792.org/demos/websitethumbnail/service.asmx?WSDL	01792.org	United States
+4490	http://198.228.90.222:8080/ideas/services/Version?wsdl	198.228.90.222	United States
+4491	http://198.65.114.84/expediawebservice_test/holidays.asmx?WSDL	198.65.114.84	United States
+4492	http://198.65.114.84/ExpediaWebService_live/service.asmx?WSDL	198.65.114.84	United States
+4493	http://216.33.67.161/WebServices/DMSInfo.asmx?WSDL	216.33.67.161	United States
+4494	http://216.33.67.161/webservices/pingservice.asmx?WSDL	216.33.67.161	United States
+4495	http://www.adloader.com/WebServices/Website.asmx?WSDL	adloader.com	United States
+4496	http://admad.mobi/Stats.asmx?WSDL	admad.mobi	United States
+4497	http://xms.admad.mobi/SMS.asmx?WSDL	admad.mobi	United States
+4498	http://webservices.answerstv.com/AdvertisementNewManager.asmx?wsdl	answerstv.com	United States
+4499	http://services.argosoft.com/AddressValidation/AddressVerifier.asmx?wsdl	argosoft.com	Canada
+4500	http://services.argosoft.com/relayservice/service.asmx?WSDL	argosoft.com	Canada
+4501	http://aspauthors.com/aspnetbyexample/ch11/11ASP01CS.asmx?WSDL	aspauthors.com	United States
+4502	http://www.beeinnet.com/services/BeeInNetWebService.asmx?WSDL	beeinnet.com	United States
+4503	http://www.beetledev.com/webservices/converterservice.asmx?wsdl	beetledev.com	United States
+4504	http://www.beetledev.com/webservices/bmiservice.asmx?WSDL	beetledev.com	United States
+4505	http://admin.bigholler.com/bcws/bcws.asmx?WSDL	bigholler.com	United States
+4506	http://admin.bigholler.com/bcws/storelocator.asmx?WSDL	bigholler.com	United States
+4507	http://www.bigotires.com/locationService.asmx?WSDL	bigotires.com	United States
+4508	http://cbs13.com/Search/AutoSuggest.asmx?WSDL	cbs13.com	United States
+4509	http://cbs2chicago.com/Search/AutoSuggest.asmx?WSDL	cbs2chicago.com	United States
+4510	http://cbs4.com/Search/AutoSuggest.asmx?WSDL	cbs4.com	United States
+4511	http://wbz.cbslocal.com/Search/AutoSuggest.asmx?WSDL	cbslocal.com	United States
+4512	http://www.clubplanet.com/services/flashservices.asmx?WSDL	clubplanet.com	United States
+4513	http://www.deagel.com/webser/corporation.asmx?WSDL	deagel.com	United States
+4514	http://www.deagel.com/webser/WebserviceBase.asmx?WSDL	deagel.com	United States
+4515	http://sws.desertsoft.com/phoneintel2/phoneintel2.asmx?WSDL	desertsoft.com	United States
+4516	http://api.efxnow.com/DEMOWebServices2.8/Service.asmx?wsdl	efxnow.com	United States
+4517	http://samples.entechsolutions.com/EmailLabsWebService/Service.asmx?wsdl	entechsolutions.com	United States
+4518	http://demos.entechsolutions.com/AutoSuggestMenuDemo/Demo3WebService.asmx?WSDL	entechsolutions.com	United States
+4519	http://esccreations.net/_vti_bin/SharepointEmailWS.asmx?wsdl	esccreations.net	United States
+4520	http://arcweb.esri.com/services/v1/RouteFinder.wsdl	esri.com	United States
+4521	http://integrate.factiva.com/research/query.asmx?WSDL	factiva.com	United States
+4522	http://filtamam.com/UI/WS/UDCServices.asmx?WSDL	filtamam.com	United States
+4523	http://filtamam.com/UI/WS/SessionEnabledAuthService.asmx?WSDL	filtamam.com	United States
+4524	http://www.forta.com/cf/tips/syndicate.cfc?wsdl	forta.com	United States
+4525	http://www.forta.com/cf/resources/service.cfc?wsdl	forta.com	United States
+4526	http://forums.galciv2.com/ws/GalCivMedalService.asmx?WSDL	galciv2.com	United States
+4527	http://forums.galciv2.com/ws/ForumService.asmx?WSDL	galciv2.com	United States
+4528	http://www.gamerwealth.com/warden/2.0/orders.asmx?wsdl	gamerwealth.com	United States
+4529	http://forumplanet.gamespy.com/webservices/boardservices.asmx?wsdl	gamespy.com	United States
+4530	http://gcomputer.net/webservices/dilbert.asmx?WSDL	gcomputer.net	United States
+4531	http://gcomputer.net/webservices/knowledge.asmx?WSDL	gcomputer.net	United States
+4532	http://www.handcoded.com/FpMLValidation.asmx?WSDL	handcoded.com	United States
+4533	http://hdvr.net/wsClientReg/Service1.asmx?WSDL	hdvr.net	United States
+4534	http://community.highsnobiety.com/WebService/ShareMessageService.asmx?WSDL	highsnobiety.com	United States
+4535	http://community.highsnobiety.com/WebService/ContentActionService.asmx?WSDL	highsnobiety.com	United States
+4536	http://hitslink.com/ajax/ajaxws.asmx?WSDL	hitslink.com	United States
+4537	http://www.imadeitlast.com/Webservices/Flickr/CommentFeed/commandAPI.asmx?wsdl	imadeitlast.com	United States
+4538	http://www.imadeitlast.com/demos/traffic/roadreport.asmx?WSDL	imadeitlast.com	United States
+4539	http://beta.innovataw3svc.com/CustomDataTimeTableToolKit/CustomDataTimetableToolKitServices.asmx?wsdl	innovataw3svc.com	United States
+4540	http://beta.innovataw3svc.com/DataTimeTableToolKit/DataTimetableToolKitServices.asmx?WSDL	innovataw3svc.com	United States
+4541	http://mail.integritas-group.com/Services/svcUserAdmin.asmx?wsdl	integritas-group.com	United States
+4542	http://intellekt.ws/translatr/translatr.asmx?wsdl	intellekt.ws	United States
+4543	http://api.interactrivia.com/ws/Partner.asmx?wsdl	interactrivia.com	United States
+4544	http://api.interactrivia.com/ws/Authentication.asmx?wsdl	interactrivia.com	United States
+4545	http://blogs.intesoft.net/api/BlogImporter.asmx?WSDL	intesoft.net	United States
+4546	http://www.iransmsbox.com/ws/LoginService.asmx?WSDL	iransmsbox.com	United States
+4547	http://jccindy.org/ComponentService.asmx?WSDL	jccindy.org	United States
+4548	http://jewishcincinnati.org/ComponentService.asmx?WSDL	jewishcincinnati.org	United States
+4549	http://jewishcleveland.com/ComponentService.asmx?WSDL	jewishcleveland.com	United States
+4550	http://jewishcleveland.org/ComponentService.asmx?WSDL	jewishcleveland.org	United States
+4551	http://jewishcolorado.org/ComponentService.asmx?WSDL	jewishcolorado.org	United States
+4552	http://jewishcolumbus.org/ComponentService.asmx?WSDL	jewishcolumbus.org	United States
+4553	http://jewishdallas.org/ComponentService.asmx?WSDL	jewishdallas.org	United States
+4554	http://jewishlasvegas.com/ComponentService.asmx?WSDL	jewishlasvegas.com	United States
+4555	http://jewishpalmbeach.org/ComponentService.asmx?WSDL	jewishpalmbeach.org	United States
+4556	http://jewishrichmond.org/ComponentService.asmx?WSDL	jewishrichmond.org	United States
+4557	http://jewishsouthjersey.org/ComponentService.asmx?WSDL	jewishsouthjersey.org	United States
+4558	http://jewishtucson.org/ComponentService.asmx?WSDL	jewishtucson.org	United States
+4559	http://jfgd.org/ComponentService.asmx?WSDL	jfgd.org	United States
+4560	http://www.judysbook.com/Web%20Service/AutoComplete.asmx?WSDL	judysbook.com	United States
+4561	http://www.kaplan.edu/kuleads/leadimport.asmx?WSDL	kaplan.edu	United States
+4562	http://www.getinfo.kaplan.edu/KaplanSchool.asmx?WSDL	kaplan.edu	United States
+4563	http://www.kbb.com/kbb/services/selectionservice.asmx?WSDL	kbb.com	United States
+4564	http://www.kbcafe.com/iBLOGthere4iM/atom3.asmx?wsdl	kbcafe.com	United States
+4565	http://promotionws.kelloggs.com/Promotions.asmx?WSDL	kelloggs.com	United States
+4566	http://www.miragelimousine.com/services/Version?wsdl	miragelimousine.com	United States
+4567	http://hiring.du.monster.be/services/products/Pricing.asmx?WSDL	monster.be	United States
+4568	http://hiring.du.monster.be/Services/ProductContent/WSProductContent.asmx?WSDL	monster.be	United States
+4569	http://www.mopar-accessories.com/WebServices/DMSInfo.asmx?WSDL	mopar-accessories.com	United States
+4570	http://www.mopar-accessories.com/webservices/pingservice.asmx?WSDL	mopar-accessories.com	United States
+4571	http://sec.neurofuzz-software.com/paos/cryptoSOAP.php?wsdl	neurofuzz-software.com	United States
+4572	http://sec.neurofuzz-software.com/paos/genSSHA-SOAP.php?wsdl	neurofuzz-software.com	United States
+4573	http://services.nexus6studio.com/StockQuoteService.asmx?WSDL	nexus6studio.com	United States
+4574	http://www.nexus6studio.com/api/BlogImporter.asmx?WSDL	nexus6studio.com	United States
+4575	http://www.nraila.org/Services/News.asmx?WSDL	nraila.org	United States
+4576	http://www.nraila.org/Services/NewsAndUpdates.asmx?WSDL	nraila.org	United States
+4577	http://oxbranch.optionsxpress.com/accountservice/account.asmx?WSDL	optionsxpress.com	United States
+4578	http://otzma.org/ComponentService.asmx?WSDL	otzma.org	United States
+4579	http://parsitest.com/UserControl/UniversityCourse.asmx?WSDL	parsitest.com	United States
+4580	http://webservice.polarsoftware.com/PolarSkymemUriFetcher.asmx?WSDL	polarsoftware.com	United States
+4581	http://polymeta.com/azspell/ws/AZspellService.jws?wsdl	polymeta.com	United States
+4582	http://www.polymeta.com/azsearch/ws/AZSearchService.jws?wsdl	polymeta.com	United States
+4583	http://www.precioyviajes.com/webservices/webservices/backend.asmx?wsdl	precioyviajes.com	United States
+4584	http://proai.net/Proxy/SqlGraphMasterService.asmx?WSDL	proai.net	United States
+4585	http://products.proflowers.com/ProductDetailLoggingWS.asmx?WSDL	proflowers.com	United States
+4586	http://products.proflowers.com/ProductDetailCatalogWS.asmx?WSDL	proflowers.com	United States
+4587	http://pticica.com/Services/Tags.asmx?WSDL	pticica.com	United States
+4588	http://pticica.com/Services/Users.asmx?WSDL	pticica.com	United States
+4589	http://routes.safarimappers.com/search/autocompletehelper.asmx?WSDL	safarimappers.com	United States
+4590	http://cdmo.baruch.sc.edu/webservices/xmldatarequest.cfc?wsdl	sc.edu	United States
+4591	http://www.searchignite.com/ws/TrackingUpdate.asmx?WSDL	searchignite.com	United States
+4592	http://www.selectrucks.com/DealerContactService.asmx?WSDL	selectrucks.com	United States
+4593	http://selectrucks.com/EmailSignupService.asmx?WSDL	selectrucks.com	United States
+4594	http://mission.sfgov.org/IntranetDirectory/TELUS_WEB_SERVICE.asmx?WSDL	sfgov.org	United States
+4595	http://mission.sfgov.org/IntranetDirectory/DIRECTORY_SEARCHES.asmx?wsdl	sfgov.org	United States
+4596	http://shalomriverdale.org/ComponentService.asmx?WSDL	shalomriverdale.org	United States
+4597	http://sharifibrahim.com/2005/networking/service.wsdl	sharifibrahim.com	United States
+4598	http://www.sirajgadhia.com/WebServices/news.asmx?WSDL	sirajgadhia.com	United States
+4599	http://sixteencolors.net/Services/Groups.asmx?WSDL	sixteencolors.net	United States
+4600	http://www.smartroundtrip.com/SrSN/names.asmx?WSDL	smartroundtrip.com	United States
+4601	http://www.smartroundtrip.com/SrAS/SrActivationService.asmx?WSDL	smartroundtrip.com	United States
+4602	http://www.smips.com/HotEffects/webservices/templateservice.asmx?WSDL	smips.com	United States
+4603	http://ev5.sosonlinebackup.com/rdss/protect/utilities.asmx?WSDL	sosonlinebackup.com	United States
+4604	http://webservices.ssw.com.au/ssw/NETToolkit/VersionChecker.asmx?WSDL	ssw.com.au	United States
+4605	http://startvbdotnet.com/web/sample2.asmx?wsdl	startvbdotnet.com	United States
+4606	http://www.streetfire.net/services/commentmanagement.asmx?WSDL	streetfire.net	United States
+4607	http://www.streetfire.net/services/photocommentmanagement.asmx?WSDL	streetfire.net	United States
+4608	http://www.sussexcountyde.gov/webservice/wstaxsearch.cfc?wsdl	sussexcountyde.gov	United States
+4609	http://www.sussexcountyde.gov/webservice/cots.cfc?wsdl	sussexcountyde.gov	United States
+4610	http://karpuz.cs.tamu.edu/ProAspNet/Ch17/CS/NorthwindAnalysis/northserv.asmx?WSDL	tamu.edu	United States
+4611	http://www.tempe.gov/wx/default.asmx?wsdl	tempe.gov	United States
+4612	http://terraserver-usa.com/terraservice.asmx?WSDL	terraserver-usa.com	United States
+4613	http://terraserver-usa.com/landmarkservice.asmx?WSDL	terraserver-usa.com	United States
+4614	http://terraserverusa.com/TerraService2.asmx?WSDL	terraserverusa.com	United States
+4615	http://terraserverusa.com/LandmarkService.asmx?WSDL	terraserverusa.com	United States
+4616	http://terraservice.net/terraservice.asmx?WSDL	terraservice.net	United States
+4617	http://terraservice.net/LandmarkService.asmx?wsdl	terraservice.net	United States
+4618	http://www.titantv.com/Services/PartnerTools.asmx?WSDL	titantv.com	United States
+4619	http://data.titantv.com/dataservice.asmx?wsdl	titantv.com	United States
+4620	http://www.travelguard.com/GetState.asmx?WSDL	travelguard.com	United States
+4621	http://wtcservice.trendmicro.com/webservices/virusalert/virusalert.asmx?WSDL	trendmicro.com	Japan
+4622	http://ccc.trendmicro.com/CentralListener/wsValidateSN.asmx?WSDL	trendmicro.com	United States
+4623	http://xmlbeta.truckmiles.com/WebServices/ProMilesWebService.asmx?WSDL	truckmiles.com	United States
+4624	http://xml.truckmiles.com/WebServices/ProMilesBasicWebService.asmx?WSDL	truckmiles.com	United States
+4625	http://www.u-c.co.il/nusoap/server2.php?wsdl	u-c.co.il	United States
+4626	http://www.u-c.co.il/nusoap/server.php?wsdl	u-c.co.il	United States
+4627	http://www.uiafed.org/ComponentService.asmx?WSDL	uiafed.org	United States
+4628	http://www.ujc.org/ComponentService.asmx?WSDL	ujc.org	United States
+4629	http://www.ujf.net/ComponentService.asmx?WSDL	ujf.net	United States
+4630	http://water.usu.edu/odmcv/odmcv.asmx?WSDL	usu.edu	United States
+4631	http://mapserv.utah.gov/finddistricts/FindLocations.asmx?WSDL	utah.gov	United States
+4632	http://www.utahstrails.com/Services/tests/test_01.php?WSDL	utahstrails.com	United States
+4633	http://www.vit.org/WebServices/HomelandSecurityService.asmx?WSDL	vit.org	United States
+4634	http://wbztv.com/Search/AutoSuggest.asmx?WSDL	wbztv.com	United States
+4635	http://wcco.com/Search/AutoSuggest.asmx?WSDL	wcco.com	United States
+4636	http://www.wine.com/v6/Services/FeedbackService.asmx?WSDL	wine.com	United States
+4637	http://wolfgangsvault.com/services/VaultTips.asmx?WSDL	wolfgangsvault.com	United States
+4638	http://wolfgangsvault.com/services/SearchTypeAhead.asmx?WSDL	wolfgangsvault.com	United States
+4639	http://xemantex.com/xmxClientDictWebSvc.asmx?WSDL	xemantex.com	United States
+4640	http://www.xemantex.com/consumeDnTWebSvc.asmx?WSDL	xemantex.com	United States
+4641	http://gmh.xocomp.net/ws/rollgenerator/rollgenerator.asmx?wsdl	xocomp.net	United States
+4642	http://zstats.com/ajax/ajaxws.asmx?WSDL	zstats.com	United States
+4643	http://www.01191.com/01191news.asmx?WSDL	01191.com	United States
+4644	http://12.40.108.25/leadverifierwebservice/lead.asmx?WSDL	12.40.108.25	United States
+4645	http://128.192.66.83/map_WebService/MapData.asmx?wsdl	128.192.66.83	United States
+4646	http://130.199.4.83/WebServe/WebComponents/GeneralLeaf/C3.asmx?wsdl	130.199.4.83	United States
+4647	http://aspnet.15seconds.com/010430/SampleService.asmx?wsdl	15seconds.com	United States
+4648	http://198.80.177.82/Dataworks/enterprise/1.0/webServiceClient.asmx?WSDL	198.80.177.82	United States
+4649	http://199.72.34.121/SLXquote/service.asmx?WSDL	199.72.34.121	United States
+4650	http://209.115.50.66/LifeBioPublisherAPI/Publisher.asmx?WSDL	209.115.50.66	United States
+4651	http://209.162.186.60/globalweather.asmx?WSDL	209.162.186.60	United States
+4652	http://prod.ads.vmtllc.com/baiid_service/baiidinterface.wsdl	216.230.104.222	United States
+4653	http://216.66.29.238/PartnerSignupService.asmx?WSDL	216.66.29.238	United States
+4654	http://www.2chatter.com/api/ChatterSMS.php?wsdl	2chatter.com	United States
+4655	http://service.381808.com/Merchant.asmx?WSDL	381808.com	United States
+4656	http://aspnet.4guysfromrolla.com/ws/ASPFAQs.asmx?wsdl	4guysfromrolla.com	United States
+4657	http://65.222.14.196/W_Cleveland/Grants.asmx?WSDL	65.222.14.196	United States
+4658	http://66.115.227.116/Service.asmx?WSDL	66.115.227.116	United States
+4659	http://68.216.142.24/DoncasterEmailWS/Service.asmx?wsdl	68.216.142.24	United States
+4660	http://72.32.43.100/_server/ResultNotification?wsdl	72.32.43.100	United States
+4661	http://soapintouch.acdnet.com/	acdnet.com	United States
+4662	http://adoptionark.com/admin/ajax/VisitorTracker.asmx?WSDL	adoptionark.com	United States
+4663	http://www.adoptionark.org/admin/ajax/VisitorTracker.asmx?WSDL	adoptionark.org	United States
+4664	http://secure.adpay.com/affiliate/affiliates.asmx?wsdl	adpay.com	United States
+4665	http://www.aduanet.gob.pe/ws-ad-pd/ws-ad-pd?WSDL	aduanet.gob.pe	Peru
+4666	http://www.advantech.net.au/webservice/AdvantechWebServiceLocal.asmx?WSDL	advantech.net.au	United Kingdom
+4667	http://sms.advernet.co.za/sendsms3.asmx?WSDL	advernet.co.za	United States
+4668	http://blog.advogaweb.com.br/api/BlogImporter.asmx?WSDL	advogaweb.com.br	Brazil
+4669	http://spacedata.agi.com/spacedatareporting/spacedatareporting.asmx?WSDL	agi.com	United States
+4670	http://www.agiledeveloper.com/venkat/wsmay2005/Service1.asmx?wsdl	agiledeveloper.com	United States
+4671	http://www.alcona.org/SearchDatabaseService.asmx?WSDL	alcona.org	United States
+4672	http://webservice.allposters.com/ProductInformationService.asmx?wsdl	allposters.com	United States
+4673	http://dev.angloinfo.net/cicsservices.asmx?WSDL	angloinfo.net	United States
+4674	http://www.ankorus.com/webservices/numberling/MultiLingNumRep.asmx?WSDL	ankorus.com	United States
+4675	http://www.anrcoins.com/services-public.asmx?WSDL	anrcoins.com	United States
+4676	http://anying.net.au/webservices/getrates.asmx?WSDL	anying.net.au	United States
+4677	http://sosserver.aop.com/webservices/sosupdate/versionchecker.asmx?WSDL	aop.com	United States
+4678	http://tulsa.apartmentfinder.com/Services/Mapping.asmx?WSDL	apartmentfinder.com	United States
+4679	http://www.aprogrammersjournal.com/zipcodes.asmx?wsdl	aprogrammersjournal.com	United States
+4680	http://arieldolan.com/aldb/wbsr/ad5.asmx?wsdl	arieldolan.com	United States
+4681	http://artofthemix.org/aotm.asmx?WSDL	artofthemix.org	United States
+4682	http://artsednj.org/njreport/EDNJServices.asmx?WSDL	artsednj.org	United States
+4683	http://subscription.autodesk.com/sc/SubAwareService?WSDL	autodesk.com	United States
+4684	http://www.avemaria.com/webservices/AveService.asmx?WSDL	avemaria.com	United States
+4685	http://myavert.avertlabs.com/ReportService.asmx?WSDL	avertlabs.com	United States
+4686	http://www.avowlabs.com/webservices/AvowGEOCalculator/AvowGEOCalculator.asmx?WSDL	avowlabs.com	United States
+4687	http://www.azhharegistry.com/secureregistrydata/needs.cfc?wsdl	azhharegistry.com	United States
+4688	http://badge-hunter.com/bhinfo.php?wsdl	badge-hunter.com	United States
+4689	http://www.bahvideo.com/services/SearchService.asmx?WSDL	bahvideo.com	United States
+4690	http://wsrp.bea.com/portal/boulder/weather.wsdl	bea.com	United States
+4691	http://www.bedandbreakfast.com/AjaxMethods.asmx?WSDL	bedandbreakfast.com	United States
+4692	http://www.bellasara.com/BellaSara/BellaWS.asmx?WSDL	bellasara.com	United States
+4693	http://www.bennadel.com/resources/webservices/Fun.cfc?wsdl	bennadel.com	United States
+4694	http://coa.berkeley.edu/coa-ws/services/ChartOfAccountsValidator?wsdl	berkeley.edu	United States
+4695	http://www.bethelmn.org/bethelproj/bethelwebservice.asmx?WSDL	bethelmn.org	United States
+4696	http://beth-israel.org/admin/ajax/VisitorTracker.asmx?WSDL	beth-israel.org	United States
+4697	http://www.beyondwhitespa.com/service/country.asmx?WSDL	beyondwhitespa.com	United States
+4698	http://homemakeovers.bhg.com/WebServices/SearchService.asmx?WSDL	bhg.com	United States
+4699	http://www.birdwellmusic.com/BirdwellMusicServices.asmx?wsdl	birdwellmusic.com	United States
+4702	http://www.bktaxtranscripts.com/webservices/create-account.wsdl	bktaxtranscripts.com	United States
+4702	http://www.bktaxtranscripts.com/webservices/create-account.wsdl	bktaxtranscripts.com	United States
+4702	http://www.bktaxtranscripts.com/webservices/create-account.wsdl	bktaxtranscripts.com	United States
+4703	http://dnsmanager1.blankserver.com/dnsmanager.asmx?wsdl	blankserver.com	United States
+4704	http://live2.blinds.com/Blinds/Core/Events/server.php?wsdl	blinds.com	United States
+4705	http://demo.borland.com/AspNetDataTypes/DataTypes.asmx?WSDL	borland.com	United States
+4706	http://boudreauxs.net/admin/ajax/VisitorTracker.asmx?WSDL	boudreauxs.net	United States
+4707	http://brainporn.net/service.asmx?WSDL	brainporn.net	United States
+4708	http://www.breakingpar.com/anygolfleague/home.nsf/DemoWebService?WSDL	breakingpar.com	United States
+4709	http://briarpatchbasketry.com/Baskets/Tools/Catalog.asmx?WSDL	briarpatchbasketry.com	United States
+4710	http://drorshalev.brinkster.net/dev/Service/default.asmx?WSDL	brinkster.net	United States
+4711	http://aff2.broadjam.net/SOAP_SERVER.php/?wsdl	broadjam.net	United States
+4712	http://bryancave.com/FCWSite/BryanCaveWS/BCWebServices.asmx?WSDL	bryancave.com	United States
+4713	http://www.brytan.com/webservices/RemoteGateway.asmx?wsdl	brytan.com	United States
+4714	http://businessphotosusa.com/getphoto.asmx?WSDL	businessphotosusa.com	United States
+4715	http://www.camphorizonsva.com/CH-Web/Global/SecureLogin.asmx?WSDL	camphorizonsva.com	United States
+4716	http://search2.campingfriend.com/ajaxservice.asmx?wsdl	campingfriend.com	United States
+4717	http://candidcostume.com/CRZService.asmx?WSDL	candidcostume.com	United States
+4718	http://cmaxdemo.cardinalcommerce.com/CMaxAdmin/WebServices/CardinalMaxOMS.asmx?WSDL	cardinalcommerce.com	United States
+4719	http://webservice.careered.com/leadvendor/retrievecurrentvendordata.asmx?WSDL	careered.com	United States
+4720	http://www.cazella.com/math.asmx?WSDL	cazella.com	United States
+4721	http://webservices.channelblade.com/cbupload/uploadfeeds.asmx?WSDL	channelblade.com	United States
+4722	http://vonage.channelsuite.com/vonagews/InstallOrder.wsdl	channelsuite.com	United States
+4723	http://im.chinesemol.com/IMWebService/ManageUsersService.asmx?wsdl	chinesemol.com	United States
+4724	http://services.chumcity.net/CityTV/Entertainment/GetEntertainmentListingsService.asmx?WSDL	chumcity.net	United States
+4725	http://mpip.cityofmobile.org/MpipWebService/GetPeopleSearch.asmx?WSDL	cityofmobile.org	United States
+4726	http://sws.clearforest.com/ws/sws.asmx?wsdl	clearforest.com	United States
+4727	http://www.cluein.com/vuService.asmx?WSDL	cluein.com	United States
+4728	http://cluuz1.cluuz.com/Extract.asmx?WSDL	cluuz.com	United States
+4729	http://wsnew.sp.cm3consulting.com/smartparts.asmx?WSDL	cm3consulting.com	United States
+4730	http://staging.awwa.cms-plus.com/AWWA/webservices/awwaservices/loginservice.asmx?wsdl	cms-plus.com	United States
+4731	http://deepthought.casos.cs.cmu.edu/ORASoap/ora.wsdl	cmu.edu	United States
+4732	http://www.cocacola.nl/memberservice2/CocaColaMemberService.asmx?WSDL	cocacola.nl	United States
+4733	http://coglianese.org/recipes/RecipeService.asmx?WSDL	coglianese.org	United States
+4734	http://music.coinlists.com/services.asmx?wsdl	coinlists.com	United States
+4735	http://www.colorpointprint.com/mail.asmx?WSDL	colorpointprint.com	United States
+4736	http://www.compkarori.com/wsdl/discordian.wsdl	compkarori.com	United States
+4737	http://euwssrvr.connectmevoice.com/Services.asmx?WSDL	connectmevoice.com	United States
+4738	http://mn.cosmeo.com/ws/homeScavengerHunt.cfc?wsdl	cosmeo.com	United States
+4739	http://www.craniumsoftworks.net/EMS_Service_Biz21/EMS_Service1.asmx?WSDL	craniumsoftworks.net	United States
+4740	http://www.creditcardclients.com/bta.asmx?WSDL	creditcardclients.com	United States
+4741	http://www.crma.org/WebService.asmx?WSDL	crma.org	United States
+4742	http://csharper.net/ScriptService.asmx?WSDL	csharper.net	United States
+4743	http://www.cyhstar.net/TrxWS/Service.asmx?WSDL	cyhstar.net	United States
+4744	http://dataservice.org/mli/Webservices/AutoCompleteService.asmx?WSDL	dataservice.org	United States
+4745	http://www.dausman.net/Functions.asmx?WSDL	dausman.net	United States
+4746	http://davenw.com/Monolith.asmx?WSDL	davenw.com	United States
+4747	http://dbvt.com/blog/api/BlogImporter.asmx?WSDL	dbvt.com	United States
+4748	http://www.dealermojo.com/svc2/external.asmx?WSDL	dealermojo.com	United States
+4749	http://www.debevoise.com/fcwsite/debevoisewebservice/load.asmx?WSDL	debevoise.com	United States
+4750	http://www.debtsettlementusa.com/service/leadintake.asmx?wsdl	debtsettlementusa.com	United States
+4751	http://services.deserthail.com/GeodataService/ServiceMaster.asmx?WSDL	deserthail.com	United States
+4752	http://www.discoverdance.co.uk/UKCoordinates/GeographicalCoord.asmx?wsdl	discoverdance.co.uk	United States
+4753	http://dmci.ca/webservice/Template.asmx?WSDL	dmci.ca	Canada
+4754	http://www.militaryblood.dod.mil/SlidesService.asmx?WSDL	dod.mil	United States
+4755	http://www.donecard.com/donecardservice.asmx?WSDL	donecard.com	India
+4756	http://www.dotnetjohn.com/services/guestbook.asmx?wsdl	dotnetjohn.com	United States
+4757	http://cn.drm-x.com/HaihaisoftLicenseService.asmx?WSDL	drm-x.com	Australia
+4758	http://sec.drorshalev.com/dev/Service/default.asmx?WSDL	drorshalev.com	United States
+4759	http://duringlunch.com/api/BlogImporter.asmx?WSDL	duringlunch.com	United States
+4760	http://resumeparserws.e1source.com/EconnResumeParserUsa.asmx?WSDL	e1source.com	United States
+4761	http://www.easyfreight.com/ezmanager/Service.asmx?WSDL	easyfreight.com	United States
+4762	http://www.eatbetteramerica.com/Flashwebservice.asmx?wsdl	eatbetteramerica.com	United States
+4763	http://services.edneeis.com/ErrorReporting.asmx?wsdl	edneeis.com	United States
+4764	http://educationplus.in/Webservice.asmx?WSDL	educationplus.in	United States
+4765	http://new.ehealthcompete.com/webservices/eis.wsdl	ehealthcompete.com	United States
+4766	http://e-houses-for-rent.com/WebService.asmx?WSDL	e-houses-for-rent.com	United Kingdom
+4767	http://eireads.com/Services/SiteServices.asmx?WSDL	eireads.com	Israel
+4768	http://ekdahlrealestate.net/WebServices/GalleryService.asmx?WSDL	ekdahlrealestate.net	United States
+4769	http://dev.ektron.com/workarea/webservices/contentws.asmx?WSDL	ektron.com	United States
+4770	http://www.eleadz.com/components/provider.cfc?wsdl	eleadz.com	United States
+4771	http://www.elearners.com/WebServices/external/ELearnersWebService.asmx?WSDL	elearners.com	United States
+4772	http://www.elvedin.ca/PortfolioService/Service.asmx?WSDL	elvedin.ca	United States
+4773	http://api.emaildirect.com/v1/api.asmx?WSDL	emaildirect.com	United States
+4774	http://chopper.emassivestores.com/admin/WorkFlowService.asmx?wsdl	emassivestores.com	United States
+4775	http://portal.emswireless.com/WebService/dbEMSW2.asmx?wsdl	emswireless.com	United States
+4776	http://www.enderminh.com/webservices/vietnameseconversions.asmx?WSDL	enderminh.com	United States
+4777	http://echo.epsilon.com/webservices/echoengine/echowebservice.asmx?wsdl	epsilon.com	United States
+4778	http://www.eqsl.cc/WebServices/LogServices.asmx?wsdl	eqsl.cc	United States
+4779	http://www.etecnologia.net/samples/webservices/mathservice.asmx?WSDL	etecnologia.net	United States
+4780	http://lookup.ewoss.com/wasingertech_globaldata.asmx?WSDL	ewoss.com	United States
+4781	http://experthomeoffers.com/ClientServices.asmx?WSDL	experthomeoffers.com	United States
+4782	http://www.expoleadslive.com/leadsservice.asmx?WSDL	expoleadslive.com	United States
+4783	http://www.eyemaginations.com/cgi-bin/getWSDL.pl?wsdl=WebFunction.wsdl	eyemaginations.com	United States
+4784	http://app.eyespeakenglish.com/EYESPEAK.WSDL	eyespeakenglish.com	United States
+4785	http://profile.fanbox.com/API/FriendsAPI.asmx?WSDL	fanbox.com	United States
+4786	http://www.farequest.com/FASTWebService.asmx?WSDL	farequest.com	United States
+4787	http://www.fathead.com/AutoComplete.asmx?WSDL	fathead.com	United States
+4788	http://www.fepicop.pt/ws/Auth/Auth.wsdl	fepicop.pt	United States
+4789	http://webservices.file123.com/AffiliateFactory.asmx?WSDL	file123.com	United States
+4790	http://www.fitnesswizard.com/Services/CalculationService.asmx?WSDL	fitnesswizard.com	United States
+4791	http://fkp.com/admin/ajax/VisitorTracker.asmx?WSDL	fkp.com	United States
+4792	http://www.flashcash.com/signup/soap_localbilling.php?wsdl	flashcash.com	United States
+4793	http://api.floe.tv/Inode.asmx?WSDL	floe.tv	United States
+4794	http://www.followtheclick.com/WebService.asmx?WSDL	followtheclick.com	United States
+4795	http://www.foxcentral.net/foxcentral.wsdl	foxcentral.net	United States
+4796	http://frameplace.com/CustomFrame/CustomFrameService.asmx?WSDL	frameplace.com	United States
+4797	http://api.fresno.edu/touchnet/tpgws.asmx?WSDL	fresno.edu	United States
+4798	http://www.frightcatalog.com/WebServices.asmx?WSDL	frightcatalog.com	United States
+4799	http://www.fsicatalog.com/webservices/orderprocessing.asmx?wsdl	fsicatalog.com	United States
+4800	http://campusapps.fullerton.edu/GeneService/Service1.asmx?WSDL	fullerton.edu	United States
+4801	http://www.funwithtape.com/Flash.asmx?wsdl	funwithtape.com	United States
+4802	http://www.g4tv.com/startrek20/spockmarket.asmx?WSDL	g4tv.com	United States
+4803	http://www.gamecheatsoftware.com/webservices/gamestats/mahjong_stat_submission.php?wsdl	gamecheatsoftware.com	United States
+4804	http://gamecp.com/gcplic/licencing.php?wsdl	gamecp.com	United States
+4805	http://gatesinc.com/webServices/imagePull.asmx?WSDL	gatesinc.com	United States
+4806	http://www.geekymonkey.com/sms/smsservice.asmx?wsdl	geekymonkey.com	United States
+4807	http://geocoder.us/dist/eg/clients/GeoCoderPHP.wsdl	geocoder.us	United States
+4808	http://tools.georgia.org/ExploreGeorgiaServices.asmx?wsdl	georgia.org	United States
+4809	http://www.getthejob.com/webservices/s.asmx?WSDL	getthejob.com	United States
+4810	http://www.ghytred.com/NewsLook/News/NewsLookNews.asmx?WSDL	ghytred.com	United States
+4811	http://gis.glastonbury-ct.gov/ceo/ArcIMSCommunicator/Request.asmx?WSDL	glastonbury-ct.gov	United States
+4812	http://test.globalplatform.ws/dv/gpcs/gpts/transactionservice.asmx?WSDL	globalplatform.ws	United States
+4813	http://www.gluesoft.co.jp/Rss/RssSvc.asmx?WSDL	gluesoft.co.jp	Canada
+4814	http://ws.gmc-mtg.com/info/webloans.asmx?WSDL	gmc-mtg.com	United States
+4815	http://enrolligence.goalquest.com/ws/gq.wsdl	goalquest.com	United States
+4816	http://www.goalslive.com/new/feed/feed.asmx?wsdl	goalslive.com	United States
+4817	http://golffacility.com/api/crmteetimeapi.asmx?WSDL	golffacility.com	United States
+4818	http://instaconnect.golivemobile.com/gatewayws.php?wsdl	golivemobile.com	United States
+4819	http://www.go-mono.com/docs/server.asmx?wsdl	go-mono.com	United States
+4820	http://crop.goofytalk.com/crop.asmx?WSDL	goofytalk.com	United States
+4821	http://symphonie.goolara.net/radiofreeeurope/api/SymphonieApiWs.asmx?wsdl	goolara.net	United States
+4822	http://www.graceag.net/api/BlogImporter.asmx?wsdl	graceag.net	United States
+4823	http://www.grbhosts.org/ghostsws.asmx?WSDL	grbhosts.org	United States
+4824	http://grbj.com/rss/headlines.asmx?WSDL	grbj.com	United States
+4825	http://greyoakscc.com/webServices/imagePull.asmx?WSDL	greyoakscc.com	United States
+4826	http://www.grovelandsoftwarelabs.com/ModeExplorerWeb/MXP/ModeService.asmx?WSDL	grovelandsoftwarelabs.com	United States
+4827	http://api.gtmwebservices.com/service.asmx?WSDL	gtmwebservices.com	United States
+4828	http://www.hacsc.com/xml/courses.cfc?wsdl	hacsc.com	United States
+4829	http://test.hccrediteca.com/ws/icfg/wsa.asmx?WSDL	hccrediteca.com	United States
+4830	http://www.headwinds.net/WebService.asmx?WSDL	headwinds.net	United States
+4831	http://www.heroicsalmonleap.net/SudokuSolver/SudokuSolverWS.asmx?wsdl	heroicsalmonleap.net	United States
+4832	http://www.hiretouch.com/hiretouch/@management/jobs/jobpost/Service.asmx?WSDL	hiretouch.com	United States
+4833	http://hlswap.com/_server/ResultNotification?wsdl	hlswap.com	United States
+4834	http://www.hmonline.com/WebServices.asmx?WSDL	hmonline.com	United States
+4835	http://www.hollywoodfl.org/BCLA/CodeViolators.asmx?wsdl	hollywoodfl.org	United States
+4836	http://partners.homeloancenter.com/PartnerLeadGateway/TestLeadService.asmx?WSDL	homeloancenter.com	United States
+4837	http://www.homezonemedia.com/XML/HomeZoneMedia.asmx?WSDL	homezonemedia.com	United States
+4838	http://www.horizonsconsulting.net/Global/SecureLogin.asmx?WSDL	horizonsconsulting.net	United States
+4839	http://horizonsoutdoorlearningcenter.com/Global/SecureLogin.asmx?WSDL	horizonsoutdoorlearningcenter.com	United States
+4840	http://www.horizonsyouthservices.com/HYS-Web/Global/SecureLogin.asmx?WSDL	horizonsyouthservices.com	United States
+4841	http://houseoncrete.gr/Locations.asmx?WSDL	houseoncrete.gr	United States
+4842	http://hle.htzpartners.com/locationSearch/locationRouting.asmx?wsdl	htzpartners.com	United States
+4843	http://www.huberstyle.com/slxws/calc.asmx?wsdl	huberstyle.com	United States
+4844	http://hurricanetechnology.net/services/BiorhythmService?wsdl	hurricanetechnology.net	United States
+4845	http://lab.bcb.iastate.edu/sandbox/yves/metnet/metnet3/service/metnet3.asmx?WSDL	iastate.edu	United States
+4846	http://www.idigitalphoto.com/WebService/Dictionary.asmx?WSDL	idigitalphoto.com	United States
+4847	http://www.ignyte.com/webservices/ignyte.whatsshowing.webservice/moviefunctions.asmx?wsdl	ignyte.com	United States
+4848	http://ilion-strategies.com/ws/validphonemx.asmx?WSDL	ilion-strategies.com	United States
+4849	http://immortalityinternational.com/number2words/service.asmx?WSDL	immortalityinternational.com	United States
+4850	http://www.indianacrop.org/LablinkWS/LablinkWS.asmx?WSDL	indianacrop.org	United States
+4851	http://www.infidev.net/couponservice.asmx?WSDL	infidev.net	United States
+4852	http://www.infinian.net/couponservice.asmx?WSDL	infinian.net	United States
+4853	http://beta.informars.com/webservices/portalapi/service.asmx?WSDL	informars.com	United States
+4854	http://www.inmolink.net/WebService/InmolinkInterface.asmx?wsdl	inmolink.net	United States
+4855	http://www.interlacken.com/webdbpgm/ch14svc/adsvc.asmx?WSDL	interlacken.com	Canada
+4856	http://recipews.internet-staging.com/recipes.asmx?WSDL	internet-staging.com	United States
+4857	http://beta.intertask.com/F1BostonWebService/f1.asmx?wsdl	intertask.com	United States
+4858	http://www.intraworks.net/DVDDatabase/MovieInformation.asmx?WSDL	intraworks.net	United States
+4859	http://ws.ip2location.com/ip2locationwebservice.asmx?wsdl	ip2location.com	United States
+4860	http://ioi-lead.apps.islandone.biz/service.asmx?wsdl	islandone.biz	United States
+4861	http://examples.itko.com/itko-examples/services/UserControlService?wsdl	itko.com	United States
+4862	http://itmusa.net/getdotnetnews.asmx?wsdl	itmusa.net	United States
+4863	http://ittyurl.net/IttyUrlService.asmx?wsdl	ittyurl.net	United States
+4864	http://iunknownteam.com/GetData.asmx?WSDL	iunknownteam.com	United States
+4865	http://www.jangle.net/ws/AircraftData.asmx?wsdl	jangle.net	United States
+4866	http://tumor.informatics.jax.org/mtbws/services/StrainService?wsdl	jax.org	United States
+4867	http://ims.jocogov.org/webservices/AddressWebService/AddressWebService.asmx?wsdl	jocogov.org	United States
+4868	http://joeuser.com/ws/Cache.asmx?WSDL	joeuser.com	United States
+4869	http://beta.jwatch.org/Services/Service.asmx?WSDL	jwatch.org	United States
+4870	http://kamalpatel.net/ConvertCSharp2VBService.asmx?wsdl	kamalpatel.net	United States
+4871	http://kghn77.kghost.net/wsrv/wsrv_TranslationRequest.asmx?wsdl	kghost.net	United States
+4872	http://klickfile.com/kfclientservice/service.asmx?WSDL	klickfile.com	United States
+4873	http://currencyconverter.kowabunga.net/converter.asmx?WSDL	kowabunga.net	United States
+4874	http://ratest.langate.net/RA/WebServices/WebService.asmx?WSDL	langate.net	United States
+4875	http://staging.launchfire.com/GMAC/realestate/webservice/server.php?wsdl	launchfire.com	United States
+4876	http://www.launchtechnologies.com/JobApplication/JobApplication.asmx?WSDL	launchtechnologies.com	United States
+4877	http://web.services.leveragesoftware.com/v4.6/invitation/invitationservice.asmx?WSDL	leveragesoftware.com	United States
+4878	http://soe-qa.ae.lgrelease.com/simulator.asmx?WSDL	lgrelease.com	United States
+4879	http://www.lightcastlegroup.com/webservice.asmx?wsdl	lightcastlegroup.com	United States
+4880	http://www.linricsoftware.com/psychlib/PsyCalcWS.wsdl	linricsoftware.com	United States
+4881	http://mailman.listopica.com/MailManager.asmx?WSDL	listopica.com	United States
+4882	http://livecycledata.org/services/ProductWS?wsdl	livecycledata.org	United States
+4883	http://livegadgets.net/service.asmx?WSDL	livegadgets.net	United States
+4884	http://api.livehelpgenie.com/index.asmx?WSDL	livehelpgenie.com	United States
+4885	http://www.lizzwright.net/webservices/v4.0/int/MemberService.asmx?WSDL	lizzwright.net	United States
+4886	http://services.logtechnology.net/abm3.asmx?WSDL	logtechnology.net	United States
+4887	http://logtel.com/conferences/SlideService.asmx?WSDL	logtel.com	United States
+4888	http://main.losthighwayrecords.com/webservices/v4.0/int/MemberService.asmx?WSDL	losthighwayrecords.com	United States
+4889	http://lostsprings.com/weather/WeatherService.asmx?WSDL	lostsprings.com	United States
+4890	http://mail.maibor.com/Services/svcAliasAdmin.asmx?WSDL	maibor.com	United States
+4891	http://xml.majesticusa.com/service.asmx?WSDL	majesticusa.com	United States
+4892	http://datameal-mongoose.majlab.com/ws2/index.php?wsdl&PHPSESSID=c786ec4a7fea8b6ef5ac31bd6297f0e6	majlab.com	United States
+4893	http://www.maniezo.com.br/webservice/soap-server.php?wsdl	maniezo.com.br	United States
+4894	http://www.maritimeyellowpages.com/ws/LinkExchange.asmx?wsdl	maritimeyellowpages.com	United States
+4895	http://markitup.com/(A(WlO-nR88M7Uj_QNtcjwbM7G3L3ohF62vcUZynB3q2xF2Ifz7fTk1bHK-9GPURVRXQ3Zev8K2lvrc8hyn_-G55KdevNLQrKhyVTosRqa3U2g1))/WebServices/TimeZones.asmx?wsdl	markitup.com	United States
+4896	http://www.maslan.org/TrafficService.asmx?WSDL	maslan.org	United States
+4897	http://maurycarter.com/DLService.asmx?WSDL	maurycarter.com	United States
+4898	http://www.maxmind.com/app/minfraud_soap_wsdl	maxmind.com	United States
+4899	http://www.maybelline.com/ws/mca.asmx?WSDL	maybelline.com	United States
+4900	http://media-drm.com/haihaisoftlicenseservice.asmx?WSDL	media-drm.com	United States
+4901	http://ws.melissadata.com/dqws/address.asmx?wsdl	melissadata.com	United States
+4902	http://merchantstire.com/service/TireKingdom.asmx?WSDL	merchantstire.com	United States
+4903	http://metaveh.co.il/Services/SiteServices.asmx?WSDL	metaveh.co.il	United States
+4904	http://www.mgenmanager.com/importleads/import.asmx?wsdl	mgenmanager.com	United States
+4905	http://www.mikemoss.com/EM/ErrorMailer.asmx?wsdl	mikemoss.com	United States
+4906	http://www.mikepope.com/blog/blogfeed.asmx?wsdl	mikepope.com	United States
+4907	http://mlbs.net/nacgeoservices/geoservices.asmx?wsdl	mlbs.net	United States
+4908	http://sms.mobileart.com/sms_receive.wsdl	mobileart.com	United States
+4909	http://www.mobileinfosms.com/webservice/enviaInfoSMS.asmx?WSDL	mobileinfosms.com	United States
+4910	http://www.mondor.org/ces/rates.asmx?WSDL	mondor.org	United States
+4911	http://www.montgomerycountyspca.org/PetImage.asmx?wsdl	montgomerycountyspca.org	United States
+4912	http://www.moral-politics.com/xpolitics.asmx?WSDL	moral-politics.com	United States
+4913	http://www.mrdefaultservices.net/FileTransfer.asmx?WSDL	mrdefaultservices.net	United States
+4914	http://www.mrdefaultservicestest.net/FileTransfer.asmx?WSDL	mrdefaultservicestest.net	United States
+4915	http://www.msdsonline.com/comet/comet.asmx?WSDL	msdsonline.com	United States
+4916	http://www.muslim-calendar.com/mcWebServices.asmx?WSDL	muslim-calendar.com	United States
+4917	http://mycusthelpadmin.com/UPCLIVENL/ZAdmin/_ws/_wslib.asmx?wsdl	mycusthelpadmin.com	United States
+4918	http://webservices.mypeople.com/shippingengine/shippingfulfillment.asmx?WSDL	mypeople.com	United States
+4919	http://www.mypopchecker.com/webservices/mypopinfo.asmx?WSDL	mypopchecker.com	United States
+4920	http://kb.myrsi.com/WebServices/Glossary.asmx?WSDL	myrsi.com	United States
+4921	http://mail3.navneservice.com/services/svcUserAdmin.asmx?WSDL	navneservice.com	United States
+4922	http://beta.nejm.org/Services/Service.asmx?WSDL	nejm.org	United States
+4923	http://www.nermins.net/api/BlogImporter.asmx?wsdl	nermins.net	United States
+4924	http://www.netdirector.biz:7001/web-services/NetDirectorTransactionExchange?WSDL	netdirector.biz	United States
+4925	http://www.neurofuzz.com/modules/cryptoService/cryptoSOAP.php?wsdl	neurofuzz.com	United States
+4926	http://newcenturyhomes.gr/Locations.asmx?WSDL	newcenturyhomes.gr	United States
+4927	http://www.nexus6studio.net/api/BlogImporter.asmx?WSDL	nexus6studio.net	United States
+4928	http://www.nickhodge.com/nhodge/finnwords/finnwords.wsdl	nickhodge.com	United States
+4929	http://currency.niekutis.net/currency.asmx?wsdl	niekutis.net	United States
+4930	http://leads.nlservice.net/WebServices/NTLServices.asmx?WSDL	nlservice.net	United States
+4931	http://www.nonplus.net/geek/samples/books.php?wsdl	nonplus.net	United States
+4932	http://www.notableandquotable.com/RandomQuote.asmx?wsdl	notableandquotable.com	United States
+4933	http://api.notch.es/soap/output.asmx?WSDL	notch.es	United States
+4934	http://www.notessidan.se/A55B53/blogg.nsf/notessidan?WSDL	notessidan.se	Sweden
+4935	http://scisalliance.scis.nova.edu/mmis657_fall_2002/quintani/q6b/WeightService.asmx?WSDL	nova.edu	United States
+4936	http://www2.nr.edu/employees/suggest_a_name.asmx?WSDL	nr.edu	United States
+4937	http://ntb.com/service/TireKingdom.asmx?WSDL	ntb.com	United States
+4938	http://evernet.nwmls.com/evernetqueryservice/evernetquery.asmx?wsdl	nwmls.com	United States
+4939	http://www.obovo.com/services/SearchService.asmx?WSDL	obovo.com	United States
+4940	http://3pi.oeconnection.com/cip/cip.asmx?WSDL	oeconnection.com	United States
+4941	http://www.onlinefilefolder.com/soap/public/PCServer.php?wsdl	onlinefilefolder.com	United States
+4942	http://www.onlinegolfchallenge.com/golfserver.asmx?wsdl	onlinegolfchallenge.com	United States
+4943	http://www.onlinesalescentral.com/OrderFeed/OrderFeed.asmx?WSDL	onlinesalescentral.com	United States
+4944	http://onlinesd.com/webservices/Service.asmx?WSDL	onlinesd.com	United States
+4945	http://opel.nl/WebServices/Forms/AutoComplete.asmx?WSDL	opel.nl	United States
+4946	http://www.openntf.org/projects/pmt.nsf/CheckVersion?WSDL	openntf.org	United States
+4947	http://www.opportunities.com.lb/InfoWebStoreClientOrders/InfoWebService.asmx?wsdl	opportunities.com.lb	United States
+4948	http://www.optimalblue.com/enginews/utility.asmx?WSDL	optimalblue.com	United States
+4949	http://services.overseer-station.com/services.asmx?WSDL	overseer-station.com	United States
+4950	http://www.ownerdirect.com/webservices/OdvrPropertyAvailability.asmx?wsdl	ownerdirect.com	United States
+4951	http://www.pdaschedule.com/ws/pdaschedule.asmx?wsdl	pdaschedule.com	United States
+4952	http://www.peekacity.com/PeekacityWS.asmx?WSDL	peekacity.com	United States
+4953	http://www.peridotec.com/Service.asmx?WSDL	peridotec.com	United States
+4954	http://www.peterritchie.com/WebService1/Service1.asmx?wsdl	peterritchie.com	United States
+4955	http://www.phdcc.com/findinsite/SearchService.asmx?wsdl	phdcc.com	United States
+4956	http://photoreflect.com/prws/service.asmx?WSDL	photoreflect.com	United States
+4957	http://www.pixeljoint.com/ws/ImageWS2.asmx?WSDL	pixeljoint.com	United States
+4958	http://browse.pixsy.com/TreeManager.asmx?WSDL	pixsy.com	United States
+4959	http://pixsypower.com/userservice/userservice.asmx?WSDL	pixsypower.com	United States
+4960	http://www.planethospital.com/crm/soap.php?wsdl	planethospital.com	United States
+4961	http://www.playfast.com/FantasyWebService/beatz106.asmx?WSDL	playfast.com	United States
+4962	http://www.us.playstation.com/WebServices/Search.asmx?WSDL	playstation.com	United States
+4963	http://www.plaza101.com/AutoComplete.asmx?WSDL	plaza101.com	United States
+4964	http://stats.porta80.com.br/services/siteadmin.asmx?wsdl	porta80.com.br	Brazil
+4965	http://www.premierguitar.com/WebService.asmx?WSDL	premierguitar.com	United States
+4966	http://primacomputing.co.nz/AVSWebService/AVSWebService.asmx?wsdl	primacomputing.co.nz	United States
+4967	http://rateticker.progressive.com/SuperCREWS.asmx?wsdl	progressive.com	United States
+4968	http://www.projectpimp.org/PimpSite/public/the_pimp/service.wsdl	projectpimp.org	United States
+4969	http://www.psmhosting.net/Services/svcAMBatch.cfc?wsdl	psmhosting.net	United States
+4970	http://puturist.com/Admin/Travel/WebServices/Travel/TravelService.asmx?wsdl	puturist.com	United States
+4971	http://www.pvrx.org/PVRXWS.asmx?WSDL	pvrx.org	United States
+4972	http://www.pwrx.com/AutoComplete.asmx?WSDL	pwrx.com	United States
+4973	http://www.q88.com/ws/q88ws.asmx?wsdl	q88.com	United States
+4974	http://examples.qcodo.com/examples/communication/example_service.php?wsdl	qcodo.com	United States
+4975	http://www.qualidator.com/wqm/WebServices/TestWebsite.asmx?WSDL	qualidator.com	United States
+4976	http://www.razmattaz.net/webservices/dailycomicsservice.asmx?wsdl	razmattaz.net	United States
+4977	http://www.razsms.co.za/sendsms3.asmx?WSDL	razsms.co.za	United States
+4978	http://rbaswfl.com/webServices/imagePull.asmx?WSDL	rbaswfl.com	United States
+4979	http://neighborhoods.realtor.com/Pages/Neighborhoods/RestService.asmx?WSDL	realtor.com	United States
+4980	http://reliablesoftware.net/add.asmx?WSDL	reliablesoftware.net	United States
+4981	http://www.remembergod.org/webservice/remembergod.wsdl	remembergod.org	United States
+4982	http://www.remembergod.us/webservice/remembergod.wsdl	remembergod.us	United States
+4983	http://www.reminderconnection.net/RCaster.asmx?WSDL	reminderconnection.net	United States
+4984	http://www.rideontime.com/ws/DataUtil.asmx?wsdl	rideontime.com	United States
+4985	http://www.riptrails.com/webservices/Weather.asmx?WSDL	riptrails.com	United States
+4986	http://jal7t.rmxpres.com/redirect/sm.asmx?WSDL	rmxpres.com	United States
+4987	http://roller.com.mx/RollerV1/Services/AdministrationService.asmx?WSDL	roller.com.mx	United States
+4988	http://www.romsteady.net/whatip/iphelpers.asmx?wsdl	romsteady.net	United States
+4989	http://www.ropesgray.com/fcwsite/webservices/professionalservice.asmx?WSDL	ropesgray.com	United States
+4990	http://rushservice.rushweb.com/myservice.asmx?WSDL	rushweb.com	United States
+4991	http://calc.ryantechinc.com/service.asmx?WSDL	ryantechinc.com	United States
+4992	http://sanity-free.org/services/ws.php?wsdl	sanity-free.org	United States
+4993	http://dsbs.sba.gov/dsbs/ws/wbs_publicservices.cfc?wsdl	sba.gov	United States
+4994	http://www.scdi.org/~avernet/webservice/yim.wsdl	scdi.org	United States
+4995	http://www.schickclick.com/services/index?wsdl	schickclick.com	United States
+4996	http://websvc.schooldude.com/cbas/connectbas.asmx?wsdl	schooldude.com	United States
+4997	http://sconekb.com/SconeWS/Service.asmx?WSDL	sconekb.com	United States
+4998	http://www.sctvchannel.com/sc_admin/sc_cms.asmx?WSDL	sctvchannel.com	United States
+4999	http://web8.securetss.com/com/clearviewtss/util/HashProvider.cfc?wsdl	securetss.com	United States
+5000	http://www.securexml.net/SecureXML/SecureXML.wsdl	securexml.net	United States
+5001	http://srs.segpay.com/MWS.asmx?wsdl	segpay.com	United States
+5002	http://www.semcog.org/AutoComplete.asmx?WSDL	semcog.org	United States
+5003	http://sensorbase.org/soap/sensorbase2.wsdl	sensorbase.org	United States
+5004	http://webservices.serviceu.com/v1/publiccalendar.asmx?WSDL	serviceu.com	United States
+5005	http://webservices.sevder.com/DictionaryManager.asmx?WSDL	sevder.com	United States
+5006	http://mail.sevenate.com/Services/svcUserAdmin.asmx?wsdl	sevenate.com	United States
+5007	http://www.shahrazad.info/Shahrazad/api/BlogImporter.asmx?wsdl	shahrazad.info	United States
+5008	http://service.sharewarestarterkit.com/service.asmx?WSDL	sharewarestarterkit.com	United States
+5009	http://www.shelfari.com/ws/hobart.asmx?WSDL	shelfari.com	United States
+5010	http://weather.shellware.com/weather.asmx?wsdl	shellware.com	United States
+5011	http://silverlakeautoparts.co.uk/ad.asmx?WSDL	silverlakeautoparts.co.uk	United States
+5012	http://simplegeek.com/BlogxBrowsing.asmx?WSDL	simplegeek.com	United States
+5013	http://www.sinema.com/ws/index.php?wsdl	sinema.com	Turkey
+5014	http://post.slfg.net/suppliers/webservices/suppliers_Insert_Lead.asmx?WSDL	slfg.net	United States
+5015	http://www.slxtraining.com/slxws/getforexrate.asmx?WSDL	slxtraining.com	United States
+5016	http://www.smileyberks.com/webservices/SmileyWebServices/Service1.asmx?wsdl	smileyberks.com	United States
+5017	http://www.smseasy.co.za/sendsms3.asmx?WSDL	smseasy.co.za	United States
+5018	http://www.smsportal.co.za/sendsms3.asmx?WSDL	smsportal.co.za	United States
+5019	http://www.sms-ya.com/services/index?wsdl	sms-ya.com	United States
+5020	http://snb.co.il/Services/SiteServices.asmx?WSDL	snb.co.il	United States
+5021	http://services.sparkstudios.com/ErrorHandler.asmx?wsdl	sparkstudios.com	United States
+5022	http://api.sslgenie.com/index.asmx?WSDL	sslgenie.com	United States
+5023	http://www.sstregister.org/services/WSDL/sstr.wsdl	sstregister.org	United States
+5024	http://www.sstsoftware.com/imagerymetadataservice/imagerymetadataservice.asmx?wsdl	sstsoftware.com	United States
+5025	http://www.stacks.com/services-public.asmx?WSDL	stacks.com	United States
+5026	http://apps.dot.state.nc.us/tims/WebService/IncidentDatabase.asmx?WSDL	state.nc.us	United States
+5027	http://www.stjoesgaa.com/WebServices/Photos.asmx?WSDL	stjoesgaa.com	United States
+5028	http://strangelights.com/fsharp/AspfDemo/FunctionCalls.asmx?wsdl	strangelights.com	United States
+5029	http://www.structuretoobig.com/WorldMapService.asmx?WSDL	structuretoobig.com	United States
+5030	http://www.stuller.com/developer/services/stullerinvoiceservice.asmx?WSDL	stuller.com	United States
+5031	http://www.subgurim.net/servicios-web/smaths.asmx?WSDL	subgurim.net	United States
+5032	http://demo.sugarcrm.com/sugarcrm/soap.php?wsdl	sugarcrm.com	United States
+5033	http://demo.sugarondemand.com/sugarcrm/soap.php/?wsdl	sugarondemand.com	United States
+5034	http://cds.cmsg.sun.com/serverscript/serverscript?WSDL	sun.com	United States
+5035	http://www.sunrisell.com/SunriseLittleLeague/cfc/webservice.cfc?wsdl	sunrisell.com	United States
+5036	http://www.superstitionmountain.com/services/LotService.asmx?WSDL	superstitionmountain.com	United States
+5037	http://portal.suppliesnet.net/PurchaseOrders/purchaseorder.asmx?wsdl	suppliesnet.net	United States
+5038	http://swanandmokashi.com/HomePage/WebServices/QuoteOfTheDay.asmx?WSDL	swanandmokashi.com	United States
+5039	http://www.swift-find.com/SFInterface/sfinterface.asmx?wsdl	swift-find.com	United States
+5040	http://www.syncadia.com/BlackScholes.asmx?wsdl	syncadia.com	United States
+5041	http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE686/code/calcWebService/Calc.asmx?WSDL	syr.edu	United States
+5042	http://www.taggify.net/blog/api/BlogImporter.asmx?WSDL	taggify.net	United States
+5043	http://services.taxwatch.biz/rates/kansas/sstp.wsdl	taxwatch.biz	United States
+5044	http://technologydr.com/DesktopModules/OnyakTech.SigmaLive.WS/SigmaLive.asmx?WSDL	technologydr.com	United States
+5045	http://licensing.techsol.org/usage.php?wsdl	techsol.org	United States
+5046	http://www.testout.com/portal/webservices/frameworkinfo.asmx?WSDL	testout.com	United States
+5047	http://www.thecave.com/ws/snowreport.wsdl	thecave.com	United States
+5048	http://www.thelowquote.com/importleads/import.asmx?WSDL	thelowquote.com	United States
+5049	http://www.themidnightcoders.net/flexexamples/BenchmarkService.asmx?WSDL	themidnightcoders.net	United States
+5050	http://dmas.thetask.com/d/soap/dmas.wsdl	thetask.com	United States
+5051	http://www.theticketguys.com/DesktopModules/OnyakTech.SigmaLive.WS/SigmaLive.asmx?WSDL	theticketguys.com	United States
+5052	http://dataworks.thomson.com/dataworks/enterprise/1.0/webServiceClient.asmx?WSDL	thomson.com	United Kingdom
+5053	http://adbrite.thunderstone.com/texis/adbrite/AdbriteServiceServer/describe.wsdl	thunderstone.com	United States
+5054	http://ticketmarketservice.tickco.com/eiservice.asmx?WSDL	tickco.com	United States
+5055	http://www.ticketsnow.com/DataProviders/AutoComplete/AutoComplete.asmx?WSDL	ticketsnow.com	United States
+5056	http://tim-stanley.com/api/BlogImporter.asmx?WSDL	tim-stanley.com	United States
+5057	http://tirekingdom.com/service/TireKingdom.asmx?WSDL	tirekingdom.com	United States
+5058	http://www.tmiwireless.com/services/GetProductDetails.asmx?WSDL	tmiwireless.com	United States
+5059	http://topodia.com/InternalAjaxCalls.asmx?WSDL	topodia.com	United States
+5060	http://www.totaltruelove.com/AjaxService.asmx?WSDL	totaltruelove.com	United States
+5061	http://www.travel-center.com/webservices/TCServices.asmx?WSDL	travel-center.com	United States
+5062	http://tsglobalmapping.travelsciences.com/GlobalMapping.asmx?wsdl	travelsciences.com	United States
+5063	http://www.travistrailer.com/admin/ajax/VisitorTracker.asmx?WSDL	travistrailer.com	United States
+5064	http://ws.trillonario.com/ws_login.php?wsdl	trillonario.com	United States
+5065	http://login3.trimblems.com/WebSiteCommon/WebServices/Mapping.asmx?WSDL	trimblems.com	United States
+5066	http://www.trixbox.org/soapCheckUserReg.php?wsdl	trixbox.org	United States
+5067	http://www.trpoint.com/TransactionWebservice/TransactionWebService.asmx?wsdl	trpoint.com	United States
+5068	http://tunerzine.com/latestarticles.asmx?WSDL	tunerzine.com	United States
+5069	http://www.tvps.com/affiliateservice.asmx?WSDL	tvps.com	United States
+5070	http://umgnashville.com/webservices/v4.0/int/MemberService.asmx?WSDL	umgnashville.com	United States
+5071	http://www.icaro2.unime.it/CommunicationLayer/ContentWS.asmx?wsdl	unime.it	United States
+5072	http://unitedbands.com/AutoComplete.asmx?WSDL	unitedbands.com	United States
+5073	http://webcms.unk.edu/WorkArea/WebServices/ContentWS.asmx?WSDL	unk.edu	United States
+5074	http://www.unpicked.com/webservices/whois/whois.asmx?wsdl	unpicked.com	United States
+5075	http://api.urbandictionary.com/soap?wsdl	urbandictionary.com	United States
+5076	http://www.uscav.com/itemsrv/service.asmx?WSDL	uscav.com	United States
+5077	http://www.icee.usm.edu/ICEE/Projects/I-2303-05-S_(James_Williams)/xtext.asmx?WSDL	usm.edu	United States
+5078	http://www.valil.com/ChessWebService/Service.asmx?WSDL	valil.com	United States
+5079	http://www.valuewizard.com/webservices/search.asmx?WSDL	valuewizard.com	United States
+5080	http://www.vantagetravel.com/VTSJourney/Service1.asmx?WSDL	vantagetravel.com	United States
+5081	http://www.vbnetexpert.com/vsm/timeservice/servertime.asmx?wsdl	vbnetexpert.com	United States
+5082	http://vervemusicgroup.com/webservices/v4.0/int/MemberService.asmx?WSDL	vervemusicgroup.com	United States
+5083	http://webservices.viaone.com/pos/pos.asmx?wsdl	viaone.com	United States
+5084	http://issuance.victoire.com.lb/VictoirewebServices/VictoireServices.asmx?wsdl	victoire.com.lb	United States
+5085	http://www.vikramlakhotia.com/GetNamesService.asmx?WSDL	vikramlakhotia.com	United States
+5086	http://sura-vims-pe6600-1.vims.edu/~drf/cgi-bin/oostech.cgi?wsdl	vims.edu	United States
+5087	http://cobrand1.vinamob.com/nfun2_5/B2BService.wsdl	vinamob.com	Australia
+5088	http://www.vinsurance.com/SlidesService.asmx?WSDL	vinsurance.com	United States
+5089	http://www.virtuaceinc.com/fd/Portfolio.asmx?WSDL	virtuaceinc.com	United States
+5090	http://www.virtualordermanagement.com/OrderServices/VOM_Gate.asmx?wsdl	virtualordermanagement.com	United States
+5091	http://www.visibletower.com/Messenger/messagereceiver.asmx?WSDL	visibletower.com	United States
+5092	http://front-3.cust01.visi.com/isearch-m3/imgcount.php?wsdl	visi.com	United States
+5093	http://en.w3schools.com/webservices/tempconvert.asmx?WSDL	w3schools.com	United States
+5094	http://www.wackylabs.net/mt/webservice/examplewsdl.php?wsdl	wackylabs.net	United States
+5095	http://www.webgensol.com/ContentService.asmx?WSDL	webgensol.com	United States
+5096	http://qa-integrations.webhire.com/uiewebservices/uiewebservices.asmx?WSDL	webhire.com	United States
+5097	http://site295.webhost4life.com/venkatbr/WebServices/kannadakasturiwebservice.asmx?WSDL	webhost4life.com	United States
+5098	http://ws.webhostautomation.com/helm4/modulemanagement/modulemanagement.asmx?WSDL	webhostautomation.com	United States
+5099	http://www2.websitepulse.com/wsdl/wsp.wsdl	websitepulse.net	United States
+5100	http://www.whatdoing.com/WebTools/Tools.asmx?wsdl	whatdoing.com	United States
+5101	http://whatsonmybookshelf.com/api/soap.php?wsdl	whatsonmybookshelf.com	United States
+5102	http://wheelspecs.com/WheelModels.asmx?WSDL	wheelspecs.com	United States
+5103	http://www.whodyoubang.com/WhodYouBangServices.asmx?wsdl	whodyoubang.com	United States
+5104	http://whois.net.pk/webservice/whois.asmx?WSDL	whois.net.pk	United States
+5105	http://wikiled.com/services/Similars.asmx?WSDL	wikiled.com	United States
+5106	http://www.windictionary.com/services/Similars.asmx?WSDL	windictionary.com	United States
+5107	http://www.worldofwoodworth.com/AjaxProject1/RSSService.asmx?WSDL	worldofwoodworth.com	United States
+5108	http://wsaf.worldtelemetry.com/WTIPollingService/WTIPollingEngine.asmx?WSDL	worldtelemetry.com	United States
+5109	http://yorktown.cbe.wwu.edu/04Fall/hawleyr/A2/CreditCardValidate.asmx?wsdl	wwu.edu	United States
+5110	http://www.wylieinc.com/DesktopModules/OnyakTech.SigmaLive.WS/SigmaLive.asmx?WSDL	wylieinc.com	United States
+5111	http://xemantex.net/xmxClientDictWebSvc.asmx?WSDL	xemantex.net	United States
+5112	http://www.yakima.com/config/config.asmx?wsdl	yakima.com	United States
+5113	http://sms.yakoon.com/sms.asmx?WSDL	yakoon.com	United States
+5114	http://yetanotherforum.net/Register.asmx?WSDL	yetanotherforum.net	United States
+5115	http://www.zipmgr.com/GeoBrokr.asmx?wsdl	zipmgr.com	United States
+5116	http://uploader.zoomonga.com/UploaderService.asmx?wsdl	zoomonga.com	United States
+5117	http://200.71.4.254:81/CSwsinfo/info.asmx?wsdl	200.71.4.254	Uruguay
+5118	http://200.71.4.254:81/CSwsinfo/Service.asmx?WSDL	200.71.4.254	Uruguay
+5119	http://www.clearing.com.uy/WSExperto/WSExperto.WSDL	clearing.com.uy	Uruguay
+5120	http://ve-cortex.accor-services.com/CTTools/CustomerValidate.asmx?WSDL	accor-services.com	Venezuela
+5121	http://diemthi.laodong.com.vn/webservices/universities.asmx?WSDL	laodong.com.vn	Vietnam
+5122	http://epidas.tachthongtin.com/WebServices/contentservice.asmx?WSDL	tachthongtin.com	Vietnam
+5123	http://epidas.tachthongtin.com/webservices/termservice.asmx?WSDL	tachthongtin.com	Vietnam
+5124	http://203.113.172.33/mssgateway/SMS_WS.asmx?WSDL	203.113.172.33	Vietnam
+5125	http://hocmai.vn/webservice/service.php?wsdl	hocmai.vn	Vietnam
+5126	http://navis.com.vn/AutoCompleteService.asmx?WSDL	navis.com.vn	Vietnam
+5127	http://www.noiket.com.vn/webserviceSMS/wsdlServer.php?wsdl	noiket.com.vn	Vietnam
+5128	http://ws.van.com.vn/van.asmx?WSDL	van.com.vn	Vietnam
+5129	http://alo.xitrum.net/Services/ReceiveMO.php?wsdl	xitrum.net	Vietnam
+5130	http://www.cgmi.com.ar/soap/?wsdl	cgmi.com.ar	Argentina
+5131	http://adserver.fibertel.com.ar/CheckIp/CheckIp.asmx?WSDL	fibertel.com.ar	Argentina
+5132	http://www.siisa.com.ar/soap/CustomerInfo/wsdl/	siisa.com.ar	Argentina
+5133	http://abr.business.gov.au/abrxmlsearch/ABRXMLSearch.asmx?WSDL	business.gov.au	Australia
+5134	http://demo.ippayments.com.au/interface/api/sipp.asmx?WSDL	ippayments.com.au	Australia
+5135	http://kingsparking.com.au/CarsService.asmx?WSDL	kingsparking.com.au	Australia
+5136	http://myproperty.raywhite.com/WebServices/LocalWebServices.asmx?WSDL	raywhite.com	Australia
+5137	http://eca.recruitlive.com.au/interpro/JobsliveWS/randomjobpicker.asmx?WSDL	recruitlive.com.au	Australia
+5138	http://almighty.pri.univie.ac.at/~mangler/Vorlesung2007/manglersVictims.wsdl	univie.ac.at	Austria
+5139	http://dotnet.jku.at/buch/samples/7/header/HeaderService.asmx?WSDL	jku.at	Austria
+5140	http://www.centauri.at/upload.asmx?WSDL	centauri.at	Austria
+5141	http://mail.consio.at/immobilienabrechnung/kontakte.asmx?wsdl	consio.at	Austria
+5142	http://ad.interwetten.com/XMLFeeder/feeder.asmx?WSDL	interwetten.com	Austria
+5143	http://server2.lugnerkinocity.at/sinema/service.asmx?WSDL	lugnerkinocity.at	Austria
+5144	http://ult-sun-api.test.delight.be/mainservice/snowapi.asmx?wsdl	delight.be	Belgium
+5145	http://www.dotnetconsult.co.uk/weblog/blogxbrowsing.asmx?wsdl	dotnetconsult.co.uk	Belgium
+5146	http://webservices.enaos.net/DerniersDecesEPF.asmx?WSDL	enaos.net	Belgium
+5147	http://www.ibama.gov.br/ws/cnuc.php?wsdl	ibama.gov.br	Brazil
+5148	http://home.infusionblogs.com/_vti_bin/Authentication.asmx?wsdl	infusionblogs.com	Canada
+5149	http://www.byjg.com.br/xmlnuke-php/webservice.php/ws/cep?WSDL	byjg.com.br	Canada
+5150	http://www.library.utoronto.ca/unicorn.wsdl	142.150.190.37	Canada
+5151	http://leadsuk.blizzardi.com/whiteboxeyesPTP/validate.asmx?WSDL	blizzardi.com	Canada
+5152	http://services.irm-systems.com/WEBService/LoginServices.asmx?WSDL	irm-systems.com	Canada
+5153	http://www.readingrecovery.co.nz/administration.asmx?wsdl	readingrecovery.co.nz	Canada
+5154	http://www.srfax.com/srfaxwebsvc/srfaxwebsvc.asmx?wsdl	srfax.com	Canada
+5155	http://www.stockhouse.com/webservices/AvatarData.asmx?WSDL	stockhouse.com	Canada
+5156	http://www.smesy.gov.cn/services/Server?wsdl	smesy.gov.cn	China
+5157	http://fm.flash8.net/FmWs.asmx?WSDL	flash8.net	China
+5158	http://match.golfonlife.com/MatchService.asmx?WSDL	golfonlife.com	China
+5159	http://sna2.coomeva.com.co/axis/services/Checker?wsdl	coomeva.com.co	Colombia
+5160	http://indicadoreseconomicos.bccr.fi.cr/IndicadoresEconomicos/WebServices/wsIndicadoresEconomicos.asmx?wsdl	bccr.fi.cr	Costa rica
+5161	http://ws.geewa.com/2.2/FrontEndWS.asmx?wsdl	geewa.com	Czech Republic
+5162	http://as.asp2.cz/ForeignExchangeService.asmx?WSDL	asp2.cz	Czech Republic
+5163	http://www.milan.sk/WebService1/Service1.asmx?wsdl	milan.sk	Czech Republic
+5164	http://webservice.statsbiblioteket.dk/ws-netmusik-search/services/netmusik_wssearch?wsdl	statsbiblioteket.dk	Denmark
+5165	http://netbib.statsbiblioteket.dk/netbib/services/Faust?wsdl	statsbiblioteket.dk	Denmark
+5166	http://www.smartlaunch.net/Software/Releases/v4.0/v40.asmx?WSDL	smartlaunch.net	Denmark
+5167	http://synergiciel.cecam.net/Cecam.SynergicielV2.Ws/Personne.asmx?WSDL	cecam.net	France
+5168	http://gwladysg.free.fr/services/serveur/helloyou_serveur.php?wsdl	free.fr	France
+5169	http://particuliers.edf.fr/FRONT/EDF_PART/include/fr/webServices/CIB/webServiceCIB.wsdl	edf.fr	France
+5170	http://www.essec.fr/myessec/services/jws-esseclive?wsdl	essec.fr	France
+5171	http://query.adp.fr/ADP.WebService.horaires/horaires.asmx?WSDL	adp.fr	France
+5172	http://eric.trupin.ifrance.com/bonjourwsdlifrance.wsdl	ifrance.com	France
+5173	http://service.oli-it.com/StartService.asmx?wsdl	oli-it.com	Germany
+5174	http://biathlonresults.com/WebServices/Basic.asmx?wsdl	biathlonresults.com	Germany
+5175	http://www.online-mitgliederverwaltung.de/bds/Vereinswelt/Gewerbeverein.asmx?WSDL	online-mitgliederverwaltung.de	Germany
+5176	http://www.openpr.de/public/openPR-WSDL.php?wsdl	openpr.de	Germany
+5177	http://cs.daenet.de/webservice/CurrencyServerWebService.asmx?WSDL	daenet.de	Germany
+5178	http://webservices.ecircle-ag.com/rpc?wsdl	ecircle-ag.com	Germany
+5179	http://www.gamepro.de/webservice/premiumusers/premiumuser.cfc?wsdl	gamepro.de	Germany
+5180	http://iban-bic.com/soap/?wsdl	iban-bic.com	Germany
+5181	http://www.ilias.de/test37x/webservice/soap/server.php?wsdl	ilias.de	Germany
+5182	http://rs1-online.de/ilias3/webservice/soap/server.php?wsdl	rs1-online.de	Germany
+5183	http://ewtestwebvergabede.h137461.serverkompetenz.net/service/server_v1_3.php?wsdl	serverkompetenz.net	Germany
+5184	http://codeconverter.sharpdevelop.net/ConvertService.asmx?WSDL	sharpdevelop.net	Germany
+5185	http://www.sugartech.co.za/soap/wsdlserver.php?wsdl	sugartech.co.za	Germany
+5186	http://www.inf.bme.hu/~dobe/gsoap/Calculator.wsdl	bme.hu	Hungary
+5187	http://erindrekip.skyrr.is/wsloggildingar.asmx?WSDL	skyrr.is	Iceland
+5188	http://www.exporttechnologies.com/webservices/currencyservice/currencyservice.asmx?wsdl	exporttechnologies.com	Ireland
+5189	http://slk.sulam.org.il/k12/misgav/News/C1/_vti_bin/BusinessDataCatalog.asmx?wsdl	sulam.org.il	Israel
+5190	http://b144.co.il/Services/CategoryService.asmx?WSDL	b144.co.il	Israel
+5191	http://www.agrotrace.coop/_vti_bin/UserProfileServicewsdl.aspx	agrotrace.coop	Italy
+5192	http://devlab.devleap.it/PaoloPi/ws01/wsTest02.asmx?wsdl	devleap.it	Italy
+5193	http://bdrtest.izs.it/WsRegistriCertificatiAut/registricertificati.asmx?WSDL	izs.it	Italy
+5194	http://clienti.skypost.it/credit.asmx?wsdl	skypost.it	Italy
+5195	http://www.infogenerics.net/RSS_DevFeed.asmx?WSDL	infogenerics.net	Italy
+5196	http://api.transvector2.it/swapping.asmx?wsdl	transvector2.it	Italy
+5197	http://212.177.98.35/swapping/default.test.asmx?WSDL	212.177.98.35	Italy
+5198	http://invia.sms-pronti.com/ws.php?wsdl	sms-pronti.com	Italy
+5199	http://edicode.vips.gr.jp/SeikaCodePublish.asmx?WSDL	vips.gr.jp	Japan
+5200	http://58.71.128.51:9300/mm7/services/MM7Service?WSDL	58.71.128.51	Malaysia
+5201	http://nts.compris.enovation.nl/services/Version?wsdl	enovation.nl	Netherlands
+5202	http://xtract.bascomputers.nl:4040/Xtract.asmx?WSDL	bascomputers.nl	Netherlands
+5203	http://www.finallworks.nl/cms/service/finallworks_contentservice.asmx?wsdl	finallworks.nl	Netherlands
+5204	http://services.roesweb.nl/Calc.wsdl	roesweb.nl	Netherlands
+5205	http://dcregistry.natlib.govt.nz/axis/services/itemSummary?wsdl	natlib.govt.nz	New Zealand
+5206	http://loki.co.nz/LokiService.asmx?WSDL	loki.co.nz	New Zealand
+5207	http://api.bioinfo.no/wsdl/ELMdb.wsdl	bioinfo.no	Norway
+5208	http://ksms.webservice.keyteq.no/ksms.php?wsdl	keyteq.no	Norway
+5209	http://donau.hiof.no/borres/dn/service1/Service.asmx?WSDL	hiof.no	Norway
+5210	http://webservices.linjegods.no/PublicMethodes.asmx?WSDL	linjegods.no	Norway
+5211	http://www.streemo.pl/Portal/WebServices/UserService.asmx?WSDL	streemo.pl	Poland
+5212	http://serwis.sgh.waw.pl/test/nuserver.php?wsdl	sgh.waw.pl	Poland
+5213	http://soap.siriussoft.co.kr/Jp/PWS/WebService.asmx?WSDL	siriussoft.co.kr	Republic of Korea
+5214	http://solar.viniti.ru:8080/ScsMetaService/FieldService.asmx?WSDL	viniti.ru	Russian Federation
+5215	http://office2003research.translate.ru/ResearchService/SimpleTranslateSvc.asmx?wsdl	translate.ru	Russian Federation
+5216	http://www.worldtime-clock.com/services/webclock?wsdl	worldtime-clock.com	Russian Federation
+5217	http://www.softwaremaker.net/webservices/swm/validator/validator.asmx?WSDL	softwaremaker.net	Singapore
+5218	http://www.mojdenar.com/WS_Register/md_office.asmx?WSDL	mojdenar.com	Slovenia
+5219	http://213.27.140.134:8080/axis/services/SueldoNetoWS?wsdl	213.27.140.134	Spain
+5220	http://213.27.140.134:8080/axis/services/Version?wsdl	213.27.140.134	Spain
+5221	http://www.afi.es/cajacaminoswebservice/CajaCaminosReport.asmx?WSDL	afi.es	Spain
+5222	http://www.elguille.info/net/webservices/holamundo.asmx?WSDL	elguille.info	Spain
+5223	http://www.elguille.info/Net/WebServices/conversor.asmx?WSDL	elguille.info	Spain
+5224	http://www.pci-baleares.com/PCIDatosArt/DatosArt.asmx?wsdl	pci-baleares.com	Spain
+5225	http://apimicrosites.vivatours.es/ApiAvionMasHotel.asmx?WSDL	vivatours.es	Spain
+5226	http://www.epostservice.se/ws/api_10.asmx?wsdl	epostservice.se	Sweden
+5227	http://dmb.ur.se/services/xml/Mucs?wsdl	ur.se	Sweden
+5228	http://www.snf.ch/D/Faq/_vti_bin/SharepointEmailWS.asmx?wsdl	snf.ch	Switzerland
+5229	http://www.snf.ch/D/Faq/_vti_bin/Authentication.asmx?wsdl	snf.ch	Switzerland
+5230	http://zvs.deep.ch/ws/ZVSTest2.wsdl	deep.ch	Switzerland
+5231	http://people.epfl.ch/wsdl/PeopleWS.wsdl	epfl.ch	Switzerland
+5232	http://ditdevsrv4.epfl.ch/cff/SSO.wsdl	epfl.ch	Switzerland
+5233	http://ws.acronyms.ch/search?WSDL	acronyms.ch	United States
+5234	http://reto.checkit.ch/Scripts/Lotto.dll/wsdl/IgetNumbers	checkit.ch	Switzerland
+5235	http://comparis.ch/steuern/Webservice/CommunitySelector.asmx?WSDL	comparis.ch	Switzerland
+5236	http://contest.comteach.ch/tax.asmx?wsdl	comteach.ch	Switzerland
+5237	http://notesnet.ch/NotesNet/SwissCities.nsf/SwissCityInfoBroker?WSDL	notesnet.ch	Switzerland
+5238	http://www.railtour.ch/booking/GenvasService.asmx?WSDL	railtour.ch	Switzerland
+5239	http://www.thepep.org/ClearingHouse/CHWebService.asmx?wsdl	thepep.org	Switzerland
+5240	http://www.zefix.ch/webservices/zefixSvc/ZefixSvc.asmx?WSDL	zefix.ch	Switzerland
+5241	http://www.doh.go.th/dohweb/WebService/TestServer.php?wsdl	doh.go.th	Thailand
+5242	http://www.paysbuy.com/getinvoicestatus/getinvoicestatus.asmx?WSDL	paysbuy.com	Thailand
+5243	http://www.spk.gov.tr/webservices/ProhibitedInvestors/ProhibitedInvestorsService.wsdl	spk.gov.tr	Turkey
+5244	http://www.crm4me.com.tr/crm4me_services/smstransfer.asmx?WSDL	crm4me.com.tr	Turkey
+5245	http://test.devkontor.com/devkontor.asmx?wsdl	devkontor.com	Turkey
+5246	http://www.hdisigorta.com.tr/ilceler.asmx?WSDL	hdisigorta.com.tr	Turkey
+5247	http://www.ukraine.turne.com.ua/WebServices/RegionResort.asmx?WSDL	turne.com.ua	Ukraine
+5248	http://phoebus.cs.man.ac.uk:8081/axis/EnsemblListner.jws?wsdl	man.ac.uk	United Kingdom
+5249	http://www.ebi.ac.uk/ontology-lookup/OntologyQuery.wsdl	ebi.ac.uk	United Kingdom
+5250	http://nsi-ltd.demon.co.uk/axis/services/DigDNS?wsdl	demon.co.uk	United Kingdom
+5251	http://pathbase1.pdn.cam.ac.uk:8080/axis/Pathbase2_SOAP.jws?wsdl	cam.ac.uk	United Kingdom
+5252	http://wstest.nationalcar.co.uk:8080/axis/services/SpeedlinkDirectSync?wsdl	nationalcar.co.uk	United Kingdom
+5253	http://webservices.lta.org.uk/User/default.asmx?WSDL	lta.org.uk	United Kingdom
+5254	http://www.getitmobile.com/testscripts/encryption.cfc?wsdl	getitmobile.com	United Kingdom
+5255	http://webservice.intelliplus.com/webservice/intelliplussms.asmx?wsdl	intelliplus.com	United Kingdom
+5256	http://cdelivewebtop.liveinfo.net/nimoiservices/operaobject.cfc?wsdl	liveinfo.net	United Kingdom
+5257	http://staff.vbi.vt.edu/pathport/services/wsdls/glimmerm.wsdl	vt.edu	United States
+5258	http://question2.webwork.rochester.edu/problemserver_files/WSDL.wsdl	rochester.edu	United States
+5259	http://ksgnotes1.harvard.edu/test/syllabus.nsf/NTP2?WSDL	harvard.edu	United States
+5260	http://ws.serviceobjects.com/ur/usagereports.asmx?WSDL	serviceobjects.com	United States
+5261	http://ws2.serviceobjects.net/fw/fastweather.asmx?wsdl	serviceobjects.net	United States
+5262	http://ffl.sportstech.net/_vti_bin/BusinessDataCatalog.asmx?wsdl	sportstech.net	United States
+5263	http://sharepointusergroup.corasworks.net/_vti_bin/BusinessDataCatalog.asmx?wsdl	corasworks.net	United States
+5264	http://service.ecocoma.com/shipping/dhl.asmx?WSDL	ecocoma.com	United States
+5265	http://service.ecocoma.com/geo/cityzip.asmx?WSDL	ecocoma.com	United States
+5266	http://reserve.studentambassadors.org/_vti_bin/BusinessDataCatalog.asmx?wsdl	studentambassadors.org	United States
+5267	http://www.sunshineconnections.org/_vti_bin/BusinessDataCatalog.asmx?wsdl	sunshineconnections.org	United States
+5268	http://www.sunshineconnections.org/_vti_bin/SharepointEmailWS.asmx?wsdl	sunshineconnections.org	United States
+5269	http://www.susqtech.com/_vti_bin/SharepointEmailWS.asmx?wsdl	susqtech.com	United States
+5270	http://windowshpc.net/_vti_bin/SharepointEmailWS.asmx?wsdl	windowshpc.net	United States
+5271	http://www.foodcandy.com/WebBlogService.asmx?WSDL	foodcandy.com	United States
+5272	http://webservices.carrier411.com/wsLogin.cfc?wsdl	carrier411.com	United States
+5273	http://ws.cdyne.com/delayedstockquote/delayedstockquote.asmx?wsdl	cdyne.com	United States
+5274	http://www.flash-db.com/services/ws/upcLookup.wsdl	flash-db.com	United States
+5275	http://terraserver.microsoft.com/LandmarkService.asmx?wsdl	microsoft.com	United States
+5276	http://ws.acrosscommunications.com/Prices.asmx?wsdl	acrosscommunications.com	United States
+5277	http://activations.safemls.net/ActivationServer/ActivationService.asmx?WSDL	safemls.net	United States
+5278	http://gisdata.usgs.gov/XMLWebServices/TNM_Elevation_service.asmx?WSDL	usgs.gov	United States
+5279	http://imsdemo.cr.usgs.gov/xmlwebservices2/elevation_service.asmx?WSDL	usgs.gov	United States
+5280	http://imsdemo.cr.usgs.gov/XMLWebservices/Antarctic_Gazetteer_Service.asmx?WSDL	usgs.gov	United States
+5281	http://casjobs.sdss.org/casjobs/TableJobs.asmx?WSDL	sdss.org	United States
+5282	http://skyserver.sdss.org/vo/dr2fields/sdssFields.asmx?wsdl	sdss.org	United States
+5283	http://nvo.stsci.edu/vor10/stoai.asmx?WSDL	stsci.edu	United States
+5284	http://ws.its.washington.edu:9090/transit/mybus/services/MybusService?wsdl	washington.edu	United States
+5285	http://athena.jamdat.com/axis/services/mebiinterface?wsdl	jamdat.com	United States
+5286	http://www.holidaywebservice.com/Holidays/HolidayService.asmx?WSDL	holidaywebservice.com	United States
+5287	http://email.secureserver.net/vsdbServer.php?wsdl	secureserver.net	United States
+5288	http://www.deeptraining.com/webservices/weather.asmx?wsdl	deeptraining.com	United States
+5289	http://www.deeptraining.com/webservices/runnercalculator.asmx?wsdl	deeptraining.com	United States
+5290	http://www.lacooperativa.org/_vti_bin/Lists.asmx?wsdl	lacooperativa.org	United States
+5291	http://www.eseries.nafsa.org/iServices/Purchase.asmx?WSDL	nafsa.org	United States
+5292	http://www.uspsaddrverify.state.pa.us/QASWebService.asmx?WSDL	state.pa.us	United States
+5293	http://www.bgtboundarygeocoder.state.pa.us/BGTBoundaryGeocoder/BGTBoundaryGeocoder.asmx?WSDL	state.pa.us	United States
+5294	http://www.xmlme.com/WSShakespeare.asmx?wsdl	xmlme.com	United States
+5295	http://bullseyehost.electricvine.com/webservice/zipsearch.asmx?WSDL	electricvine.com	United States
+5296	http://www.billmiami.com/webservices/newsgroups/newsgroupspublic.asmx?WSDL	billmiami.com	United States
+5297	http://fullerdata.com//News/NewsWS.asmx?WSDL	fullerdata.com	United States
+5298	http://fullerdata.com//AuthenticateWS/FullerAuth.asmx?WSDL	fullerdata.com	United States
+5299	http://gasbuddy.com/AutoCompleteService.asmx?WSDL	gasbuddy.com	United States
+5300	http://wse.careertours.com/CTWS.asmx?WSDL	careertours.com	United States
+5301	http://dotnetslackers.com/community/webservices/csusers.asmx?wsdl	dotnetslackers.com	United States
+5302	http://eggheadcafe.com/Webservices/StockQuote/stockquoter.asmx?wsdl	eggheadcafe.com	United States
+5303	http://www.eggheadcafe.com/webservices/msinfoservice/msinfoservice.asmx?wsdl	eggheadcafe.com	United States
+5304	http://www.jajah.com/api/callService.asmx?wsdl	jajah.com	United Kingdom
+5305	http://alcme.oclc.org/eprintsUK/services/NACOMatch?wsdl	oclc.org	United States
+5306	http://gisdata.usgs.net/XmlWebServices/TNM_Elevation_service.asmx?WSDL	usgs.net	United States
+5307	http://cuero.tacc.utexas.edu:8080/gridport/services/Version?wsdl	utexas.edu	United States
+5308	http://xml.assessment.com/service/MAPPProfiles.asmx?WSDL	assessment.com	United States
+5309	http://xml.assessment.com/service/MAPPMatching.asmx?wsdl	assessment.com	United States
+5310	http://xml.assessment.com/service/MAPPResults.asmx?wsdl	assessment.com	United States
+5311	http://bible.christianity.com/SiteInfo/WebServices/Search.asmx?WSDL	christianity.com	United States
+5312	http://bible.christianity.com/SiteInfo/WebServices/BLLService.asmx?WSDL	christianity.com	United States
+5313	http://fboweb.com/ws/auth.asmx?WSDL	fboweb.com	United States
+5314	http://www.flash-mx.com/ws/tipoftheday/tip.cfc?wsdl	flash-mx.com	United States
+5315	http://soapam.nuwave-tech.com/services/echostring/echostring.wsdl	nuwave-tech.com	United States
+5316	http://on10.net/Services/Tags.asmx?WSDL	on10.net	United States
+5317	http://soatest.parasoft.com/axis/calculator.wsdl	parasoft.com	United States
+5318	http://www.pdb.org/pdb/services/Version?wsdl	pdb.org	United States
+5319	http://webservices.sonicsw.com:8080/axis/CreditCheck.jws?wsdl	sonicsw.com	United States
+5320	http://cheeso.members.winisp.net/books/books.asmx?WSDL	winisp.net	United States
+5321	http://www.yarncountry.com/RateSP/Ratings.asmx?WSDL	yarncountry.com	United States
+5322	http://131.107.72.13/asmx/simple.asmx?WSDL	131.107.72.13	United States
+5323	http://131.107.72.13/asmx/xsd/round4XSD.asmx?WSDL	131.107.72.13	United States
+5324	http://community.3hive.com/WebService/ContentJumpService.asmx?WSDL	3hive.com	United States
+5325	http://community.3hive.com/WebService/ShareMessageService.asmx?WSDL	3hive.com	United States
+5326	http://astralservices.net/_vti_bin/SharepointEmailWS.asmx?wsdl	astralservices.net	United States
+5327	http://bjela.org/ComponentService.asmx?WSDL	bjela.org	United States
+5328	http://ce6hosting.blackboard.com/webct/axis/Version?wsdl	blackboard.com	United States
+5329	http://community.blender.com/WebService/ContentActionService.asmx?WSDL	blender.com	United States
+5330	http://soap.cpp.com/CppSoapRequests/CppStatusRequest.asmx?wsdl	cpp.com	United States
+5331	http://dancesportinfo.net/PopUpServices.asmx?WSDL	dancesportinfo.net	United States
+5332	http://webservices.dotnethell.it/codicefiscale.asmx?wsdl	dotnethell.it	United States
+5333	http://www.entityspaces.net/webservices/csharp/ES_Xml.asmx?WSDL	entityspaces.net	United States
+5334	http://www.e-travelsolution.com/xml/xmlPostHotel.asmx?WSDL	e-travelsolution.com	United States
+5335	http://community.jackassworld.com/WebService/ContentActionService.asmx?WSDL	jackassworld.com	United States
+5336	http://api.jeeran.com/bc2/service.asmx?wsdl	jeeran.com	United States
+5337	http://services.jproductivity.net:8080/ProtectionWS/services/LicensingFacade?wsdl	jproductivity.net	United States
+5338	http://services.jproductivity.net:8080/ProtectionWS/services/Version?wsdl	jproductivity.net	United States
+5339	http://www.mastercsharp.com/live/TimeService/TimeService.asmx?wsdl	mastercsharp.com	United States
+5340	http://community.meathaus.com/WebService/ContentJumpService.asmx?WSDL	meathaus.com	United States
+5341	http://hiring.monsterboard.nl/Services/ProductContent/WSProductContent.asmx?WSDL	monsterboard.nl	United States
+5342	http://hiring.monsterboard.nl/services/products/Pricing.asmx?WSDL	monsterboard.nl	United States
+5343	http://recruiter.monster.se/services/products/Pricing.asmx?WSDL	monster.se	United States
+5344	http://community.ninjadude.com/WebService/ContentActionService.asmx?WSDL	ninjadude.com	United States
+5345	http://www.proposion.com/n2n-petshop/WebService/PetWebServices.asmx?wsdl	proposion.com	United States
+5346	http://www.saiasecure.com/webservice/shipment/soap.asmx?wsdl	saiasecure.com	United States
+5347	http://www.sellsbrothers.com/conference/SeatsLeft.asmx?WSDL	sellsbrothers.com	United States
+5348	http://sellsbrothers.com/excuses/excuses.asmx?WSDL	sellsbrothers.com	United States
+5349	http://www.siliconllama.com/services/wsdl/ISOcodesService.wsdl	siliconllama.com	United States
+5350	http://www.loni.ucla.edu/iToolssvc/webservices/resourcesFinder?wsdl	ucla.edu	United States
+5351	http://maps.ers.usda.gov/profiles/ERSWebCensusService/ERSWebCensusService.asmx?WSDL	usda.gov	United States
+5352	http://www.west-wind.com/webstoresandbox/admin/WebStoreAdminService.asmx?WSDL	west-wind.com	United States
+5353	http://01792.org/webservices/PCtoLongLat.asmx?WSDL	01792.org	United States
+5354	http://biomoby.org/services/wsdl/ssg.uab.edu/getAffyProbesetIdsForAgiLocusCode	138.26.144.5	United States
+5355	http://biomoby.org/services/wsdl/ssg.uab.edu/getAgiLocusCodesForAffyATH1ProbesetId	138.26.144.5	United States
+5356	http://b2bserver.acdsystems.com/b2bxmlorders.asmx?WSDL	acdsystems.com	United States
+5357	http://services.aonaware.com/DictService/DictService.asmx?WSDL	aonaware.com	United States
+5358	http://aspauthors.com/aspnetbyexample/ch11/demo11ASP05CS.asmx?WSDL	aspauthors.com	United States
+5359	http://www.baipro.com/Common/Alighten/InformationRequests/infoRequestService.asmx?WSDL	baipro.com	United States
+5360	http://www.baipro.com/Common/Alighten/Contacts/contactService.asmx?WSDL	baipro.com	United States
+5361	http://addressmeister.bizware.com/service/server.soap.2.php?wsdl	bizware.com	United States
+5362	http://public.bookscan.ws/index.asmx?wsdl	bookscan.ws	United States
+5363	http://plans.boostmobile.com/EmailNotificationWebService.asmx?WSDL	boostmobile.com	United States
+5364	http://dsdnet.brucejmack.biz/DEXSyncService/DSDNetDexValidationService.asmx?wsdl	brucejmack.biz	United States
+5365	http://dsdnet.brucejmack.biz/DEXSyncService/DSDNetService.asmx?wsdl	brucejmack.biz	United States
+5366	http://www.cadabra.com/WebServices/SearchService.asmx?WSDL	cadabra.com	United States
+5367	http://www.cadabra.com/WebServices/MediaServer.asmx?WSDL	cadabra.com	United States
+5368	http://xml.carolinadesigns.com/webservice1/service1.asmx?wsdl	carolinadesigns.com	United States
+5369	http://www.cbd.int/services/conventions.asmx?WSDL	cbd.int	United States
+5370	http://cbs2.com/Search/AutoSuggest.asmx?WSDL	cbs2.com	United States
+5371	http://cbs4denver.com/Search/AutoSuggest.asmx?WSDL	cbs4denver.com	United States
+5372	http://mail.cevo.com/webmail/Services/svcAliasAdmin.asmx?wsdl	cevo.com	United States
+5373	http://mail.cevo.com/webmail/Services/svcUserAdmin.asmx?WSDL	cevo.com	United States
+5374	http://cno-gisweb02.cityofno.com/crimemaps/AutoCompleteService.asmx?WSDL	cityofno.com	United States
+5375	http://services.clubplanet.com/webservices/InternalServices.svc?wsdl	clubplanet.com	United States
+5376	http://www.codeplex.com/Services/CaptchaService.asmx?WSDL	codeplex.com	United States
+5377	http://www.coldfusionjedi.com/demos/santa/beta.cfc?wsdl	coldfusionjedi.com	United States
+5378	http://www.coldfusionjedi.com/demos/santa/alpha.cfc?wsdl	coldfusionjedi.com	United States
+5379	http://www2.confirmhub.com/admin/ajax/VisitorTracker.asmx?WSDL	confirmhub.com	United States
+5380	http://print.coupons.com/couponweb/MS2Bridge.asmx?WSDL	coupons.com	United States
+5381	http://ws.custcon.com/rol.asmx?wsdl	custcon.com	United States
+5382	http://ws.custcon.com/pow.asmx?wsdl	custcon.com	United States
+5383	http://davefancher.com/Articles/2006/6/Petals/PetalsService.asmx?WSDL	davefancher.com	United States
+5384	http://davidsvoice.org/ComponentService.asmx?WSDL	davidsvoice.org	United States
+5385	http://sandbox.didww.com/api/?wsdl	didww.com	United States
+5386	http://dorchadashusa.org/ComponentService.asmx?WSDL	dorchadashusa.org	United States
+5387	http://www.ecovida.com/userprofiling/usersession/getProfile?WSDL	ecovida.com	United States
+5388	http://api.efxnow.com/DEMOWebServices2.8/Service.asmx?WSDL	efxnow.com	United States
+5389	http://services.preview.eventinventory.com/webservices/tnowticketsearch.asmx?WSDL	eventinventory.com	United States
+5390	http://blog.falconwebtech.com/api/BlogImporter.asmx?WSDL	falconwebtech.com	United States
+5391	http://gpn.webservice.gomez.com/GpnDataExportService/GpnDataExportService.asmx?WSDL	gomez.com	United States
+5392	http://gsr.webservice.gomez.com/utascriptservice/UtaScriptService.asmx?WSDL	gomez.com	United States
+5393	http://www.hometownquotes.com/objects/Auto.cfc?WSDL	hometownquotes.com	United States
+5394	http://mail.integritas-group.com/services/svcDomainAdmin.asmx?WSDL	integritas-group.com	United States
+5395	http://www.ws.iransmsbox.com/ws/QuickCompose.asmx?WSDL	iransmsbox.com	United States
+5396	http://jewishbytheshore.com/ComponentService.asmx?WSDL	jewishbytheshore.com	United States
+5397	http://pool.judysbook.com/apis/AggregationService.asmx?WSDL	judysbook.com	United States
+5398	http://recipews.kelloggs.com/recipes.asmx?wsdl	kelloggs.com	United States
+5399	http://www.konakart.com/konakart/services/KKWebServiceEng?wsdl	konakart.com	United States
+5400	http://co.larimer.co.us/webservices/PropertyInformation.cfc?wsdl	larimer.co.us	United States
+5401	http://co.larimer.co.us/webservices/PropertyTaxes.cfc?wsdl	larimer.co.us	United States
+5402	http://larimer.org/webservices/PropertyTaxes.cfc?wsdl	larimer.org	United States
+5403	http://larimer.org/webservices/PropertyInformation.cfc?wsdl	larimer.org	United States
+5404	http://www.lashback.com/us/v1.0/unsubsafe.asmx?wsdl	lashback.com	United States
+5405	http://api.linktrust.com/1.0/AffiliateStats.asmx?WSDL	linktrust.com	United States
+5406	http://api.linktrust.com/2.0/PartnerStats.asmx?WSDL	linktrust.com	United States
+5407	http://weblogs.macromedia.com/mxna/webservices/mxna2.cfc?wsdl	macromedia.com	United States
+5408	http://sandbox.marketworks.com/nextgen/MWAPI/Current/MWService.asmx?WSDL	marketworks.com	United States
+5409	http://sandbox.marketworks.com/nextgen/MWAPI/Current/OMService.asmx?WSDL	marketworks.com	United States
+5410	http://meacoservice.net/jEMS/hello?wsdl	meacoservice.net	United States
+5411	http://meacoservice.net/jEMS/activation?wsdl	meacoservice.net	United States
+5412	http://terraserver.microsoft.net/LandmarkService.asmx?WSDL	microsoft.net	United States
+5413	http://terraserver.microsoft.net/terraservice.asmx?WSDL	microsoft.net	United States
+5414	http://mikeutterback.net/MUDNMap.asmx?WSDL	mikeutterback.net	United States
+5415	http://www.msdomino.net/Web+Service+Agent.nsf/DominoDotNetWSDL	msdomino.net	United States
+5416	http://www.msdomino.net/orders.nsf/order_update?wsdl	msdomino.net	United States
+5417	http://www.nadaguides.com/Garage-Blog/api/BlogImporter.asmx?WSDL	nadaguides.com	United States
+5418	http://www.phanfare.com/imageservice/imageservice.asmx?WSDL	phanfare.com	United States
+5419	http://www.precioyviajes.com/webservices/webservices/FrontEnd.asmx?wsdl	precioyviajes.com	United States
+5420	http://safarimappers.com/webservice/maphelper5.asmx?WSDL	safarimappers.com	United States
+5421	http://www.sirajgadhia.com/WebServices/quotes.asmx?WSDL	sirajgadhia.com	United States
+5422	http://sixteencolors.net/Services/Artists.asmx?WSDL	sixteencolors.net	United States
+5423	http://12.105.42.167/millwebservice/Utility.asmx?WSDL	12.105.42.167	United States
+5424	http://70.43.43.149/wasingertech_globaldata.asmx?WSDL	70.43.43.149	United States
+5425	http://www.aa419.org/soap/awp.php?wsdl	aa419.org	United States
+5426	http://agilepay.ws/ws/server.php?wsdl	agilepay.ws	United States
+5427	http://www.albuilder.com/XML/LotList.asmx?wsdl	albuilder.com	United States
+5428	http://www.atmcarsmumbai.com/TradingImportDetails.asmx?wsdl	atmcarsmumbai.com	India
+5429	http://www.autoitoolbox.com/epc/service.asmx?wsdl	autoitoolbox.com	United States
+5430	http://www.dotnetforce.com/netforce.asmx?WSDL	dotnetforce.com	United States
+5431	http://api.gtmwebservices.com.s17.dotnetsql.com/pumpware.asmx?WSDL	dotnetsql.com	United States
+5432	http://www.errormail.net/EM/ErrorMailer.asmx?wsdl	errormail.net	United States
+5433	http://evipnow.net/webservices/wseVIPNowMain.asmx?WSDL	evipnow.net	United States
+5434	http://webservices.flightexplorer.com/FastTrack.asmx?WSDL	flightexplorer.com	United States
+5435	http://hooch.cis.gsu.edu/bgates/MathStuff/Mathservice.asmx?wsdl	gsu.edu	United States
+5436	http://jacquesclauzel.com/autocomplete.asmx?WSDL	jacquesclauzel.com	United States
+5437	http://www.kirupafx.com/WebService/TopMovies.asmx?WSDL	kirupafx.com	United States
+5438	http://www.legfind.com/legfindws.asmx?WSDL	legfind.com	United States
+5439	http://agents.mideast-assistance.com/mideastwebservices/sync.asmx?wsdl	mideast-assistance.com	United States
+5440	http://api.netapplications.com/api.asmx?wsdl	netapplications.com	United States
+5441	http://www.oceansummit.com/PropertyListing.asmx?WSDL	oceansummit.com	Canada
+5442	http://www.irrigacion.gov.ar/mapserver/pruebas_php_cipo/ws/temp.php?wsdl	irrigacion.gov.ar	Argentina
+5443	http://www.innovationqld.net/_vti_bin/BusinessDataCatalog.asmx?wsdl	innovationqld.net	Australia
+5444	http://www.innovationqld.net/_vti_bin/People.asmx?wsdl	innovationqld.net	Australia
+5445	http://www.innovationqld.net/_vti_bin/Authentication.asmx?wsdl	innovationqld.net	Australia
+5446	http://red-zone.eu.gamecreate.com/admin/User.asmx?wsdl	gamecreate.com	Netherlands
+5447	http://red-zone.eu.gamecreate.com/admin/Remote.asmx?wsdl	gamecreate.com	Netherlands
+5448	http://www.estro27.org/_vti_bin/BusinessDataCatalog.asmx?wsdl	estro27.org	Belgium
+5449	http://www.estro27.org/_vti_bin/SharepointEmailWS.asmx?wsdl	estro27.org	Belgium
+5450	http://www.estro27.org/_vti_bin/Authentication.asmx?wsdl	estro27.org	Belgium
+5451	http://www.estro27.org/_vti_bin/People.asmx?wsdl	estro27.org	Belgium
+5452	http://www.moss2007.be/_vti_bin/BusinessDataCatalog.asmx?wsdl	moss2007.be	Belgium
+5453	http://www.moss2007.be/_vti_bin/SharepointEmailWS.asmx?wsdl	moss2007.be	Belgium
+5454	http://www.moss2007.be/_vti_bin/People.asmx?wsdl	moss2007.be	Belgium
+5455	http://www.moss2007.be/_vti_bin/Authentication.asmx?wsdl	moss2007.be	Belgium
+5456	http://newmnt.jobat.be/WS/Mentor.asmx?WSDL	jobat.be	Belgium
+5457	http://www.bronzebusiness.com.br/webservices/valida.asmx?WSDL	bronzebusiness.com.br	Brazil
+5458	http://www.globalhealthlibrary.net/webservices/bases/index.php?wsdl	globalhealthlibrary.net	Brazil
+5459	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretPROTEINRefNEXUS2FASTA	ubc.ca	Canada
+5460	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretDNARefFASTA2TREECON	ubc.ca	Canada
+5461	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/extractSequenceRecordsFromFasta	ubc.ca	Canada
+5462	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/MOBYSHoundGOIDFromRedundantGi	ubc.ca	Canada
+5463	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getKeggCompoundsOnKeggPathway	ubc.ca	Canada
+5464	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretDNARefJACKNIFER2FASTA	ubc.ca	Canada
+5465	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/MOBYSHoundGiFromOMIMList	ubc.ca	Canada
+5466	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretDNARefFASTA2EMBL	ubc.ca	Canada
+5467	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretPROTEINRefIG2FASTA	ubc.ca	Canada
+5468	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getKeggIdsByKeggPathway	ubc.ca	Canada
+5469	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/convertIdentifier2KeggID	ubc.ca	Canada
+5470	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getUniprotDescriptorsByKeyword	ubc.ca	Canada
+5471	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getKeggPathwaysByKeggID	ubc.ca	Canada
+5472	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretPROTEINRefGCG82FASTA	ubc.ca	Canada
+5473	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getSnpsBySwissProtId	ubc.ca	Canada
+5474	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/convertKeggGeneId2ProtId	ubc.ca	Canada
+5475	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretDNARefEMBL2FASTA	ubc.ca	Canada
+5476	http://biomoby.org/services/wsdl/soaplab.icapture.ubc.ca/seqretDNANEXUSNON2FASTA	ubc.ca	Canada
+5477	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/MOBYSHoundLocusIDFromGi	ubc.ca	Canada
+5478	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getCogsConservedDomainIdsByLocusLinkId	ubc.ca	Canada
+5479	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/MOBYSHoundGOIDFromGiList	ubc.ca	Canada
+5480	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getPfamConservedDomainIdsByLocusLinkId	ubc.ca	Canada
+5481	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/MOBYSHoundGOIDFromGi	ubc.ca	Canada
+5482	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/MOBYSHoundGiFromOMIM	ubc.ca	Canada
+5483	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/getGisByPfamConservedDomainId	ubc.ca	Canada
+5484	http://biomoby.org/services/wsdl/ualberta.ca/PlasMapperDrawVectorMap	ualberta.ca	Canada
+5485	http://biomoby.org/services/wsdl/ualberta.ca/getRNACardIDs_by_Centisome_position	ualberta.ca	Canada
+5486	http://biomoby.org/services/wsdl/ualberta.ca/BacMapHtmlStats	ualberta.ca	Canada
+5487	http://biomoby.org/services/wsdl/ualberta.ca/getColiCardIDs_by_ProteinName	ualberta.ca	Canada
+5488	http://biomoby.org/services/wsdl/bioinfo.icapture.ubc.ca/Parse_GeneMarkHMM_HTML	ucalgary.ca	Canada
+5489	http://icare.fairfaxcounty.gov/Admin/Services/Login.asmx?WSDL	fairfaxcounty.gov	Canada
+5490	http://icare.fairfaxcounty.gov/Config/Services/ConfigManager.asmx?WSDL	fairfaxcounty.gov	Canada
+5491	http://ptibonum.scl.csd.uwo.ca:16661/axis/services/AddService?wsdl	uwo.ca	Canada
+5492	http://ptibonum.scl.csd.uwo.ca:16661/axis/services/Broker?wsdl	uwo.ca	Canada
+5493	http://ptibonum.scl.csd.uwo.ca:16661/axis/services/SOAPMonitorService?wsdl	uwo.ca	Canada
+5494	http://biomoby.org/services/wsdl/bar.utoronto.ca/getAGI_SubCellLocalisationImage	utoronto.ca	Canada
+5495	http://biomoby.org/services/wsdl/bar.utoronto.ca/getAGI_eFPImage	utoronto.ca	Canada
+5496	http://bitstorm.com/WSNavFunctions/NavFunctions.asmx?WSDL	bitstorm.com	Canada
+5497	http://www.iminr.com/mining/wsMining.asmx?WSDL	iminr.com	Canada
+5498	http://www.makeastar.net/sessionbridge/bridge.asmx?wsdl	makeastar.net	Canada
+5499	http://percute.com/mining/wsMining.asmx?WSDL	percute.com	Canada
+5500	http://www.pulmonary-rehabilitation.com.cn/WebService/Bulletin.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5501	http://www.pulmonary-rehabilitation.com.cn/WebService/PhotoAlbum.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5502	http://www.pulmonary-rehabilitation.com.cn/WebService/Group.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5503	http://www.pulmonary-rehabilitation.com.cn/WebService/Link.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5504	http://www.pulmonary-rehabilitation.com.cn/WebService/Score.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5505	http://www.pulmonary-rehabilitation.com.cn/WebService/Main.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5506	http://www.pulmonary-rehabilitation.com.cn/WebService/GetDoctors.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5507	http://www.pulmonary-rehabilitation.com.cn/WebService/User.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5508	http://www.pulmonary-rehabilitation.com.cn/WebService/Credit.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5509	http://www.pulmonary-rehabilitation.com.cn/WebService/Investigation.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5510	http://www.pulmonary-rehabilitation.com.cn/WebService/Enterprise.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5511	http://www.pulmonary-rehabilitation.com.cn/WebService/Visitor.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5512	http://www.pulmonary-rehabilitation.com.cn/WebService/Topic.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5513	http://www.pulmonary-rehabilitation.com.cn/WebService/Touch.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5514	http://www.pulmonary-rehabilitation.com.cn/WebService/Favorite.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5515	http://www.pulmonary-rehabilitation.com.cn/WebService/Personalization.asmx?WSDL	pulmonary-rehabilitation.com.cn	China
+5516	http://www.foloda.com/WebService/WsCommunity.asmx?WSDL	foloda.com	China
+5517	http://www.foloda.com/WebService/WsSearchBar.asmx?WSDL	foloda.com	China
+5518	http://www.foloda.com/WebService/FolodaFunctionPortal.asmx?WSDL	foloda.com	China
+5519	http://www.foloda.com/WebService/WsBaseData.asmx?WSDL	foloda.com	China
+5520	http://www.foloda.com/WebService/FolodaDataPortal.asmx?WSDL	foloda.com	China
+5521	http://cn.wjw.cn/Card/Services/MemberCard.asmx?WSDL	wjw.cn	China
+5522	http://cn.wjw.cn/reg/services/base.asmx?WSDL	wjw.cn	China
+5523	http://sms.18gw.com/SmsWebService.asmx?WSDL	18gw.com	China
+5524	http://service.waptx.net/service.asmx?WSDL	waptx.net	China
+5525	http://www.vejlebib.dk/webservices/wsjuraport.asmx?wsdl	vejlebib.dk	Denmark
+5526	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PredotarA	inra.fr	France
+5527	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PhytoprotGetXDom	inra.fr	France
+5528	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetBiochemicalFunctionByGeneID	inra.fr	France
+5529	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PhytoprotGetPyramid	inra.fr	France
+5530	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PredotarP	inra.fr	France
+5531	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetFamilyIDByKeyword	inra.fr	France
+5532	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetParalogsByGeneID	inra.fr	France
+5533	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PhytoprotGetByKeyword	inra.fr	France
+5534	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetFamilyNameByFamilyID	inra.fr	France
+5535	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetGeneNamesByGeneID	inra.fr	France
+5536	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetCultivarByGeneID	inra.fr	France
+5537	http://biomoby.org/services/wsdl/iant.toulouse.inra.fr/iANTFastaToXml	inra.fr	France
+5538	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetGeneIDByAGI	inra.fr	France
+5539	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetGeneIDByGeneName	inra.fr	France
+5540	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PhytoprotGetByAGICode	inra.fr	France
+5541	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetPlantByGeneID	inra.fr	France
+5542	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PhytoprotGetByClusterID	inra.fr	France
+5543	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/PhytoprotGetByAminoAcidSequence	inra.fr	France
+5544	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetGeneIDByKeyword	inra.fr	France
+5545	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetGeneIDByFamilyID	inra.fr	France
+5546	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetAnnotatorsForGene	inra.fr	France
+5547	http://biomoby.org/services/wsdl/urgi.versailles.inra.fr/genefarmGetFamilyByGeneID	inra.fr	France
+5548	http://www.atlas-blue.com/ws/booking.wsdl	atlas-blue.com	France
+5549	http://webservices.telechargement.fr/order.php?wsdl	telechargement.fr	France
+5550	http://biomoby.org/services/wsdl/www.glycome-db.org/getGlycomeIdByCarbohydrate	glycome-db.org	Germany
+5551	http://biomoby.org/services/wsdl/www.glycome-db.org/getTaxonByCarbohydrate	glycome-db.org	Germany
+5552	http://biomoby.org/services/wsdl/www.glycome-db.org/getGlydeIIByID	glycome-db.org	Germany
+5553	http://services.bio.ifi.lmu.de:1046/bethesaurus/services/BiologicalMarkupService?wsdl	lmu.de	Germany
+5554	http://www.matelso.de/Partnerbereich/Matelso_Call2callservice_v_1_2.asmx?WSDL	matelso.de	Germany
+5555	http://www.matelso.de/Partnerbereich/Matelso_Call2callservice_v_2_0.asmx?WSDL	matelso.de	Germany
+5556	http://www.matelso.de/Partnerbereich/Matelso_Call2callservice_v_1_1.asmx?WSDL	matelso.de	Germany
+5557	http://www.matelso.de/Partnerbereich/Matelso_Call2callservice_uk_de.asmx?WSDL	matelso.de	Germany
+5558	http://www.matelso.de/Partnerbereich/Matelso_Call2callservice_v_1_3.asmx?WSDL	matelso.de	Germany
+5559	http://www.matelso.de/Partnerbereich/Matelso_Call2callservice_uk.asmx?WSDL	matelso.de	Germany
+5560	http://iban-bic.mobi/soap/?wsdl	iban-bic.mobi	Germany
+5561	http://ibancalculator.com/soap/?wsdl	ibancalculator.com	Germany
+5562	http://mantis.transparent.de/api/soap/mantisconnect.php?wsdl	transparent.de	Germany
+5563	http://www.tpauto.gr/webservices/tpauto2.asmx?WSDL	tpauto.gr	Greece
+5564	http://203.199.178.89:9090/axis/services/allnotingsquery1?wsdl	203.199.178.89	India
+5565	http://203.199.178.89:9090/axis/services/allnotingsprint?wsdl	203.199.178.89	India
+5566	http://203.199.178.89:9090/axis/services/Sentdisplay?wsdl	203.199.178.89	India
+5567	http://203.199.178.89:9090/axis/services/Version?wsdl	203.199.178.89	India
+5568	http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationIdsByIntron.derived?wsdl	istge.it	Italy
+5569	http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53EntriesByField.derived?wsdl	istge.it	Italy
+5570	http://bioinformatics.istge.it:8080/axis/services/p53_getz_services.getP53FieldByField.derived?wsdl	istge.it	Italy
+5571	http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationIdsBySampleName.derived?wsdl	istge.it	Italy
+5572	http://bioinformatics.istge.it:8080/axis/services/o2i.getP53MutationIdsBySpliceSite.derived?wsdl	istge.it	Italy
+5573	http://www.url.org/Service.asmx?WSDL	url.org	Italy
+5574	http://webservices.lb.lt/ExchangeRates/ExchangeRates.asmx?wsdl	lb.lt	Lithuania
+5575	http://webservices.lb.lt/LBInterestRates/LBInterestRates.asmx?WSDL	lb.lt	Lithuania
+5576	http://webservices.lb.lt/VilibidVilibor/VilibidVilibor.asmx?wsdl	lb.lt	Lithuania
+5577	http://www.lb.lt/funkcijos/litas.asmx?WSDL	lb.lt	Lithuania
+5578	http://webservices.lb.lt/BLiquidity/BLiquidity.asmx?wsdl	lb.lt	Lithuania
+5579	http://www.lb.lt/funkcijos/vp.asmx?WSDL	lbank.eps	Lithuania
+5580	http://temp.reto.nl/webservice/server.php?wsdl	reto.nl	Netherlands
+5581	http://www.gonow.no/GO/WebService/ContentServices_black.asmx?wsdl	gonow.no	Norway
+5582	http://billing-pilot.mobil.telenor.no/wbg/jsp/wsdl.jsp	telenor.no	Norway
+5583	http://202.61.51.115:14647/BS_JobAlert/JobAlert.asmx?WSDL	202.61.51.115	Pakistan
+5584	http://itorg.pl/api/BlogImporter.asmx?wsdl	itorg.pl	Poland
+5585	http://dstoolpia.co.kr/product/WebService.asmx?WSDL	dstoolpia.co.kr	Republic of Korea
+5586	http://isblog.net/ServiceMemberCheck.asmx?WSDL	isblog.net	Republic of Korea
+5587	http://www.ozon.ru/webservice/webservice.asmx?WSDL	ozon.ru	Russian Federation
+5588	http://ati.su/Trace/ATIGeoService.asmx?WSDL	ati.su	Russian Federation
+5589	http://www.piflar.com/_vti_bin/People.asmx?wsdl	piflar.com	Slovenia
+5590	http://www.piflar.com/_vti_bin/Authentication.asmx?wsdl	piflar.com	Slovenia
+5591	http://www.geoservicios.com/V1.0/sgeo/sgeo.asmx?wsdl	geoservicios.com	Spain
+5592	http://ws.e-mision.net/cualesmiip.asmx?wsdl	e-mision.net	United States
+5593	http://fotballmagasinet.no/payex/wsdl/external.payex.com-pxaccount.wsdl	payex.com	Sweden
+5594	http://fotballmagasinet.no/payex/wsdl/external.payex.com-pxprint.wsdl	payex.com	Sweden
+5595	http://fotballmagasinet.no/payex/wsdl/external.payex.com-pxsms.wsdl	payex.com	Sweden
+5596	http://www.internolix.ch/Shop.asmx?WSDL	internolix.ch	Switzerland
+5597	http://www.internolix.ch/VXService2.asmx?WSDL	internolix.ch	Switzerland
+5598	http://nactem.mib.man.ac.uk:8082/SentenceBreaker/SentBreakerService?wsdl	man.ac.uk	United Kingdom
+5599	http://phoebus.cs.man.ac.uk:1977/axis/services/references.omim.derived?wsdl	man.ac.uk	United Kingdom
+5600	http://phoebus.cs.man.ac.uk:1977/axis/services/cabri___plasmids.dsmz_plasmid.derived?wsdl	man.ac.uk	United Kingdom
+5601	http://phoebus.cs.man.ac.uk:1977/axis/services/protsequence.bcipep.derived?wsdl	man.ac.uk	United Kingdom
+5602	http://phoebus.cs.man.ac.uk:1977/axis/services/dnarelated.tfmatrix.derived?wsdl	man.ac.uk	United Kingdom
+5603	http://phoebus.cs.man.ac.uk:1977/axis/services/cabri___fungi_and_yeasts.dsmz_fungi.derived?wsdl	man.ac.uk	United Kingdom
+5604	http://phoebus.cs.man.ac.uk:1977/axis/services/cabri___plasmids.nccb_plasmid.derived?wsdl	man.ac.uk	United Kingdom
+5605	http://phoebus.cs.man.ac.uk:1977/axis/services/mutations.heredsphero.derived?wsdl	man.ac.uk	United Kingdom
+5606	http://www.esendex.com/secure/messenger/soap/AccountEventHandler.asmx?wsdl	esendex.com	United Kingdom
+5607	http://smirkboard.herts.ac.uk:8080/mcqfm/McqfmService?wsdl	herts.ac.uk	United Kingdom
+5608	http://qos.octopusmt.com/service1.asmx?WSDL	octopusmt.com	United Kingdom
+5609	http://www.selfcast.com/WebServices/ListingService.asmx?WSDL	selfcast.com	United Kingdom
+5610	http://www.africansafariweb.co.uk/SiteSearch.asmx?WSDL	africansafariweb.co.uk	United Kingdom
+5611	http://www.cruisethegalapagos.co.uk/SiteSearch.asmx?WSDL	cruisethegalapagos.co.uk	United Kingdom
+5612	http://www.kiliclimbs.co.uk/SiteSearch.asmx?WSDL	kiliclimbs.co.uk	United Kingdom
+5613	http://content.metropix.com/mtpix/propertyservices.asmx?wsdl	metropix.com	United Kingdom
+5614	http://services.pickabook.co.uk/service.asmx?WSDL	pickabook.co.uk	United Kingdom
+5615	http://www.tribes.co.uk/SiteSearch.asmx?WSDL	tribes.co.uk	United Kingdom
+5616	http://www.tribestravel.com/SiteSearch.asmx?WSDL	tribestravel.com	United Kingdom
+5617	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Cost%20Modeling%20for%20Manufacturing%20Systems/Total%20Cost%20Analysis	vanguardsw.com	United States
+5618	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Operations/Logistics/Distribution%20Cost%20Optimization%20with%20Uncertain%20Demands	vanguardsw.com	United States
+5619	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Operations/Inventory%20Management/EOQ%20Calculator	vanguardsw.com	United States
+5620	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Other/Environmental%20Cleanup/Site%20Cleanup	vanguardsw.com	United States
+5621	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Legal/Litigation%20Decision	vanguardsw.com	United States
+5622	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Finance/Accounting/Financial%20Projections	vanguardsw.com	United States
+5623	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Drug%20Portfolio/Drug%20E%20Marketing	vanguardsw.com	United States
+5624	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Quantitative%20Methods/Monte%20Carlo%20Simulation/Exponential%20distribution%20functions	vanguardsw.com	United States
+5625	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Other/Wagon/Raw%20Materials/Aluminum	vanguardsw.com	United States
+5626	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Engineering/Mechanical/Bike%20Race%20Simulation	vanguardsw.com	United States
+5627	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Drug%20Portfolio/Drug%20D	vanguardsw.com	United States
+5628	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Product%20Selection/Steps/Final%20System%20Implementation	vanguardsw.com	United States
+5629	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Product%20Selection/Teams/IT%20Team	vanguardsw.com	United States
+5630	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Quantitative%20Methods/Monte%20Carlo%20Simulation/Poisson%20distribution%20functions	vanguardsw.com	United States
+5631	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Wright%20Flyer/Wing	vanguardsw.com	United States
+5632	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Product%20Selection/Steps/Prototype%20Implementation	vanguardsw.com	United States
+5633	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Cost%20Modeling%20for%20Manufacturing%20Systems/Finance/Depreciation%20Schedules/NonResidential%20Real%20Property%20-%2010%20Year%20SL%20with%20Mid-Month%20Convention	vanguardsw.com	United States
+5634	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Other/Wagon/Raw%20Materials/Generic	vanguardsw.com	United States
+5635	http://wiki.vanguardsw.com/bin/ws.dsb?wsdl/Vanguard%20Examples/Company%20Simulation/Consumer%20Products%20Division/Division%20Total	vanguardsw.com	United States
+5636	http://wslite.strikeiron.com/WebServicesSearchLite01/WebServicesSearchLite.asmx?WSDL	strikeiron.com	United States
+5637	http://api.godashboard.com/AuthorizeAPI/ValidateVUS.asmx?WSDL	godashboard.com	United States
+5638	http://api.godashboard.com/CustomSurvey/CustomSurvey.asmx?WSDL	godashboard.com	United States
+5639	http://api.godashboard.com/PartnerAPI/Partner.asmx?WSDL	godashboard.com	United States
+5640	http://api.godashboard.com/CategorizationAPI/Category.asmx?WSDL	godashboard.com	United States
+5641	http://api.godashboard.com/SearchAPI/default.asmx?WSDL	godashboard.com	United States
+5642	http://api.godashboard.com/RecurrencePatternAPI/Service.asmx?WSDL	godashboard.com	United States
+5643	http://api.godashboard.com/authenticateapi/Authenticate.asmx?WSDL	godashboard.com	United States
+5644	http://api.godashboard.com/SiteConfigurationAPI/SiteConfiguration.asmx?WSDL	godashboard.com	United States
+5645	http://api.godashboard.com/PageModelAPI/PageModel.asmx?WSDL	godashboard.com	United States
+5646	http://chembank.broad.harvard.edu/webservices/ProjectWebService?wsdl	harvard.edu	United States
+5647	http://www.binarywave.com/_vti_bin/People.asmx?wsdl	binarywave.com	United States
+5648	http://water.sdsc.edu/search/internalWebservices/DatacartService.asmx?WSDL	sdsc.edu	United States
+5649	http://water.sdsc.edu/search/internalWebservices/AutoCompleteServiceHU.asmx?WSDL	sdsc.edu	United States
+5650	http://water.sdsc.edu/search/internalWebservices/StationsService.asmx?WSDL	sdsc.edu	United States
+5651	http://www.elumenotion.com/_vti_bin/SharepointEmailWS.asmx?wsdl	elumenotion.com	United States
+5652	http://www.elumenotion.com/_vti_bin/imaging.asmx?wsdl	elumenotion.com	United States
+5653	http://www.elumenotion.com/_vti_bin/alerts.asmx?wsdl	elumenotion.com	United States
+5654	http://www.elumenotion.com/_vti_bin/Authentication.asmx?wsdl	elumenotion.com	United States
+5655	http://widgets.flux.com/-/Commenting.asmx?WSDL	flux.com	United States
+5656	http://widgets.flux.com/-/Reporting.asmx?WSDL	flux.com	United States
+5657	http://widgets.flux.com/-/Content.asmx?WSDL	flux.com	United States
+5658	http://widgets.flux.com/-/Authentication.asmx?WSDL	flux.com	United States
+5659	http://widgets.flux.com/-/RelationshipManagement.asmx?WSDL	flux.com	United States
+5660	http://widgets.flux.com/-/UserFeed.asmx?WSDL	flux.com	United States
+5661	http://widgets.flux.com/-/UserManagement.asmx?WSDL	flux.com	United States
+5662	http://widgets.flux.com/-/ProfileManagement2.asmx?WSDL	flux.com	United States
+5663	http://widgets.flux.com/-/ProfileManagement.asmx?WSDL	flux.com	United States
+5664	http://widgets.flux.com/-/UserFeed2.asmx?WSDL	flux.com	United States
+5665	http://widgets.flux.com/-/Content2.asmx?WSDL	flux.com	United States
+5666	http://widgets.flux.com/-/Commenting2.asmx?WSDL	flux.com	United States
+5667	http://widgets.flux.com/-/Rating.asmx?WSDL	flux.com	United States
+5668	http://capstone.wou.edu/_vti_bin/Lists.asmx?wsdl	wou.edu	United States
+5669	http://vacationsource.com/ResortContentService?wsdl	vacationsource.com	United States
+5670	http://vacationsource.com/CardProcessingService?wsdl	vacationsource.com	United States
+5671	http://vacationsource.com/SendResortEmailService?wsdl	vacationsource.com	United States
+5672	http://vacationsource.com/PostalCodeService?wsdl	vacationsource.com	United States
+5673	http://vacationsource.com/PopupContentService?wsdl	vacationsource.com	United States
+5674	http://vacationsource.com/FavoritesService?wsdl	vacationsource.com	United States
+5675	http://devel.ssdt.nwoca.org/SSIDService/services/SSIDWS?wsdl	nwoca.org	United States
+5676	http://devel.ssdt.nwoca.org/emissoap/services/Version?wsdl	nwoca.org	United States
+5677	http://c21accessamerica.com/Services/PropertyService.asmx?WSDL	c21accessamerica.com	United States
+5678	http://c21accessamerica.com/Services/OfficeService.asmx?WSDL	c21accessamerica.com	United States
+5679	http://c21accessamerica.com/Services/UserSocialNetworkService.asmx?WSDL	c21accessamerica.com	United States
+5680	http://c21accessamerica.com/Services/SocialNetworkService.asmx?WSDL	c21accessamerica.com	United States
+5681	http://www.c21bridgeportct.com/Services/UserSocialNetworkService.asmx?WSDL	c21bridgeportct.com	United States
+5682	http://www.c21bridgeportct.com/Services/OfficeService.asmx?WSDL	c21bridgeportct.com	United States
+5683	http://www.c21bridgeportct.com/Services/SocialNetworkService.asmx?WSDL	c21bridgeportct.com	United States
+5684	http://www.c21bridgeportct.com/Services/PropertyService.asmx?WSDL	c21bridgeportct.com	United States
+5685	http://www.c21hartfordct.com/Services/UserSocialNetworkService.asmx?WSDL	c21hartfordct.com	United States
+5686	http://www.c21hartfordct.com/Services/SocialNetworkService.asmx?WSDL	c21hartfordct.com	United States
+5687	http://www.c21hartfordct.com/Services/OfficeService.asmx?WSDL	c21hartfordct.com	United States
+5688	http://www.c21hartfordct.com/Services/PropertyService.asmx?WSDL	c21hartfordct.com	United States
+5689	http://www.c21meridenct.com/Services/PropertyService.asmx?WSDL	c21meridenct.com	United States
+5690	http://www.c21meridenct.com/Services/OfficeService.asmx?WSDL	c21meridenct.com	United States
+5691	http://www.c21meridenct.com/Services/SocialNetworkService.asmx?WSDL	c21meridenct.com	United States
+5692	http://www.c21meridenct.com/Services/UserSocialNetworkService.asmx?WSDL	c21meridenct.com	United States
+5693	http://www.c21newhavenct.com/Services/OfficeService.asmx?WSDL	c21newhavenct.com	United States
+5694	http://www.c21newhavenct.com/Services/PropertyService.asmx?WSDL	c21newhavenct.com	United States
+5695	http://www.c21newhavenct.com/Services/UserSocialNetworkService.asmx?WSDL	c21newhavenct.com	United States
+5696	http://www.c21newhavenct.com/Services/SocialNetworkService.asmx?WSDL	c21newhavenct.com	United States
+5697	http://www.c21wethersfieldct.com/Services/OfficeService.asmx?WSDL	c21wethersfieldct.com	United States
+5698	http://www.c21wethersfieldct.com/Services/UserSocialNetworkService.asmx?WSDL	c21wethersfieldct.com	United States
+5699	http://www.c21wethersfieldct.com/Services/SocialNetworkService.asmx?WSDL	c21wethersfieldct.com	United States
+5700	http://www.c21wethersfieldct.com/Services/PropertyService.asmx?WSDL	c21wethersfieldct.com	United States
+5701	http://www.century21northhomes.com/Services/UserSocialNetworkService.asmx?WSDL	century21northhomes.com	United States
+5702	http://www.century21northhomes.com/Services/SocialNetworkService.asmx?WSDL	century21northhomes.com	United States
+5703	http://www.century21northhomes.com/Services/OfficeService.asmx?WSDL	century21northhomes.com	United States
+5704	http://www.century21northhomes.com/Services/PropertyService.asmx?WSDL	century21northhomes.com	United States
+5705	http://century21realestatecenter.com/Services/UserSocialNetworkService.asmx?WSDL	century21realestatecenter.com	United States
+5706	http://century21realestatecenter.com/Services/SocialNetworkService.asmx?WSDL	century21realestatecenter.com	United States
+5707	http://century21realestatecenter.com/Services/PropertyService.asmx?WSDL	century21realestatecenter.com	United States
+5708	http://century21realestatecenter.com/Services/OfficeService.asmx?WSDL	century21realestatecenter.com	United States
+5709	http://www.pjgoldhomes.com/Services/PropertyService.asmx?WSDL	pjgoldhomes.com	United States
+5710	http://www.pjgoldhomes.com/Services/UserSocialNetworkService.asmx?WSDL	pjgoldhomes.com	United States
+5711	http://www.pjgoldhomes.com/Services/OfficeService.asmx?WSDL	pjgoldhomes.com	United States
+5712	http://www.pjgoldhomes.com/Services/SocialNetworkService.asmx?WSDL	pjgoldhomes.com	United States
+5713	http://www.realestatenewport.com/Services/UserSocialNetworkService.asmx?WSDL	realestatenewport.com	United States
+5714	http://www.realestatenewport.com/Services/OfficeService.asmx?WSDL	realestatenewport.com	United States
+5715	http://www.realestatenewport.com/Services/PropertyService.asmx?WSDL	realestatenewport.com	United States
+5716	http://www.realestatenewport.com/Services/SocialNetworkService.asmx?WSDL	realestatenewport.com	United States
+5717	http://www.realestatesouthington.com/Services/UserSocialNetworkService.asmx?WSDL	realestatesouthington.com	United States
+5718	http://www.realestatesouthington.com/Services/OfficeService.asmx?WSDL	realestatesouthington.com	United States
+5719	http://www.realestatesouthington.com/Services/SocialNetworkService.asmx?WSDL	realestatesouthington.com	United States
+5720	http://www.realestatesouthington.com/Services/PropertyService.asmx?WSDL	realestatesouthington.com	United States
+5721	http://www.thescottagents.com/Services/PropertyService.asmx?WSDL	thescottagents.com	United States
+5722	http://www.thescottagents.com/Services/UserSocialNetworkService.asmx?WSDL	thescottagents.com	United States
+5723	http://www.thescottagents.com/Services/SocialNetworkService.asmx?WSDL	thescottagents.com	United States
+5724	http://www.thescottagents.com/Services/OfficeService.asmx?WSDL	thescottagents.com	United States
+5725	http://demo.openlinksw.com/services/services.wsdl	openlinksw.com	United States
+5726	http://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL	dataaccess.com	United States
+5727	http://www.dataaccess.com/webservicesserver/textcasing.wso?WSDL	dataaccess.com	United States
+5728	http://www.dlapiper.com/FCWSite/DlaPiperWS/Services.asmx?WSDL	dlapiper.com	United States
+5729	http://www.dlapiper.com/FCWSite/DlaPiperWS/Attorneys.asmx?WSDL	dlapiper.com	United States
+5730	http://webservices.esigma.com/services/Publish?WSDL	esigma.com	United States
+5731	http://webservices.esigma.com/services/Version?wsdl	esigma.com	United States
+5732	http://www.broad.mit.edu/webservices/genecruiser/services/Version?wsdl	mit.edu	United States
+5733	http://www.broad.mit.edu/webservices/genecruiser/services/Annotation?wsdl	mit.edu	United States
+5734	http://cactus.nci.nih.gov/lookup/lookup-soap.wsdl	nih.gov	United States
+5735	http://www.playarabbit.biz/WebService/ShareMessageService.asmx?WSDL	playarabbit.biz	United States
+5736	http://www.playarabbit.biz/WebService/ContentJumpService.asmx?WSDL	playarabbit.biz	United States
+5737	http://comcast.vehix.com/(A(QNI7vwJryAEkAAAAOWQ5MjI1NWQtNTFlMS00ZTgyLTkxZWMtNmQ4NmIzMmQ3YzI30))/_webservices/ObjectSerializationRequests.asmx?WSDL	vehix.com	United States
+5738	http://comcast.vehix.com/(A(CzMeCghUyAEkAAAAZmZmYWQ0NGQtYjBjYi00YTFjLWE4NjgtYmM0YTlhMWI0ZjRj0))/_webservices/researchUsedVehicleValuesRequests.asmx?WSDL	vehix.com	United States
+5739	http://www.zeemaps.com/services/Geocode?wsdl	zeemaps.com	United States
+5740	http://www.zeemaps.com/services/Version?wsdl	zeemaps.com	United States
+5741	http://6channel6.com/WebService/ReminderService.asmx?WSDL	6channel6.com	United States
+5742	http://6channel6.com/WebService/AlertService.asmx?WSDL	6channel6.com	United States
+5743	http://www.authorstream.com/Services/Test.asmx?WSDL	authorstream.com	United States
+5744	http://consultacpf.com/webservices/test-drive/consultacpf.asmx?WSDL	consultacpf.com	United States
+5745	http://consultacpf.com/webservices/consultacpf.asmx?WSDL	consultacpf.com	United States
+5746	http://www.geekdork.com/webservices/RandomStrings.asmx?WSDL	geekdork.com	United States
+5747	http://www.geekdork.com/webservices/EarthQuakes.asmx?WSDL	geekdork.com	United States
+5748	http://hosca.com/blog/api/BlogImporter.asmx?WSDL	hosca.com	United States
+5749	http://community.i4u.com/WebService/ShareMessageService.asmx?WSDL	i4u.com	United States
+5750	http://community.i4u.com/WebService/ContentActionService.asmx?WSDL	i4u.com	United States
+5751	http://www.menznerhardwoods.com/php/ws/woodspeciesWS.php?wsdl	menznerhardwoods.com	United States
+5752	http://www.menznerhardwoods.com/php/ws/productWS.php?wsdl	menznerhardwoods.com	United States
+5753	http://privacy.nestleusa.com/policy.asmx?WSDL	nestleusa.com	United States
+5754	http://www.ribeaches.org/xml/ws/ws_beach_closures.cfc?wsdl	ribeaches.org	United States
+5755	http://www.ribeaches.org/xml/ws/ws_beach_news.cfc?wsdl	ribeaches.org	United States
+5756	http://ryanrusson.com/ws/WS.asmx?wsdl	ryanrusson.com	United States
+5757	http://www.ryanrusson.com/ws/HelloWorld.asmx?WSDL	ryanrusson.com	United States
+5758	http://www.pocketsoap.com/weblog/2006/08/dofoo.wsdl	sample.org	United States
+5759	http://www.stagegold.com/services/videos.asmx?WSDL	stagegold.com	United States
+5760	http://www.stgregorioschurchdc.org/wsdl/Calendar.wsdl	stgregorioschurchdc.org	United States
+5761	http://www.stgregorioschurchdc.org/wsdl/Bible.wsdl	stgregorioschurchdc.org	United States
+5762	http://devoweb.accuweather.com/mservices/partnerinfo.asmx?WSDL	accuweather.com	United States
+5763	http://license.agilix.com/backpack/backpacklicense.asmx?WSDL	agilix.com	United States
+5764	http://lws.aspnetdating.com/lws.asmx?wsdl	aspnetdating.com	United States
+5765	http://www2.autoplaza.com.mx/ws/wsanuncio/wsautos.asmx?WSDL	autoplaza.com.mx	United States
+5766	http://bagsonnet.com/Services/BagsOnNet.asmx?WSDL	bagsonnet.com	United States
+5767	http://www.bethesdachurch.info/Global/SecureLogin.asmx?WSDL	bethesdachurch.info	United States
+5768	http://www.brethrenwoods.org/BW-Web/Global/SecureLogin.asmx?WSDL	brethrenwoods.org	United States
+5769	http://buxco.com/AjaxService.asmx?WSDL	buxco.com	United States
+5770	http://www.campingfellowship.org/ICF-Web/Global/SecureLogin.asmx?WSDL	campingfellowship.org	United States
+5771	http://www.campmotorsport.com/Global/SecureLogin.asmx?WSDL	campmotorsport.com	United States
+5772	http://www.campwise.com/CW-Web/Global/SecureLogin.asmx?WSDL	campwise.com	United States
+5773	http://ccsconnection.org/Global/SecureLogin.asmx?WSDL	ccsconnection.org	United States
+5774	http://www.clintonframemc.us/CFMC-Web/Global/SecureLogin.asmx?WSDL	clintonframemc.us	United States
+5775	http://cspdc.org/Global/SecureLogin.asmx?WSDL	cspdc.org	United States
+5776	http://asp.dotnetheaven.com/webservices/samples/ServerInterface/cs/Server/serverinterface.asmx?WSDL	dotnetheaven.com	United States
+5777	http://emhs.net/Global/SecureLogin.asmx?WSDL	emhs.net	United States
+5778	http://www.ezchalk.com/v2/test-server.php?wsdl	ezchalk.com	United States
+5779	http://feedvalidator.org/RSSValidator.wsdl	feedvalidator.org	United States
+5780	http://fhbc4him.org/Global/SecureLogin.asmx?WSDL	fhbc4him.org	United States
+5781	http://www.friendship-industries.com/FI-Web/Global/SecureLogin.asmx?WSDL	friendship-industries.com	United States
+5782	http://www.gpsxml.com/gpsxml/service.asmx?WSDL	gpsxml.com	United States
+5783	http://www.guerrillatools.net/webservices/index.php?wsdl	guerrillatools.net	United States
+5784	http://www.highlandretreat.org/HR-Web/Global/SecureLogin.asmx?WSDL	highlandretreat.org	United States
+5785	http://holmenlutheranchurch.org/Global/SecureLogin.asmx?WSDL	holmenlutheranchurch.org	United States
+5786	http://ws.houseofdev.com/currencyrates.asmx?wsdl	houseofdev.com	United States
+5787	http://www.hrvampo.org/MPO-Web/Global/SecureLogin.asmx?WSDL	hrvampo.org	United States
+5788	http://insightfultraining.com/TrackMyIP/TrackMyIPWS.asmx?WSDL	insightfultraining.com	United States
+5789	http://www.iventa.com/AsyncService.asmx?WSDL	iventa.com	United States
+5790	http://www.juliebame.com/Global/SecureLogin.asmx?WSDL	juliebame.com	United States
+5791	http://www.lorasallsportscamps.com/Global/SecureLogin.asmx?WSDL	lorasallsportscamps.com	United States
+5792	http://pictures.macrosysinc.net/WebServices/FileService.asmx?WSDL	macrosysinc.net	United States
+5793	http://www.marketingpartners.us/MP-Web/Global/SecureLogin.asmx?WSDL	marketingpartners.us	United States
+5794	http://millcreekcob.org/Global/SecureLogin.asmx?WSDL	millcreekcob.org	United States
+5795	http://www.moyerschicks.com/MC-Web/Global/SecureLogin.asmx?WSDL	moyerschicks.com	United States
+5796	http://nastfsecurityregistry.org/aloa/aloa.wsdl	nastfsecurityregistry.org	United States
+5797	http://wsext.ncm.com/emailvalidation.asmx?WSDL	ncm.com	United States
+5798	http://www.nhuynhduc.com/tvan/sendmail.php?wsdl	nhuynhduc.com	United States
+5799	http://pfweb.org/Global/SecureLogin.asmx?WSDL	pfweb.org	United States
+5800	http://incenter.medical.philips.com/LiveServices/DocMan.asmx?wsdl	philips.com	Germany
+5801	http://positive-radio.com/Global/SecureLogin.asmx?WSDL	positive-radio.com	United States
+5802	http://www.pvfcu.org/PVFCU-Web/Global/SecureLogin.asmx?WSDL	pvfcu.org	United States
+5803	http://www.recsoft.net/RecSoft-Web/Global/SecureLogin.asmx?WSDL	recsoft.net	United States
+5804	http://webquotes.reluctantdba.com/WebQuotes.asmx?wsdl	reluctantdba.com	United States
+5805	http://infiniscale.safeoffsite.com.au/RDSS/InfiServer/Authentication/wsUsers.asmx?WSDL	safeoffsite.com.au	United States
+5806	http://www.sceducationlottery.com/webservices/get.asmx?wsdl	sceducationlottery.com	United States
+5807	http://staging.previsor.com/integration/wsdl/UpdateService.wsdl	select2perform.com	United States
+5808	http://www.selfsurveys.com/ws.asmx?WSDL	selfsurveys.com	United States
+5809	http://natedesk.servebeer.com/fstorm/Service.asmx?WSDL	servebeer.com	United States
+5810	http://shortlynx.com/shortlynx.asmx?wsdl	shortlynx.com	United States
+5811	http://www.slashbin.org/tools/cfm/flashforms/flashcfquery/getMembersRS.cfc?wsdl	slashbin.org	United States
+5812	http://www.springcreeknaz.org/SCN-Web/Global/SecureLogin.asmx?WSDL	springcreeknaz.org	United States
+5813	http://www.spsa.biz/SPSA-Web/Global/SecureLogin.asmx?WSDL	spsa.biz	United States
+5814	http://stauntonfirstpres.org/Global/SecureLogin.asmx?WSDL	stauntonfirstpres.org	United States
+5815	http://external.stitchamerica.com/ws/productinformation.asmx?WSDL	stitchamerica.com	United States
+5816	http://studentmasjid.com/Quran/QuranService.wsdl	studentmasjid.com	Canada
+5817	http://theboobiesite.com/includes/tbs.asmx?WSDL	theboobiesite.com	United States
+5818	http://www.the-londoner.com/sport_events.asmx?WSDL	the-londoner.com	United States
+5819	http://theplasticbags.com/Services/BagsOnNet.asmx?WSDL	theplasticbags.com	United States
+5820	http://www.vareliefsale.com/VRS-Web/Global/SecureLogin.asmx?WSDL	vareliefsale.com	United States
+5821	http://www.vfri.org/VFRI-Web/Global/SecureLogin.asmx?WSDL	vfri.org	United States
+5822	http://www.vmrc.org/VMRCPortal/Global/SecureLogin.asmx?WSDL	vmrc.org	United States
+5823	http://www.wysecommunicator.com/Global/SecureLogin.asmx?wsdl	wysecommunicator.com	United States
+5824	http://www.wysesolutions.net/WS-Web/Global/SecureLogin.asmx?WSDL	wysesolutions.net	United States

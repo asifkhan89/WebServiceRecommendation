@@ -1,0 +1,120 @@
+DocName: http://xml.dev.hoteldo.com/HotelDoInterface.asmx?WSDL
+<wsdl:definitions xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://xml.prod.hoteldo.com/HotelDoInterface" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetnamespace="http://xml.prod.hoteldo.com/HotelDoInterface" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"> 
+ <wsdl:types> 
+  <s:schema elementformdefault="qualified" targetnamespace="http://xml.prod.hoteldo.com/HotelDoInterface"> 
+   <s:element name="XMLMessage"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="sXML" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="XMLMessageResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="XMLMessageResult" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="string" nillable="true" type="s:string" /> 
+  </s:schema> 
+ </wsdl:types> 
+ <wsdl:message name="XMLMessageSoapIn"> 
+  <wsdl:part name="parameters" element="tns:XMLMessage" /> 
+ </wsdl:message> 
+ <wsdl:message name="XMLMessageSoapOut"> 
+  <wsdl:part name="parameters" element="tns:XMLMessageResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="XMLMessageHttpGetIn"> 
+  <wsdl:part name="sXML" type="s:string" /> 
+ </wsdl:message> 
+ <wsdl:message name="XMLMessageHttpGetOut"> 
+  <wsdl:part name="Body" element="tns:string" /> 
+ </wsdl:message> 
+ <wsdl:message name="XMLMessageHttpPostIn"> 
+  <wsdl:part name="sXML" type="s:string" /> 
+ </wsdl:message> 
+ <wsdl:message name="XMLMessageHttpPostOut"> 
+  <wsdl:part name="Body" element="tns:string" /> 
+ </wsdl:message> 
+ <wsdl:porttype name="HotelDoInterfaceSoap"> 
+  <wsdl:operation name="XMLMessage"> 
+   <wsdl:input message="tns:XMLMessageSoapIn" /> 
+   <wsdl:output message="tns:XMLMessageSoapOut" /> 
+  </wsdl:operation> 
+ </wsdl:porttype> 
+ <wsdl:porttype name="HotelDoInterfaceHttpGet"> 
+  <wsdl:operation name="XMLMessage"> 
+   <wsdl:input message="tns:XMLMessageHttpGetIn" /> 
+   <wsdl:output message="tns:XMLMessageHttpGetOut" /> 
+  </wsdl:operation> 
+ </wsdl:porttype> 
+ <wsdl:porttype name="HotelDoInterfaceHttpPost"> 
+  <wsdl:operation name="XMLMessage"> 
+   <wsdl:input message="tns:XMLMessageHttpPostIn" /> 
+   <wsdl:output message="tns:XMLMessageHttpPostOut" /> 
+  </wsdl:operation> 
+ </wsdl:porttype> 
+ <wsdl:binding name="HotelDoInterfaceSoap" type="tns:HotelDoInterfaceSoap"> 
+  <soap:binding transport="http://schemas.xmlsoap.org/soap/http" /> 
+  <wsdl:operation name="XMLMessage"> 
+   <soap:operation soapaction="http://xml.prod.hoteldo.com/HotelDoInterface/XMLMessage" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:binding name="HotelDoInterfaceSoap12" type="tns:HotelDoInterfaceSoap"> 
+  <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" /> 
+  <wsdl:operation name="XMLMessage"> 
+   <soap12:operation soapaction="http://xml.prod.hoteldo.com/HotelDoInterface/XMLMessage" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:binding name="HotelDoInterfaceHttpGet" type="tns:HotelDoInterfaceHttpGet"> 
+  <http:binding verb="GET" /> 
+  <wsdl:operation name="XMLMessage"> 
+   <http:operation location="/XMLMessage" /> 
+   <wsdl:input> 
+    <http:urlencoded /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <mime:mimexml part="Body" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:binding name="HotelDoInterfaceHttpPost" type="tns:HotelDoInterfaceHttpPost"> 
+  <http:binding verb="POST" /> 
+  <wsdl:operation name="XMLMessage"> 
+   <http:operation location="/XMLMessage" /> 
+   <wsdl:input> 
+    <mime:content type="application/x-www-form-urlencoded" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <mime:mimexml part="Body" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:service name="HotelDoInterface"> 
+  <wsdl:port name="HotelDoInterfaceSoap" binding="tns:HotelDoInterfaceSoap"> 
+   <soap:address location="http://xml.dev.hoteldo.com/HotelDoInterface.asmx" /> 
+  </wsdl:port> 
+  <wsdl:port name="HotelDoInterfaceSoap12" binding="tns:HotelDoInterfaceSoap12"> 
+   <soap12:address location="http://xml.dev.hoteldo.com/HotelDoInterface.asmx" /> 
+  </wsdl:port> 
+  <wsdl:port name="HotelDoInterfaceHttpGet" binding="tns:HotelDoInterfaceHttpGet"> 
+   <http:address location="http://xml.dev.hoteldo.com/HotelDoInterface.asmx" /> 
+  </wsdl:port> 
+  <wsdl:port name="HotelDoInterfaceHttpPost" binding="tns:HotelDoInterfaceHttpPost"> 
+   <http:address location="http://xml.dev.hoteldo.com/HotelDoInterface.asmx" /> 
+  </wsdl:port> 
+ </wsdl:service> 
+</wsdl:definitions> 

@@ -1,0 +1,543 @@
+DocName: http://www.ssat.com.ar/googleearth1.1/service.asmx?wsdl
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetnamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"> 
+ <wsdl:types> 
+  <s:schema elementformdefault="qualified" targetnamespace="http://tempuri.org/"> 
+   <s:element name="Login"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="usr" type="s:string" /> 
+      <s:element minoccurs="0" maxoccurs="1" name="pass" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="LoginResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="LoginResult" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilDatos"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="datoIn" type="s:string" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="Movil" type="s:boolean" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilDatosResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="MovilDatosResult"> 
+       <s:complextype> 
+        <s:sequence> 
+         <s:element ref="s:schema" /> 
+         <s:any /> 
+        </s:sequence> 
+       </s:complextype> 
+      </s:element> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilRecorrido"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="mov" type="s:string" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="fecDesde" type="s:dateTime" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="fecHasta" type="s:dateTime" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilRecorridoResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="MovilRecorridoResult"> 
+       <s:complextype> 
+        <s:sequence> 
+         <s:element ref="s:schema" /> 
+         <s:any /> 
+        </s:sequence> 
+       </s:complextype> 
+      </s:element> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="ObtenerRuta"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="1" maxoccurs="1" name="c" type="s:int" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="r" type="s:int" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="ObtenerRutaResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="ObtenerRutaResult"> 
+       <s:complextype> 
+        <s:sequence> 
+         <s:element ref="s:schema" /> 
+         <s:any /> 
+        </s:sequence> 
+       </s:complextype> 
+      </s:element> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilRuta"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="m" type="s:string" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="c" type="s:int" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilRutaResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="MovilRutaResult" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="AsignarMovilRuta"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="c" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="AsignarMovilRutaResponse"> 
+    <s:complextype /> 
+   </s:element> 
+   <s:element name="ObtenerDescRuta"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="1" maxoccurs="1" name="c" type="s:int" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="ObtenerDescRutaResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="ObtenerDescRutaResult" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="ObtenerPromedio"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="1" maxoccurs="1" name="c" type="s:int" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="ObtenerPromedioResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="ObtenerPromedioResult"> 
+       <s:complextype> 
+        <s:sequence> 
+         <s:element ref="s:schema" /> 
+         <s:any /> 
+        </s:sequence> 
+       </s:complextype> 
+      </s:element> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="Movilcombustible"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="mov" type="s:string" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="fecDesde" type="s:dateTime" /> 
+      <s:element minoccurs="1" maxoccurs="1" name="fecHasta" type="s:dateTime" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="MovilcombustibleResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="1" maxoccurs="1" name="MovilcombustibleResult" type="s:int" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="Bye"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="e" type="s:string" /> 
+      <s:element minoccurs="0" maxoccurs="1" name="pass" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+   <s:element name="ByeResponse"> 
+    <s:complextype /> 
+   </s:element> 
+   <s:element name="ObtenerLink"> 
+    <s:complextype /> 
+   </s:element> 
+   <s:element name="ObtenerLinkResponse"> 
+    <s:complextype> 
+     <s:sequence> 
+      <s:element minoccurs="0" maxoccurs="1" name="ObtenerLinkResult" type="s:string" /> 
+     </s:sequence> 
+    </s:complextype> 
+   </s:element> 
+  </s:schema> 
+ </wsdl:types> 
+ <wsdl:message name="LoginSoapIn"> 
+  <wsdl:part name="parameters" element="tns:Login" /> 
+ </wsdl:message> 
+ <wsdl:message name="LoginSoapOut"> 
+  <wsdl:part name="parameters" element="tns:LoginResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilDatosSoapIn"> 
+  <wsdl:part name="parameters" element="tns:MovilDatos" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilDatosSoapOut"> 
+  <wsdl:part name="parameters" element="tns:MovilDatosResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilRecorridoSoapIn"> 
+  <wsdl:part name="parameters" element="tns:MovilRecorrido" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilRecorridoSoapOut"> 
+  <wsdl:part name="parameters" element="tns:MovilRecorridoResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerRutaSoapIn"> 
+  <wsdl:part name="parameters" element="tns:ObtenerRuta" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerRutaSoapOut"> 
+  <wsdl:part name="parameters" element="tns:ObtenerRutaResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilRutaSoapIn"> 
+  <wsdl:part name="parameters" element="tns:MovilRuta" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilRutaSoapOut"> 
+  <wsdl:part name="parameters" element="tns:MovilRutaResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="AsignarMovilRutaSoapIn"> 
+  <wsdl:part name="parameters" element="tns:AsignarMovilRuta" /> 
+ </wsdl:message> 
+ <wsdl:message name="AsignarMovilRutaSoapOut"> 
+  <wsdl:part name="parameters" element="tns:AsignarMovilRutaResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerDescRutaSoapIn"> 
+  <wsdl:part name="parameters" element="tns:ObtenerDescRuta" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerDescRutaSoapOut"> 
+  <wsdl:part name="parameters" element="tns:ObtenerDescRutaResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerPromedioSoapIn"> 
+  <wsdl:part name="parameters" element="tns:ObtenerPromedio" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerPromedioSoapOut"> 
+  <wsdl:part name="parameters" element="tns:ObtenerPromedioResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilcombustibleSoapIn"> 
+  <wsdl:part name="parameters" element="tns:Movilcombustible" /> 
+ </wsdl:message> 
+ <wsdl:message name="MovilcombustibleSoapOut"> 
+  <wsdl:part name="parameters" element="tns:MovilcombustibleResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="ByeSoapIn"> 
+  <wsdl:part name="parameters" element="tns:Bye" /> 
+ </wsdl:message> 
+ <wsdl:message name="ByeSoapOut"> 
+  <wsdl:part name="parameters" element="tns:ByeResponse" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerLinkSoapIn"> 
+  <wsdl:part name="parameters" element="tns:ObtenerLink" /> 
+ </wsdl:message> 
+ <wsdl:message name="ObtenerLinkSoapOut"> 
+  <wsdl:part name="parameters" element="tns:ObtenerLinkResponse" /> 
+ </wsdl:message> 
+ <wsdl:porttype name="ServiceSoap"> 
+  <wsdl:operation name="Login"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Login
+   </wsdl:documentation> 
+   <wsdl:input message="tns:LoginSoapIn" /> 
+   <wsdl:output message="tns:LoginSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilDatos"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Datos del Movil
+   </wsdl:documentation> 
+   <wsdl:input message="tns:MovilDatosSoapIn" /> 
+   <wsdl:output message="tns:MovilDatosSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilRecorrido"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Recorrido del Movil
+   </wsdl:documentation> 
+   <wsdl:input message="tns:MovilRecorridoSoapIn" /> 
+   <wsdl:output message="tns:MovilRecorridoSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerRuta"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Obtener Ruta
+   </wsdl:documentation> 
+   <wsdl:input message="tns:ObtenerRutaSoapIn" /> 
+   <wsdl:output message="tns:ObtenerRutaSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilRuta"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Rutas asignadas
+   </wsdl:documentation> 
+   <wsdl:input message="tns:MovilRutaSoapIn" /> 
+   <wsdl:output message="tns:MovilRutaSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="AsignarMovilRuta"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Asignar Ruta
+   </wsdl:documentation> 
+   <wsdl:input message="tns:AsignarMovilRutaSoapIn" /> 
+   <wsdl:output message="tns:AsignarMovilRutaSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerDescRuta"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Obtener Descripciones Ruta
+   </wsdl:documentation> 
+   <wsdl:input message="tns:ObtenerDescRutaSoapIn" /> 
+   <wsdl:output message="tns:ObtenerDescRutaSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerPromedio"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Obtener Promedios
+   </wsdl:documentation> 
+   <wsdl:input message="tns:ObtenerPromedioSoapIn" /> 
+   <wsdl:output message="tns:ObtenerPromedioSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="Movilcombustible"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Recorrido del Movil
+   </wsdl:documentation> 
+   <wsdl:input message="tns:MovilcombustibleSoapIn" /> 
+   <wsdl:output message="tns:MovilcombustibleSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="Bye"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Recorrido del Movil
+   </wsdl:documentation> 
+   <wsdl:input message="tns:ByeSoapIn" /> 
+   <wsdl:output message="tns:ByeSoapOut" /> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerLink"> 
+   <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    Obtener Link Descarga
+   </wsdl:documentation> 
+   <wsdl:input message="tns:ObtenerLinkSoapIn" /> 
+   <wsdl:output message="tns:ObtenerLinkSoapOut" /> 
+  </wsdl:operation> 
+ </wsdl:porttype> 
+ <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap"> 
+  <soap:binding transport="http://schemas.xmlsoap.org/soap/http" /> 
+  <wsdl:operation name="Login"> 
+   <soap:operation soapaction="http://tempuri.org/Login" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilDatos"> 
+   <soap:operation soapaction="http://tempuri.org/MovilDatos" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilRecorrido"> 
+   <soap:operation soapaction="http://tempuri.org/MovilRecorrido" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerRuta"> 
+   <soap:operation soapaction="http://tempuri.org/ObtenerRuta" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilRuta"> 
+   <soap:operation soapaction="http://tempuri.org/MovilRuta" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="AsignarMovilRuta"> 
+   <soap:operation soapaction="http://tempuri.org/AsignarMovilRuta" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerDescRuta"> 
+   <soap:operation soapaction="http://tempuri.org/ObtenerDescRuta" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerPromedio"> 
+   <soap:operation soapaction="http://tempuri.org/ObtenerPromedio" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="Movilcombustible"> 
+   <soap:operation soapaction="http://tempuri.org/Movilcombustible" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="Bye"> 
+   <soap:operation soapaction="http://tempuri.org/Bye" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerLink"> 
+   <soap:operation soapaction="http://tempuri.org/ObtenerLink" style="document" /> 
+   <wsdl:input> 
+    <soap:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap"> 
+  <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" /> 
+  <wsdl:operation name="Login"> 
+   <soap12:operation soapaction="http://tempuri.org/Login" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilDatos"> 
+   <soap12:operation soapaction="http://tempuri.org/MovilDatos" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilRecorrido"> 
+   <soap12:operation soapaction="http://tempuri.org/MovilRecorrido" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerRuta"> 
+   <soap12:operation soapaction="http://tempuri.org/ObtenerRuta" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="MovilRuta"> 
+   <soap12:operation soapaction="http://tempuri.org/MovilRuta" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="AsignarMovilRuta"> 
+   <soap12:operation soapaction="http://tempuri.org/AsignarMovilRuta" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerDescRuta"> 
+   <soap12:operation soapaction="http://tempuri.org/ObtenerDescRuta" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerPromedio"> 
+   <soap12:operation soapaction="http://tempuri.org/ObtenerPromedio" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="Movilcombustible"> 
+   <soap12:operation soapaction="http://tempuri.org/Movilcombustible" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="Bye"> 
+   <soap12:operation soapaction="http://tempuri.org/Bye" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+  <wsdl:operation name="ObtenerLink"> 
+   <soap12:operation soapaction="http://tempuri.org/ObtenerLink" style="document" /> 
+   <wsdl:input> 
+    <soap12:body use="literal" /> 
+   </wsdl:input> 
+   <wsdl:output> 
+    <soap12:body use="literal" /> 
+   </wsdl:output> 
+  </wsdl:operation> 
+ </wsdl:binding> 
+ <wsdl:service name="Service"> 
+  <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap"> 
+   <soap:address location="http://www.ssat.com.ar/googleearth1.1/service.asmx" /> 
+  </wsdl:port> 
+  <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12"> 
+   <soap12:address location="http://www.ssat.com.ar/googleearth1.1/service.asmx" /> 
+  </wsdl:port> 
+ </wsdl:service> 
+</wsdl:definitions> 
